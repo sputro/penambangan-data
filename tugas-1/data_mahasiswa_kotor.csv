@@ -1,0 +1,127 @@
+ID_Mahasiswa,Nama,Jenis_Kelamin,Program_Studi,Kota_Asal,Usia,IPK,Jam_Belajar_Mingguan,Kehadiran_Persen,Uang_Saku_Bulanan,Jumlah_SKS,Status_Beasiswa
+MHS112,Okta Lestari,Laki-laki,Sistem Informasi,Jakarta,20.0,3.32,16.3,94.3,2350000,18.0,Ya
+MHS102,Joko Nugroho,Perempuan,Sistem Informasi,,20.0,3.3,15.3,94.6,1850000,21.0,Tidak
+MHS077,Tono Lestari,LAKI-LAKI,Teknik Elektro,Tangerang,21.0,3.59,20.7,95.7,1350000,14.0,Ya
+MHS080,Kiki Rahma,Perempuan,SI,Bogor,22.0,2.51,6.6,69.5,,24.0,Tidak
+MHS041,Tono Hidayat,Laki-laki,Teknik Informatika,Bekasi,18.0,3.71,19.5,93.6,1050000,45.0,Tidak
+MHS023,Budi Utami,laki-laki,Manajemen,Depok,18.0,2.9,17.9,88.3,1750000,23.0,Tidak
+MHS042,Dewi Santoso,Laki-laki,Manajemen,Bogor,23.0,2.66,,85.0,1750000,,Tidak
+MHS050,Maya Wijaya,Laki-laki,Manajemen,Jakarta,19.0,2.73,7.2,86.7,1900000,24.0,Tidak
+MHS006,Kiki Utami,Perempuan,Sistem Informasi,Bekasi,18.0,2.75,13.5,80.3,Rp 25.000.000,19.0,Tidak
+MHS094,Dewi Pratama,Perempuan,Teknik Mesin,Jakarta,22.0,,14.6,91.7,2250000,23.0,Tidak
+MHS099,Gita Wijaya,Laki-laki,Manajemen,N/A,21.0,2.86,10.6,,850000,18.0,Tidak
+MHS053,Putri Rahma,Perempuan,Teknik Informatika,Bekasi,21.0,3.52,14.6,77.8,1800000,23.0,Tidak
+MHS087,Putri Rahma,Perempuan,N/A,Bogor,,2.79,,84.4,1150000,24.0,Tidak
+MHS067,Budi Kusuma,Laki-laki,Sistem Informasi,Bekasi,20.0,2.95,15.7,80.2,,21.0,Tidak
+MHS096,Nanda Nugroho,Perempuan,Teknik Mesin,Tangerang,,3.26,11.2,95.4,2500000,22.0,Tidak
+MHS092,Joko Nugroho,Laki-laki,teknik elektro,Tangerang,22.0,3.31,16.5,86.2,Rp 2.050.000,18.0,Ya
+MHS066,Lina Kusuma,Laki-laki,-,Bogor,22.0,3.63,22.3,99.8,2400000,24.0,Ya
+MHS014,Indah Santoso,laki-laki,Sistem Informasi,N/A,19.0,-1.0,18.1,85.3,1400000,24.0,Tidak
+MHS118,Joko Rahma,Perempuan,Teknik Mesin,Bekasi,22.0,,13.7,81.9,2250000,19.0,Tidak
+MHS027,Hadi Hidayat,Laki-laki,Sistem Informasi,Bogor,23.0,3.48,17.2,92.9,2200000,20.0,Tidak
+MHS109,Budi Saputra,Wanita,Teknik Elektro,Tangerang,24.0,3.22,15.9,,,22.0,Tidak
+MHS047,Rian Pratama,L,Teknik Mesin,Depok,18.0,3.46,,97.5,1550000,22.0,Ya
+MHS052,Rian Saputra,Laki-laki,TEKNIK ELEKTRO,Tangerang,22.0,2.89,15.5,86.6,2150000,17.0,N/A
+MHS060,Eko Wijaya,Perempuan,Teknik Mesin,Tangerang,22.0,3.06,10.1,74.6,1900000,15.0,-
+MHS044,Budi Pratama,Laki-laki,Teknik Informatika,Tangerang,19.0,2.37,2.0,74.8,1450000,18.0,Tidak
+MHS016,Joko Lestari,Perempuan,Teknik Informatika,Depok,23.0,3.04,20.3,91.8,1600000,23.0,Tidak
+MHS108,Okta Lestari,-,Teknik Elektro,Tangerang,18.0,3.19,17.7,88.9,1650000,18.0,Tidak
+MHS021,Dewi Rahma,LAKI-LAKI,Sistem Informasi,Tangerang,45.0,3.83,22.2,93.8,1800000,23.0,Ya
+MHS095,Eko Pratama,Laki-laki,teknik mesin ,Depok,21.0,3.02,13.5,87.9,2350000,22.0,Tidak
+MHS078,Indah Nugroho,Perempuan,Manajemen,Bogor,23.0,2.46,3.0,79.7,2000000,19.0,Tidak
+MHS116,Joko Santoso,Laki-laki,N/A,Depok,22.0,3.33,,84.4,1200000,21.0,Tidak
+MHS083,Indah Santoso,Laki-laki,Teknik Elektro,Bogor,21.0,3.28,14.1,85.2,2550000,20.0,N/A
+MHS059,Andi Wijaya,Perempuan,Manajemen,Jakarta,18.0,,23.1,100.0,1750000,18.0,
+MHS047,Rian Pratama,L,Teknik Mesin,Depok,18.0,3.46,,97.5,1550000,22.0,Ya
+MHS046,Indah Santoso,Laki-laki,Sistem Informasi,Depok,23.0,4.0,,100.0,1100000,21.0,Ya
+MHS013,Putri Nugroho,Laki-laki,Teknik Elektro,Tangerang,24.0,5.2,15.9,80.8,1600000,23.0,Tidak
+MHS075,Rian Saputra,Laki-laki,,Bogor,22.0,3.39,18.2,93.4,2300000,21.0,Tidak
+MHS012,Dewi Utami,Perempuan,Manajemen,Bogor,,2.88,13.6,95.4,Rp 1.200.000,16.0,Tidak
+MHS086,Citra Saputra,Perempuan,Teknik Informatika,Depok,24.0,3.12,16.0,81.1,1650000,21.0,Tidak
+MHS097,Maya Pratama,Laki-laki,Tek. Informatika,Bekasi,,3.09,9.8,83.9,2050000,17.0,Tidak
+MHS019,Sari Santoso,Laki-laki,teknik mesin ,Depok,22.0,3.59,28.0,,1600000,18.0,Ya
+MHS051,Rian Wijaya,Wanita,Teknik Informatika,Depok,18.0,3.09,13.5,98.9,Rp 18.000.000,17.0,Tidak
+MHS003,Indah Santoso,Laki-laki,Teknik Informatika,Tangerang,24.0,2.42,4.6,70.2,700000,24.0,Tidak
+MHS085,Gita Saputra,perempuan,Teknik Informatika,Depok,19.0,,14.2,78.5,2800000,14.0,Tidak
+MHS018,Sari Saputra,Laki-laki,Sistem Informasi,Jakarta,18.0,,15.0,89.2,2700000,22.0,Tidak
+MHS030,Okta Nugroho,Laki-laki,Teknik Informatika,Bekasi,18.0,3.52,20.4,89.3,1600000,17.0,Ya
+MHS081,Wulan Nugroho,Perempuan,Teknik Mesin,Bekasi,24.0,2.86,10.9,,1850000,19.0,Tidak
+MHS038,Nanda Hidayat,Laki-laki,Teknik Elektro,Jakarta,23.0,2.07,5.0,72.9,800000,22.0,Tidak
+MHS031,Tono Rahma,Laki-laki,Teknik Mesin,Tangerang,21.0,3.27,16.8,150.0,Rp 1.550.000,14.0,Tidak
+MHS055,Joko Rahma,P,-,Tangerang,23.0,3.51,16.7,88.6,800000,18.0,
+MHS113,Okta Pratama,-,Manajemen,Bogor,22.0,2.61,10.5,71.3,2600000,23.0,Tidak
+MHS082,Indah Hidayat,Laki-laki,Manajemen,Jakarta,,3.61,16.2,84.9,1700000,17.0,Ya
+MHS063,Sari Kusuma,Laki-laki,Teknik Elektro,Bekasi,,3.24,14.0,87.7,1200000,19.0,Tidak
+MHS098,Wulan Saputra,Perempuan,Teknik Informatika,Bekasi,19.0,3.02,8.8,82.5,2450000,24.0,Tidak
+MHS117,Andi Rahma,Perempuan ,Sistem Informasi,Tangerang,20.0,3.53,,90.6,1750000,20.0,Ya
+MHS028,Joko Saputra,Laki-laki,Teknik Elektro,Jakarta,23.0,2.49,10.7,74.4,1400000,14.0,Tidak
+MHS004,Budi Nugroho,L,Sistem Informasi,Bekasi,200.0,3.08,9.4,84.9,850000,20.0,Tidak
+MHS034,Tono Pratama,Perempuan,Teknik Elektro,Tangerang,18.0,3.07,13.5,,1900000,20.0,Tidak
+MHS106,Fajar Rahma,PEREMPUAN,Manajemen,Bekasi,18.0,3.09,14.2,91.0,1700000,24.0,Tidak
+MHS037,Joko Wijaya,LAKI-LAKI,Teknik Informatika,Depok,21.0,3.24,13.3,87.2,2000000,21.0,Tidak
+MHS022,Okta Pratama,P,SI,Depok,17.0,2.65,15.5,95.0,2650000,15.0,Tidak
+MHS033,Indah Pratama,Pria,Teknik Informatika,Bekasi,18.0,,17.3,93.0,Rp 1.800.000,21.0,Tidak
+MHS110,Indah Utami,Laki-laki,Teknik Informatika,Bekasi,,,7.8,80.9,,,Tidak
+MHS029,Kiki Wijaya,Laki-laki,,Jakarta,21.0,3.08,18.3,94.7,2250000,24.0,Tidak
+MHS071,Wulan Lestari,Laki-laki,Manajemen,Bekasi,23.0,3.17,10.3,81.5,,21.0,Tidak
+MHS060,Eko Wijaya,Perempuan,Teknik Mesin,Tangerang,22.0,3.06,10.1,74.6,1900000,15.0,-
+MHS089,Okta Wijaya,Perempuan,Teknik Informatika,Jakarta,20.0,3.17,18.3,79.1,1250000,20.0,Tidak
+MHS101,Hadi Utami,Laki-laki,Sistem Informasi,Bekasi,22.0,3.0,16.7,93.2,,22.0,Tidak
+MHS036,Putri Wijaya,Laki-laki,TEKNIK ELEKTRO,Bogor,21.0,,5.8,80.5,1950000,,Tidak
+MHS011,Kiki Pratama,Perempuan,TI,Depok,-5.0,3.19,13.0,86.8,2550000,21.0,Tidak
+MHS115,Kiki Wijaya,Laki-laki,Manajemen,Tangerang,23.0,2.72,7.7,75.3,2050000,15.0,Tidak
+MHS072,Fajar Hidayat,Laki-laki,Teknik Informatika,Bogor,19.0,3.14,12.8,93.7,1550000,19.0,Tidak
+MHS096,Nanda Nugroho,Perempuan,Teknik Mesin,Tangerang,,3.26,11.2,95.4,2500000,22.0,Tidak
+MHS032,Hadi Utami,laki-laki,Manajemen,Bekasi,19.0,3.11,,79.2,2250000,,Tidak
+MHS017,Budi Kusuma,Perempuan,Manajemen,Depok,19.0,2.99,9.3,85.2,2500000,22.0,Tidak
+MHS088,Nanda Hidayat,LAKI-LAKI,Teknik Elektro,Bekasi,20.0,3.05,18.5,89.6,1800000,23.0,Tidak
+MHS002,Nanda Hidayat,Perempuan,Teknik Elektro,Tangerang,22.0,2.37,7.1,77.1,1200000,17.0,Tidak
+MHS105,Fajar Rahma,Perempuan,Teknik Informatika,Depok,18.0,3.61,18.7,90.0,2700000,17.0,Ya
+MHS114,Rian Kusuma,Perempuan,Teknik Elektro,Bekasi,20.0,2.99,15.9,84.9,1950000,20.0,Tidak
+MHS055,Joko Rahma,P,-,Tangerang,23.0,3.51,16.7,88.6,800000,18.0,
+MHS010,Rian Hidayat,laki-laki,Teknik Elektro,Depok,22.0,3.17,16.7,83.9,,19.0,Tidak
+MHS005,Eko Saputra,Perempuan,Teknik Informatika,Depok,18.0,2.84,12.7,95.2,Rp 1.800.000,14.0,Tidak
+MHS039,Gita Lestari,PEREMPUAN,Teknik Mesin,Bekasi,21.0,2.18,7.5,86.3,2100000,23.0,Tidak
+MHS079,Citra Kusuma,Laki-laki,Teknik Informatika,Jakarta,19.0,2.55,11.1,81.7,1000000,,Tidak
+MHS074,Andi Lestari,L,Teknik Mesin,Tangerang,24.0,2.68,7.2,81.6,1600000,21.0,Tidak
+MHS118,Joko Rahma,Perempuan,Teknik Mesin,Bekasi,22.0,,13.7,81.9,2250000,19.0,Tidak
+MHS035,Budi Hidayat,Perempuan,Teknik Informatika,N/A,22.0,3.4,19.7,87.2,1800000,14.0,Ya
+MHS065,Lina Nugroho,Perempuan,Teknik Mesin,Bogor,21.0,2.54,12.8,84.6,,,Tidak
+MHS062,Nanda Hidayat,Laki-laki,Manajemen,Depok,18.0,3.77,21.7,100.0,1200000,20.0,Ya
+MHS054,Putri Nugroho,Laki-laki,Manajemen,Depok,24.0,3.81,,91.2,850000,14.0,Tidak
+MHS100,Gita Utami,Wanita,Sistem Informasi,Tangerang,21.0,2.93,14.6,91.6,Rp 1.600.000,19.0,Tidak
+MHS025,Nanda Rahma,PEREMPUAN,Sistem Informasi,Depok,23.0,3.47,14.1,,1950000,21.0,Ya
+MHS057,Lina Hidayat,Perempuan,sistem informasi,Bogor,21.0,3.08,11.6,78.4,Rp 1.650.000,22.0,Tidak
+MHS070,Gita Hidayat,L,Teknik Informatika,Bekasi,18.0,,13.2,95.1,1350000,21.0,-
+MHS064,Budi Rahma,Laki-laki,Sistem Informasi,Bekasi,24.0,3.63,22.0,,1250000,18.0,Tidak
+MHS107,Putri Hidayat,Perempuan,teknik informatika,Depok,24.0,2.69,,91.5,2000000,21.0,Tidak
+MHS061,Indah Nugroho,Perempuan,Manajemen,Tangerang,18.0,3.05,10.6,86.2,2250000,22.0,Tidak
+MHS020,Fajar Nugroho,P,Teknik Informatika,Tangerang,23.0,3.2,16.1,91.9,2750000,19.0,Tidak
+MHS007,Okta Rahma,Perempuan,SI,Depok,19.0,3.83,24.7,95.5,1700000,24.0,Ya
+MHS056,Fajar Rahma,Perempuan ,Teknik Informatika,Tangerang,22.0,3.09,18.3,91.0,1750000,19.0,Tidak
+MHS076,Sari Lestari,Laki-laki,Teknik Informatika,Jakarta,21.0,2.65,12.3,80.4,1450000,20.0,Tidak
+MHS001,Budi Rahma,Perempuan,teknik elektro,Bekasi,20.0,2.75,10.8,77.2,,14.0,Tidak
+MHS045,Putri Santoso,N/A,Teknik Elektro,Jakarta,,3.17,12.3,82.1,2200000,17.0,Tidak
+MHS008,Okta Rahma,Laki-laki,Teknik Informatika,Bekasi,18.0,3.43,80.0,95.8,Rp 2.400.000,18.0,Ya
+MHS049,Eko Nugroho,laki-laki,Sistem Informasi,Bekasi,18.0,2.93,17.3,78.7,1750000,20.0,Tidak
+MHS078,Indah Nugroho,Perempuan,Manajemen,Bogor,23.0,2.46,3.0,79.7,2000000,19.0,Tidak
+MHS103,Joko Lestari,Perempuan ,Teknik Elektro,Bekasi,24.0,2.96,11.2,80.8,1500000,15.0,Tidak
+MHS040,Lina Nugroho,Perempuan ,teknik mesin ,Depok,22.0,3.78,21.8,94.0,1300000,16.0,Tidak
+MHS009,Kiki Wijaya,Pria,Teknik Informatika,,23.0,3.07,-3.0,90.3,600000,19.0,Tidak
+MHS091,Tono Wijaya,Perempuan,Teknik Elektro,Bekasi,21.0,3.0,17.8,92.7,1950000,24.0,Tidak
+MHS043,Maya Rahma,Laki-laki,Teknik Informatika,Tangerang,21.0,2.17,7.5,75.9,1800000,19.0,Tidak
+MHS111,Citra Hidayat,PEREMPUAN,Teknik Informatika,Jakarta,18.0,,14.7,86.4,2000000,18.0,Tidak
+MHS090,Tono Kusuma,Laki-laki,teknik elektro,Tangerang,22.0,3.1,16.9,94.2,1400000,14.0,Tidak
+MHS073,Wulan Santoso,Pria,,Depok,20.0,3.55,17.3,85.2,1800000,17.0,Ya
+MHS120,Gita Nugroho,Perempuan,Teknik Informatika,Tangerang,20.0,2.32,3.0,79.2,1900000,23.0,Tidak
+MHS015,Kiki Hidayat,Laki-laki,Teknik Elektro,,20.0,2.7,13.3,83.8,1350000,15.0,Tidak
+MHS058,Kiki Kusuma,Perempuan,Manajemen,Bekasi,18.0,3.6,19.5,96.3,Rp 1.700.000,15.0,Ya
+MHS093,Joko Hidayat,Perempuan,TI,-,19.0,3.79,25.2,93.7,1450000,,Ya
+MHS104,Putri Utami,N/A,Manajemen,Depok,21.0,3.71,19.5,91.2,1700000,17.0,Ya
+MHS024,Indah Santoso,Pria,Teknik Elektro,Jakarta,23.0,2.85,14.7,84.5,1850000,24.0,Tidak
+MHS084,Gita Wijaya,Laki-laki,Teknik Informatika,Tangerang,19.0,3.05,13.7,86.0,1450000,15.0,Tidak
+MHS068,Putri Pratama,Perempuan,TI,Depok,,2.9,16.3,90.4,600000,17.0,Tidak
+MHS119,Nanda Hidayat,,Teknik Informatika,Bekasi,24.0,2.95,16.8,,2200000,21.0,Tidak
+MHS026,Putri Wijaya,Laki-laki,teknik informatika,-,22.0,3.0,11.1,87.1,Rp 3.350.000,17.0,Tidak
+MHS069,Maya Saputra,,Teknik Mesin,Bogor,20.0,4.0,22.8,95.4,900000,18.0,Tidak
+MHS048,Sari Lestari,Laki-laki,Teknik Mesin,Bogor,19.0,2.81,12.2,79.4,1500000,14.0,Tidak
