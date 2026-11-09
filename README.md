@@ -1,1 +1,0 @@
-# penambangan-data
