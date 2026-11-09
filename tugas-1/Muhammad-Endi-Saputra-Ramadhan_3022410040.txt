@@ -1,0 +1,37 @@
+DESKRIPSI KASUS DAN SOAL
+Nama    : Muhammad Endi Saputra Ramadhan
+NIM     : 3022410040
+Partner : - (dikerjakan mandiri)
+
+KASUS: Data Kinerja Akademik Mahasiswa
+Sebuah fakultas ingin menganalisis faktor yang memengaruhi prestasi mahasiswa
+(IPK, jam belajar, kehadiran, uang saku, dll). Data hasil pengumpulan masih kotor
+sehingga harus dipreproses sebelum dianalisis.
+
+Dataset : data_mahasiswa_kotor.csv (126 baris, 12 variabel)
+Variabel:
+ - ID_Mahasiswa, Nama            (atribut identitas / tidak relevan)
+ - Jenis_Kelamin, Program_Studi, Kota_Asal, Status_Beasiswa  (kategorik)
+ - Usia, IPK, Jam_Belajar_Mingguan, Kehadiran_Persen,
+   Uang_Saku_Bulanan, Jumlah_SKS (numerik)
+
+Masalah data yang sengaja dimunculkan:
+ 1. Missing value pada variabel numerik dan kategorik
+ 2. Data duplikat (6 baris)
+ 3. Kategori tidak konsisten (L/Pria/laki-laki, TI/Tek. Informatika, dll)
+ 4. Format/tipe data campuran (Uang_Saku "Rp 1.500.000")
+ 5. Noise / nilai tidak valid (Usia 200 & -5, IPK 5.2 & -1, Kehadiran 150, SKS 45)
+ 6. Outlier (Uang_Saku 25 juta, Jam_Belajar 80)
+ 7. Atribut tidak relevan (ID_Mahasiswa, Nama)
+ 8. Perbedaan skala antar variabel
+
+SOAL:
+ 1. Eksplorasi data dan identifikasi seluruh masalah data.
+ 2. Bersihkan duplikat, atribut tidak relevan, dan inkonsistensi kategorik/tipe data.
+ 3. Tangani noise dan missing value (gunakan statistik deskriptif: mean, median, modus).
+ 4. Deteksi dan tangani outlier dengan IQR.
+ 5. Lakukan encoding variabel kategorik.
+ 6. Lakukan Data Transformation: Decimal Scaling, Min-Max, Standardization,
+    Robust Scaling (manual dan library) pada variabel Usia.
+ 7. Lakukan PCA pada fitur numerik, tampilkan explained variance, tentukan jumlah
+    komponen (>= 80% varians).
