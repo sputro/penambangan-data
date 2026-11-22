@@ -1,0 +1,1601 @@
+customer_id,session_id,age,gender,location,device_type,traffic_source,session_duration_minutes,pages_viewed,product_category,product_price,discount_applied,add_to_cart,abandoned_cart,purchase_made,payment_method,time_of_day
+CUST00001,SESS784673,39.0,Male,Singapore,Mobile,Organic,1.9,1.0,Fashion,132.2,No,Yes,No,Yes,Wallet,Afternoon
+CUST00002,SESS647875,63.0,Female,London,Desktop,Organic,22.9,16.0,Home & Kitchen,457.67,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00003,SESS277337,24.0,Male,Phoenix,Desktop,Social,4.7,3.0,Grocery,62.18,No,Yes,No,Yes,Credit Card,Evening
+CUST00004,SESS791368,30.0,Female,Houston,Mobile,Social,1.9,1.0,Electronics,648.55,No,No,No,No,,Morning
+CUST00005,SESS339305,64.0,Male,Los Angeles,Desktop,Organic,1.0,1.0,Beauty,123.66,No,Yes,Yes,No,,Night
+CUST00006,SESS855432,34.0,Female,New York,Desktop,Social,4.5,3.0,Electronics,384.9,Yes,Yes,Yes,No,,Afternoon
+CUST00007,SESS943474,56.0,Female,Toronto,Desktop,Referral,6.6,2.0,Electronics,324.4,No,No,No,No,,Evening
+CUST00008,SESS449252,21.0,Male,Sydney,Mobile,Social,5.4,6.0,Grocery,14.36,Yes,Yes,No,No,,Evening
+CUST00009,SESS910181,53.0,Female,Sydney,Mobile,Social,19.7,16.0,Books,55.36,Yes,No,No,No,,Afternoon
+CUST00010,SESS949844,56.0,Male,Houston,Mobile,Social,3.7,1.0,Beauty,105.88,No,Yes,Yes,No,,Night
+CUST00011,SESS906273,48.0,Female,Sydney,Tablet,Social,1.0,4.0,Fashion,104.49,No,Yes,No,No,,Evening
+CUST00012,SESS328247,52.0,Male,Dubai,Desktop,Organic,5.3,6.0,Grocery,27.2,No,Yes,Yes,No,,Night
+CUST00013,SESS164766,39.0,Other,Sydney,Mobile,Organic,10.6,5.0,Home & Kitchen,404.64,No,Yes,Yes,No,,Afternoon
+CUST00014,SESS484803,20.0,Male,Toronto,Mobile,Organic,6.5,3.0,Fashion,107.91,No,No,No,No,,Afternoon
+CUST00015,SESS378583,34.0,Male,London,Tablet,,10.7,4.0,Electronics,348.99,Yes,Yes,Yes,No,,Afternoon
+CUST00016,SESS505489,19.0,Male,Houston,Tablet,Social,7.6,7.0,Beauty,111.32,Yes,Yes,No,Yes,Wallet,Evening
+CUST00017,SESS739425,25.0,Male,London,Desktop,Social,18.4,11.0,Home & Kitchen,217.48,Yes,Yes,No,No,,Afternoon
+CUST00018,SESS960336,38.0,Male,Chicago,Desktop,Referral,4.3,1.0,Sports,380.38,No,No,No,No,,Night
+CUST00019,SESS935643,42.0,Female,London,Mobile,Ads,2.8,,Books,45.56,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00020,SESS175750,42.0,Female,Los Angeles,Mobile,Referral,1.0,1.0,Home & Kitchen,494.48,No,No,No,No,,Evening
+CUST00021,SESS894868,56.0,Female,Toronto,Mobile,Social,10.6,5.0,Fashion,104.18,Yes,Yes,No,No,,Night
+CUST00022,SESS991072,38.0,Male,New York,Mobile,Ads,3.3,1.0,Beauty,,No,No,No,No,,Morning
+CUST00023,SESS129324,40.0,Female,Sydney,Mobile,Social,26.5,19.0,Fashion,151.34,No,No,No,No,,Afternoon
+CUST00024,SESS539720,19.0,Other,Los Angeles,Tablet,Organic,11.9,7.0,Toys,141.61,Yes,No,No,No,,Night
+CUST00025,SESS576180,30.0,Male,Phoenix,Desktop,Social,,14.0,Sports,46.14,No,Yes,Yes,No,,Morning
+CUST00026,SESS917657,64.0,Female,New York,Mobile,Referral,3.8,5.0,Books,47.93,No,Yes,No,No,,Morning
+CUST00027,SESS768731,51.0,Male,New York,Mobile,Ads,3.0,1.0,Electronics,750.49,Yes,No,No,No,,Evening
+CUST00028,SESS440775,63.0,Male,Los Angeles,Mobile,Organic,13.7,10.0,Toys,40.22,No,No,No,No,,Evening
+CUST00029,SESS674031,62.0,Male,New York,Desktop,Referral,7.6,7.0,Beauty,59.46,No,No,No,No,,Morning
+CUST00030,SESS102810,40.0,Male,Toronto,Mobile,Ads,1.0,1.0,Sports,398.56,No,Yes,Yes,No,,Morning
+CUST00031,SESS560571,22.0,Female,Houston,Mobile,Social,10.9,9.0,Books,46.84,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00032,SESS602590,54.0,Male,Phoenix,Tablet,Organic,1.0,1.0,Home & Kitchen,111.69,No,No,No,No,,Evening
+CUST00033,SESS426373,36.0,Female,Singapore,Mobile,Social,,7.0,Electronics,432.01,No,No,No,No,,Evening
+CUST00034,SESS172420,25.0,Male,Los Angeles,Desktop,Ads,1.0,1.0,Fashion,139.76,Yes,No,No,No,,Evening
+CUST00035,SESS115852,55.0,Male,New York,Mobile,,17.5,12.0,Toys,,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00036,SESS729497,,Female,Houston,Tablet,Organic,,1.0,Sports,310.36,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00037,SESS135902,24.0,Other,Phoenix,Mobile,Ads,7.2,4.0,Electronics,50.26,No,No,No,No,,Morning
+CUST00038,SESS240817,61.0,Female,Phoenix,Mobile,Referral,5.2,1.0,Electronics,51.76,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00039,SESS577257,60.0,Female,Toronto,Mobile,Organic,6.3,4.0,Electronics,457.69,Yes,No,No,No,,Morning
+CUST00040,SESS340917,45.0,Female,Toronto,Tablet,Referral,4.3,5.0,Sports,151.32,No,Yes,Yes,No,,Afternoon
+CUST00041,SESS794511,45.0,Male,London,Desktop,Organic,5.0,2.0,Electronics,546.91,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00042,SESS709123,44.0,Female,Houston,Mobile,Organic,11.4,6.0,Electronics,1097.96,No,Yes,No,No,,Afternoon
+CUST00043,SESS475315,56.0,Male,Los Angeles,Mobile,Social,2.1,1.0,Home & Kitchen,241.38,No,No,No,No,,Morning
+CUST00044,SESS354742,41.0,Male,Phoenix,Mobile,Ads,3.2,3.0,Fashion,229.79,No,Yes,Yes,No,,Night
+CUST00045,SESS261690,18.0,Female,London,Desktop,Social,1.3,2.0,Fashion,,Yes,No,No,No,,Night
+CUST00046,SESS360027,49.0,Female,Chicago,Mobile,Organic,10.7,8.0,Sports,41.56,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00047,SESS280997,50.0,Female,New York,Mobile,Ads,4.6,3.0,Sports,52.09,Yes,Yes,Yes,No,,Evening
+CUST00048,SESS897024,49.0,Male,Chicago,Mobile,Social,1.0,1.0,Electronics,960.83,Yes,Yes,No,No,,Afternoon
+CUST00049,SESS433531,49.0,Male,Houston,Desktop,Organic,5.8,3.0,Fashion,49.39,No,No,No,No,,Evening
+CUST00050,SESS263073,46.0,Female,Toronto,Desktop,Social,14.6,11.0,Fashion,236.4,Yes,No,No,No,,Afternoon
+CUST00051,SESS650316,34.0,Female,Toronto,Mobile,Ads,2.1,,Books,32.85,No,No,No,No,,Night
+CUST00052,SESS502251,18.0,Female,London,Tablet,Ads,10.9,9.0,Books,55.25,No,Yes,Yes,No,,Night
+CUST00053,SESS734994,49.0,Female,Chicago,Mobile,Organic,5.6,2.0,Grocery,10.78,No,No,No,No,,Evening
+CUST00054,SESS111997,22.0,Female,Phoenix,Mobile,Organic,1.5,1.0,Electronics,1154.4,No,No,No,No,,Night
+CUST00055,SESS875263,41.0,Female,Houston,Mobile,Organic,7.2,4.0,Electronics,1155.34,Yes,No,No,No,,Afternoon
+CUST00056,SESS450065,62.0,Male,Dubai,Tablet,Social,9.0,6.0,Beauty,106.6,No,Yes,No,Yes,Wallet,Evening
+CUST00057,SESS981961,32.0,Female,Sydney,Mobile,Organic,1.2,1.0,Electronics,711.66,No,No,No,No,,Morning
+CUST00058,SESS512795,54.0,Female,Sydney,Desktop,Ads,,7.0,Toys,100.48,No,No,No,No,,Morning
+CUST00059,SESS987713,21.0,Female,Los Angeles,Desktop,,8.9,6.0,Home & Kitchen,262.32,No,No,No,No,,Afternoon
+CUST00060,SESS841644,55.0,Female,Phoenix,Mobile,,13.3,7.0,Sports,355.92,No,Yes,Yes,No,,Morning
+CUST00061,SESS207980,55.0,Female,Houston,Desktop,Ads,13.8,9.0,Beauty,76.11,No,No,No,No,,Evening
+CUST00062,SESS384131,33.0,Female,London,Tablet,Organic,7.7,,Fashion,,No,Yes,Yes,No,,Afternoon
+CUST00063,SESS379640,26.0,Female,Dubai,Mobile,Social,7.4,5.0,Toys,135.63,No,No,No,No,,Night
+CUST00064,SESS818312,26.0,Male,Los Angeles,Mobile,Social,25.4,14.0,Grocery,59.69,No,No,No,No,,Evening
+CUST00065,SESS629865,50.0,Female,Los Angeles,Mobile,Ads,3.1,,Fashion,150.44,No,Yes,Yes,No,,Morning
+CUST00066,SESS510226,25.0,Male,Toronto,Mobile,Ads,1.0,1.0,Home & Kitchen,107.12,Yes,No,No,No,,Evening
+CUST00067,SESS435353,59.0,Female,New York,Tablet,Referral,1.2,1.0,Fashion,177.24,Yes,Yes,Yes,No,,Afternoon
+CUST00068,SESS145032,27.0,Female,Los Angeles,Tablet,Ads,6.1,2.0,Sports,29.4,No,Yes,Yes,No,,Morning
+CUST00069,SESS553387,37.0,Female,Los Angeles,Mobile,Referral,6.7,6.0,Home & Kitchen,72.16,Yes,Yes,Yes,No,,Afternoon
+CUST00070,SESS391479,21.0,Male,Los Angeles,Mobile,Organic,35.3,23.0,Grocery,39.41,Yes,No,No,No,,Night
+CUST00071,SESS125021,37.0,Male,Sydney,Desktop,Ads,18.6,10.0,Fashion,121.63,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00072,SESS922795,26.0,Male,Singapore,Desktop,Ads,7.8,4.0,Beauty,98.29,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00073,SESS619907,48.0,Female,Toronto,Mobile,Organic,5.1,5.0,Electronics,503.11,Yes,Yes,Yes,No,,Afternoon
+CUST00074,SESS628498,,Female,Los Angeles,Desktop,Social,1.9,1.0,Grocery,5.57,No,No,No,No,,Morning
+CUST00075,SESS967824,52.0,Other,New York,Mobile,Organic,2.7,1.0,Fashion,125.28,No,No,No,No,,Evening
+CUST00076,SESS735302,49.0,Female,Los Angeles,Desktop,Organic,2.5,3.0,Home & Kitchen,266.3,Yes,No,No,No,,Evening
+CUST00077,SESS919581,20.0,Female,Toronto,Desktop,Organic,2.5,1.0,Fashion,184.15,No,No,No,No,,Night
+CUST00078,SESS900752,37.0,Female,London,Mobile,,16.6,11.0,Electronics,1026.49,No,No,No,No,,Afternoon
+CUST00079,SESS150626,60.0,Male,Chicago,Mobile,Ads,9.0,7.0,Beauty,104.92,Yes,No,No,No,,Morning
+CUST00080,SESS845962,58.0,Female,London,Mobile,Referral,2.0,1.0,Beauty,137.26,Yes,Yes,No,Yes,Wallet,Evening
+CUST00081,SESS133875,33.0,Male,Los Angeles,Desktop,Referral,7.0,3.0,Electronics,979.1,No,No,No,No,,Evening
+CUST00082,SESS852274,52.0,Male,Dubai,Mobile,Organic,6.2,2.0,Books,46.44,Yes,No,No,No,,Night
+CUST00083,SESS308956,52.0,Female,Toronto,Desktop,Social,1.3,1.0,Electronics,340.25,Yes,No,No,No,,Morning
+CUST00084,SESS366344,52.0,Male,Dubai,Mobile,Organic,7.4,5.0,Sports,239.87,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00085,SESS686362,56.0,Female,London,Desktop,Ads,5.2,2.0,Electronics,217.63,Yes,Yes,Yes,No,,Afternoon
+CUST00086,SESS660547,36.0,Male,London,Mobile,Organic,5.1,3.0,Fashion,241.04,No,Yes,No,Yes,Wallet,Morning
+CUST00087,SESS594189,51.0,Male,Chicago,Mobile,,4.7,2.0,Electronics,837.47,No,No,No,No,,Night
+CUST00088,SESS685909,22.0,Male,Houston,Mobile,Social,4.2,6.0,Beauty,117.12,Yes,Yes,Yes,No,,Night
+CUST00089,SESS870077,60.0,Male,Singapore,Desktop,Organic,8.2,7.0,Fashion,91.84,No,Yes,Yes,No,,Afternoon
+CUST00090,SESS736565,51.0,Female,New York,Desktop,Ads,3.8,1.0,Home & Kitchen,419.6,No,No,No,No,,Night
+CUST00091,SESS675596,45.0,Female,New York,Desktop,Organic,3.2,1.0,Sports,236.79,No,No,No,No,,Morning
+CUST00092,SESS491908,32.0,Female,Phoenix,Mobile,Referral,3.3,8.0,Grocery,43.05,No,Yes,No,Yes,Debit Card,Evening
+CUST00093,SESS303681,40.0,Male,New York,Mobile,Organic,1.0,3.0,Beauty,31.27,Yes,No,No,No,,Evening
+CUST00094,SESS839373,64.0,Female,Phoenix,Mobile,Organic,10.9,5.0,Fashion,196.41,Yes,No,No,No,,Evening
+CUST00095,SESS135165,37.0,Male,London,Mobile,,1.0,3.0,Beauty,76.48,No,No,No,No,,Night
+CUST00096,SESS308319,21.0,Male,Los Angeles,Mobile,Referral,6.8,4.0,Toys,137.49,Yes,No,No,No,,Afternoon
+CUST00097,SESS901214,58.0,Female,Sydney,Mobile,Social,1.7,1.0,Home & Kitchen,231.95,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00098,SESS210111,22.0,Female,Chicago,Desktop,Ads,1.0,1.0,Home & Kitchen,411.03,No,No,No,No,,Afternoon
+CUST00099,SESS546027,20.0,Female,Sydney,Tablet,Social,4.7,5.0,Fashion,90.5,No,No,No,No,,Afternoon
+CUST00100,SESS912894,39.0,Female,Dubai,Mobile,Organic,29.5,19.0,Beauty,148.16,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00101,SESS604587,18.0,Female,Sydney,Mobile,Organic,2.6,2.0,Fashion,294.12,No,Yes,Yes,No,,Night
+CUST00102,SESS299404,,Female,Los Angeles,Desktop,Ads,4.6,1.0,Fashion,192.88,Yes,No,No,No,,Evening
+CUST00103,SESS213508,22.0,Female,Singapore,Mobile,Referral,21.3,10.0,Sports,144.04,No,Yes,Yes,No,,Night
+CUST00104,SESS671062,49.0,Female,Toronto,Tablet,Social,1.0,2.0,Fashion,264.31,No,Yes,Yes,No,,Evening
+CUST00105,SESS460414,41.0,Female,Sydney,Tablet,Ads,7.4,6.0,Home & Kitchen,498.65,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00106,SESS611835,32.0,Male,Singapore,Mobile,Organic,2.3,1.0,Fashion,83.0,No,Yes,Yes,No,,Afternoon
+CUST00107,SESS724869,62.0,Male,Sydney,Tablet,Organic,22.7,16.0,Books,56.06,Yes,Yes,Yes,No,,Night
+CUST00108,SESS729271,61.0,Female,Chicago,Desktop,Ads,2.0,1.0,Sports,43.75,Yes,Yes,No,No,,Afternoon
+CUST00109,SESS376778,31.0,Female,Dubai,Mobile,Social,6.4,3.0,Sports,261.25,No,Yes,Yes,No,,Evening
+CUST00110,SESS385019,60.0,Female,London,Desktop,,4.3,3.0,Electronics,582.92,Yes,Yes,Yes,No,,Afternoon
+CUST00111,SESS513861,27.0,Male,New York,Mobile,Organic,10.0,4.0,Home & Kitchen,345.01,No,No,No,No,,Afternoon
+CUST00112,SESS256832,46.0,Male,Chicago,Desktop,Organic,1.0,1.0,Toys,116.48,Yes,No,No,No,,Night
+CUST00113,SESS520739,,Female,Sydney,Mobile,Social,11.6,8.0,Beauty,70.25,No,No,No,No,,Night
+CUST00114,SESS590887,27.0,Female,New York,Desktop,Social,20.1,10.0,Beauty,83.98,No,Yes,No,Yes,Wallet,Night
+CUST00115,SESS780877,64.0,Male,Sydney,Mobile,Organic,12.9,10.0,Fashion,73.27,Yes,No,No,No,,Afternoon
+CUST00116,SESS102235,45.0,Female,Sydney,Mobile,Ads,2.6,2.0,Grocery,12.44,No,Yes,No,Yes,Debit Card,Night
+CUST00117,SESS602761,26.0,Male,New York,Mobile,Ads,1.0,1.0,Home & Kitchen,118.36,No,Yes,Yes,No,,Afternoon
+CUST00118,SESS291405,30.0,Female,Singapore,Mobile,Referral,11.7,9.0,Books,,No,No,No,No,,Evening
+CUST00119,SESS775239,26.0,Female,Dubai,Tablet,Organic,12.4,,Fashion,296.79,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00120,SESS326103,18.0,Female,New York,Mobile,Social,3.0,1.0,Electronics,906.48,No,Yes,Yes,No,,Morning
+CUST00121,SESS505688,50.0,Female,Chicago,Mobile,Social,5.3,4.0,Home & Kitchen,347.27,No,Yes,No,No,,Afternoon
+CUST00122,SESS107544,63.0,Female,Sydney,Mobile,Organic,9.1,7.0,Sports,41.19,No,Yes,Yes,No,,Afternoon
+CUST00123,SESS463184,39.0,Female,Sydney,Mobile,Organic,11.2,1.0,Home & Kitchen,397.92,Yes,No,No,No,,Morning
+CUST00124,SESS164546,46.0,Male,Toronto,Desktop,Social,11.7,6.0,Toys,61.14,Yes,Yes,No,No,,Evening
+CUST00125,SESS323587,59.0,Female,Singapore,Mobile,Social,7.7,6.0,Home & Kitchen,150.09,No,No,No,No,,Evening
+CUST00126,SESS763092,29.0,Male,New York,Mobile,Ads,7.3,5.0,Books,45.3,No,Yes,Yes,No,,Evening
+CUST00127,SESS515392,26.0,Female,Sydney,Mobile,Social,2.1,1.0,Sports,280.39,No,No,No,No,,Night
+CUST00128,SESS712072,61.0,Female,Singapore,Mobile,Ads,17.2,12.0,Toys,147.48,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00129,SESS963003,23.0,Male,New York,Desktop,Ads,4.1,1.0,Fashion,220.33,Yes,Yes,Yes,No,,Afternoon
+CUST00130,SESS680928,42.0,Female,Dubai,Mobile,Referral,19.1,11.0,Toys,58.12,Yes,Yes,Yes,No,,Evening
+CUST00131,SESS918766,22.0,Other,London,Mobile,Social,7.4,4.0,Fashion,176.57,No,Yes,Yes,No,,Morning
+CUST00132,SESS281609,64.0,Male,Singapore,Tablet,Social,5.3,2.0,Home & Kitchen,193.08,No,No,No,No,,Night
+CUST00133,SESS766938,52.0,Female,Chicago,Desktop,Social,2.7,5.0,Toys,158.82,No,Yes,Yes,No,,Evening
+CUST00134,SESS348736,54.0,Female,Los Angeles,Mobile,Referral,1.1,3.0,Electronics,243.77,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00135,SESS900120,27.0,Male,Sydney,Mobile,Organic,1.0,1.0,Fashion,165.41,No,Yes,Yes,No,,Morning
+CUST00136,SESS641412,63.0,Male,Toronto,Tablet,Social,7.1,5.0,Grocery,51.61,No,No,No,No,,Afternoon
+CUST00137,SESS737403,56.0,Male,Sydney,Mobile,Ads,1.0,2.0,Books,36.75,No,No,No,No,,Afternoon
+CUST00138,SESS699697,37.0,Female,Singapore,Mobile,Social,22.6,16.0,Books,36.79,No,No,No,No,,Morning
+CUST00139,SESS296621,57.0,Male,Sydney,Mobile,,7.8,4.0,Electronics,212.28,No,Yes,Yes,No,,Night
+CUST00140,SESS970640,56.0,Male,Dubai,Desktop,Social,2.7,2.0,Grocery,7.23,No,No,No,No,,Afternoon
+CUST00141,SESS166073,42.0,Female,Singapore,Desktop,Ads,2.4,2.0,Beauty,130.69,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00142,SESS721426,45.0,Female,Los Angeles,Mobile,Organic,,2.0,Home & Kitchen,496.58,No,No,No,No,,Afternoon
+CUST00143,SESS783402,41.0,Male,Houston,Mobile,Referral,9.5,4.0,Sports,391.08,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00144,SESS921407,40.0,Female,Sydney,Desktop,,3.0,1.0,Fashion,18.54,No,Yes,Yes,No,,Night
+CUST00145,SESS406074,54.0,Female,Sydney,Desktop,Referral,5.7,6.0,Sports,374.99,Yes,No,No,No,,Evening
+CUST00146,SESS823447,62.0,Male,Los Angeles,Desktop,Social,1.0,1.0,Toys,184.92,Yes,No,No,No,,Morning
+CUST00147,SESS574646,24.0,Female,Toronto,Mobile,Organic,12.0,3.0,Grocery,37.61,Yes,No,No,No,,Afternoon
+CUST00148,SESS467242,37.0,Male,Dubai,Desktop,Ads,1.0,1.0,Fashion,124.57,Yes,No,No,No,,Afternoon
+CUST00149,SESS117004,55.0,Female,New York,Tablet,Social,14.9,,Grocery,33.43,No,Yes,No,Yes,Credit Card,Night
+CUST00150,SESS148481,50.0,Female,Los Angeles,Mobile,Organic,2.5,1.0,Fashion,112.34,Yes,No,No,No,,Afternoon
+CUST00151,SESS281108,30.0,Female,Los Angeles,Mobile,Social,4.8,3.0,Electronics,224.33,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00152,SESS726930,31.0,Male,Los Angeles,Mobile,Ads,1.9,3.0,Beauty,,Yes,No,No,No,,Afternoon
+CUST00153,SESS946886,26.0,Male,Los Angeles,Mobile,Ads,1.0,4.0,Beauty,91.02,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00154,SESS121240,63.0,Male,New York,Desktop,Referral,10.4,7.0,Sports,171.23,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00155,SESS580658,53.0,Male,London,Desktop,Organic,9.9,6.0,Grocery,50.01,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00156,SESS405741,44.0,Male,Phoenix,Desktop,Referral,1.0,2.0,Fashion,262.66,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00157,SESS386427,21.0,Female,Sydney,Desktop,Social,9.6,5.0,Fashion,88.78,No,No,No,No,,Morning
+CUST00158,SESS581469,22.0,Male,Dubai,Mobile,Referral,9.8,3.0,Books,56.46,No,No,No,No,,Evening
+CUST00159,SESS936862,39.0,Male,Toronto,Mobile,Social,1.7,3.0,Home & Kitchen,222.95,No,No,No,No,,Afternoon
+CUST00160,SESS178978,49.0,Female,New York,Tablet,Referral,2.4,2.0,Beauty,142.27,No,Yes,No,Yes,Credit Card,Evening
+CUST00161,SESS320199,48.0,Female,Los Angeles,Mobile,Organic,1.0,1.0,Fashion,229.81,Yes,Yes,Yes,No,,Evening
+CUST00162,SESS187778,22.0,Female,Phoenix,Mobile,Organic,4.1,,Electronics,819.55,No,No,No,No,,Evening
+CUST00163,SESS628003,60.0,Male,Singapore,Tablet,Ads,11.1,10.0,Books,12.65,No,No,No,No,,Afternoon
+CUST00164,SESS177391,51.0,Female,Toronto,Desktop,Referral,5.1,1.0,Home & Kitchen,61.59,No,No,No,No,,Evening
+CUST00165,SESS779167,44.0,Female,London,Desktop,Referral,4.8,1.0,Toys,96.58,No,No,No,No,,Afternoon
+CUST00166,SESS684798,32.0,Male,Los Angeles,Tablet,Ads,8.4,2.0,Fashion,230.47,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00167,SESS265706,63.0,Other,Phoenix,Desktop,Organic,16.8,,Beauty,120.76,No,No,No,No,,Afternoon
+CUST00168,SESS851138,39.0,Female,Dubai,Mobile,Organic,26.3,19.0,Electronics,417.87,No,No,No,No,,Evening
+CUST00169,SESS178790,53.0,Male,Los Angeles,Tablet,Referral,7.9,4.0,Electronics,371.08,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00170,SESS526401,43.0,Male,London,Mobile,Ads,1.0,1.0,Sports,81.8,Yes,No,No,No,,Morning
+CUST00171,SESS177662,59.0,Male,New York,Tablet,Organic,1.0,2.0,Beauty,88.78,Yes,Yes,Yes,No,,Night
+CUST00172,SESS177758,26.0,Male,Los Angeles,Desktop,Organic,15.1,10.0,Home & Kitchen,440.02,Yes,Yes,Yes,No,,Evening
+CUST00173,SESS957926,46.0,Female,New York,Desktop,Social,1.0,1.0,Sports,277.97,Yes,No,No,No,,Evening
+CUST00174,SESS308527,46.0,Male,Singapore,Tablet,Referral,24.2,,Sports,151.01,Yes,Yes,Yes,No,,Morning
+CUST00175,SESS953119,41.0,Male,Toronto,Mobile,Organic,8.2,2.0,Home & Kitchen,438.1,Yes,No,No,No,,Night
+CUST00176,SESS924387,31.0,Female,Chicago,Desktop,Organic,15.9,10.0,Toys,73.06,Yes,Yes,Yes,No,,Morning
+CUST00177,SESS912235,49.0,Female,Toronto,Mobile,Ads,26.9,17.0,Beauty,48.44,No,Yes,No,No,,Evening
+CUST00178,SESS794394,61.0,Female,Chicago,Mobile,Referral,11.3,6.0,Electronics,,No,No,No,No,,Morning
+CUST00179,SESS115260,55.0,Male,Toronto,Desktop,Ads,11.0,6.0,Sports,140.93,No,No,No,No,,Morning
+CUST00180,SESS635750,63.0,Female,Toronto,Desktop,Organic,7.0,3.0,Sports,329.64,No,Yes,No,No,,Evening
+CUST00181,SESS864743,23.0,Male,New York,Mobile,Organic,10.0,7.0,Toys,153.54,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00182,SESS728628,25.0,Male,Sydney,Mobile,Social,3.4,2.0,Home & Kitchen,,No,No,No,No,,Evening
+CUST00183,SESS439801,47.0,Male,Los Angeles,Mobile,Organic,9.1,2.0,Home & Kitchen,312.67,Yes,Yes,Yes,No,,Afternoon
+CUST00184,SESS206363,61.0,Male,Dubai,Mobile,Referral,1.0,2.0,Sports,108.65,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00185,SESS383797,57.0,Male,Singapore,Mobile,Referral,1.5,2.0,Fashion,268.65,No,No,No,No,,Evening
+CUST00186,SESS757925,26.0,Male,Chicago,Desktop,Ads,1.0,1.0,Electronics,518.6,No,Yes,No,Yes,Credit Card,Morning
+CUST00187,SESS356705,45.0,Female,Phoenix,Mobile,Organic,1.0,1.0,Sports,86.67,No,Yes,No,Yes,Debit Card,Night
+CUST00188,SESS982709,31.0,Female,Toronto,Tablet,Social,6.7,2.0,Toys,179.37,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00189,SESS789392,47.0,Male,Los Angeles,Desktop,Ads,10.2,7.0,Grocery,76.68,No,No,No,No,,Afternoon
+CUST00190,SESS441090,50.0,Male,New York,Mobile,Referral,11.9,7.0,Sports,79.45,Yes,Yes,Yes,No,,Evening
+CUST00191,SESS478919,30.0,Female,London,Mobile,Social,1.0,1.0,Books,26.54,Yes,No,No,No,,Night
+CUST00192,SESS133212,38.0,Female,Dubai,Tablet,Referral,2.3,1.0,Toys,160.53,Yes,No,No,No,,Afternoon
+CUST00193,SESS548128,21.0,Female,Dubai,Desktop,Organic,1.6,1.0,Home & Kitchen,21.71,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00194,SESS671287,22.0,Male,New York,Desktop,Referral,1.0,1.0,Grocery,72.85,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00195,SESS278450,23.0,Male,Sydney,Mobile,Organic,3.2,4.0,Fashion,238.45,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00196,SESS311208,59.0,Male,London,Desktop,Organic,5.4,3.0,Grocery,40.84,No,No,No,No,,Evening
+CUST00197,SESS672950,59.0,Female,Phoenix,Tablet,Ads,6.5,3.0,Sports,206.5,No,Yes,Yes,No,,Morning
+CUST00198,SESS442747,62.0,Female,Los Angeles,Tablet,Organic,17.3,12.0,Books,14.69,Yes,Yes,Yes,No,,Evening
+CUST00199,SESS332324,29.0,Male,Dubai,Desktop,Organic,1.0,3.0,Fashion,299.68,Yes,Yes,No,No,,Afternoon
+CUST00200,SESS441106,22.0,Female,London,Mobile,Organic,7.5,4.0,Fashion,178.97,No,Yes,No,No,,Night
+CUST00201,SESS714005,48.0,Male,Chicago,Desktop,Organic,3.9,6.0,Fashion,130.54,No,Yes,No,No,,Afternoon
+CUST00202,SESS693103,25.0,Male,Houston,Tablet,Ads,6.4,1.0,Electronics,574.66,No,No,No,No,,Afternoon
+CUST00203,SESS478592,49.0,Female,Dubai,Desktop,Referral,1.0,1.0,Grocery,10.63,Yes,No,No,No,,Night
+CUST00204,SESS639649,25.0,Female,Phoenix,Mobile,,1.0,1.0,Home & Kitchen,433.82,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00205,SESS604656,51.0,Male,Dubai,Mobile,Organic,5.3,2.0,Home & Kitchen,379.95,No,No,No,No,,Night
+CUST00206,SESS439797,42.0,Male,Singapore,Mobile,Organic,20.7,9.0,Toys,120.01,No,No,No,No,,Night
+CUST00207,SESS997163,29.0,Female,Phoenix,Desktop,Ads,9.2,6.0,Home & Kitchen,116.0,Yes,Yes,No,Yes,Wallet,Evening
+CUST00208,SESS613603,20.0,Male,Toronto,Mobile,Referral,24.4,16.0,Fashion,143.52,Yes,Yes,Yes,No,,Evening
+CUST00209,SESS375381,19.0,Female,Phoenix,Desktop,Ads,27.7,20.0,Electronics,150.69,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00210,SESS340121,30.0,Male,Sydney,Desktop,Social,3.3,1.0,Fashion,243.38,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00211,SESS668568,33.0,Female,Singapore,Mobile,Social,13.6,7.0,Toys,68.54,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00212,SESS858046,31.0,Male,Los Angeles,Desktop,Referral,,1.0,Electronics,696.94,No,No,No,No,,Morning
+CUST00213,SESS921587,57.0,Female,Los Angeles,Desktop,Social,2.0,4.0,Home & Kitchen,394.91,No,No,No,No,,Afternoon
+CUST00214,SESS437057,19.0,Female,Chicago,Mobile,Ads,,1.0,Fashion,201.35,No,Yes,No,Yes,Credit Card,Evening
+CUST00215,SESS127082,35.0,Male,Los Angeles,Desktop,,,21.0,Sports,266.46,Yes,Yes,No,No,,Evening
+CUST00216,SESS589230,29.0,Male,London,Desktop,Ads,1.1,2.0,Toys,,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00217,SESS473501,20.0,Female,Chicago,Mobile,Organic,1.9,2.0,Fashion,,No,No,No,No,,Night
+CUST00218,SESS299069,60.0,Female,Los Angeles,Desktop,Referral,1.0,1.0,Electronics,1015.92,Yes,Yes,Yes,No,,Evening
+CUST00219,SESS512490,29.0,Other,Sydney,Desktop,Organic,,,Toys,196.17,No,Yes,No,No,,Night
+CUST00220,SESS623568,60.0,Female,Houston,Desktop,Social,,1.0,Home & Kitchen,339.96,No,No,No,No,,Evening
+CUST00221,SESS959799,18.0,Male,Los Angeles,Mobile,Social,4.9,,Home & Kitchen,98.12,No,No,No,No,,Evening
+CUST00222,SESS266199,36.0,Male,London,Mobile,Ads,5.1,3.0,Fashion,256.41,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00223,SESS734112,62.0,Male,Chicago,Mobile,Ads,,2.0,Toys,117.98,No,Yes,Yes,No,,Night
+CUST00224,SESS923780,32.0,Female,London,Desktop,Organic,1.0,1.0,Beauty,33.61,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00225,SESS539728,,Male,Phoenix,Mobile,Referral,13.4,10.0,Beauty,110.49,No,No,No,No,,Evening
+CUST00226,SESS907273,31.0,Female,Toronto,Tablet,Ads,29.6,17.0,Fashion,261.62,Yes,Yes,No,Yes,Debit Card,Night
+CUST00227,SESS778553,59.0,Other,Los Angeles,Mobile,Ads,5.6,5.0,Home & Kitchen,408.1,No,No,No,No,,Night
+CUST00228,SESS578158,35.0,Male,Phoenix,Mobile,Ads,6.4,3.0,Fashion,154.52,Yes,Yes,Yes,No,,Night
+CUST00229,SESS613432,36.0,Male,Sydney,Mobile,Referral,24.2,15.0,Beauty,103.81,Yes,Yes,No,No,,Night
+CUST00230,SESS126130,26.0,Male,Dubai,Desktop,Referral,6.0,8.0,Home & Kitchen,174.77,No,No,No,No,,Morning
+CUST00231,SESS722522,59.0,Male,Sydney,Mobile,Ads,1.0,3.0,Toys,,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00232,SESS716969,34.0,Male,London,Mobile,Referral,10.4,7.0,Sports,21.53,No,Yes,No,No,,Afternoon
+CUST00233,SESS137614,50.0,Male,Sydney,Mobile,Ads,8.1,1.0,Grocery,14.6,No,Yes,Yes,No,,Afternoon
+CUST00234,SESS124129,41.0,Male,New York,Desktop,Ads,4.9,1.0,Fashion,101.59,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00235,SESS606508,31.0,Male,New York,Mobile,Social,1.9,3.0,Electronics,72.76,Yes,Yes,Yes,No,,Afternoon
+CUST00236,SESS453752,52.0,Female,Toronto,Tablet,Ads,1.0,1.0,Books,30.38,Yes,No,No,No,,Evening
+CUST00237,SESS974103,63.0,Female,Los Angeles,Mobile,Ads,5.1,7.0,Home & Kitchen,478.77,No,No,No,No,,Morning
+CUST00238,SESS765695,59.0,Male,Toronto,Desktop,Organic,1.2,2.0,Fashion,161.09,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00239,SESS765959,27.0,Female,New York,Mobile,Organic,9.8,7.0,Home & Kitchen,270.97,No,Yes,Yes,No,,Night
+CUST00240,SESS985669,30.0,Female,Phoenix,Desktop,Referral,10.2,7.0,Books,6.2,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00241,SESS260402,51.0,Female,London,Desktop,Referral,22.6,12.0,Fashion,161.19,No,No,No,No,,Afternoon
+CUST00242,SESS292578,22.0,Male,Sydney,Mobile,Organic,1.0,3.0,Home & Kitchen,185.18,No,Yes,No,Yes,Debit Card,Evening
+CUST00243,SESS408382,19.0,Female,Toronto,Mobile,Referral,6.3,1.0,Books,44.93,No,No,No,No,,Evening
+CUST00244,SESS160432,21.0,Male,Houston,Mobile,Ads,1.0,4.0,Fashion,153.62,No,Yes,Yes,No,,Morning
+CUST00245,SESS524925,46.0,Female,New York,Tablet,Ads,9.1,7.0,Fashion,110.65,No,Yes,Yes,No,,Night
+CUST00246,SESS748482,59.0,Female,London,Desktop,Ads,1.0,1.0,Fashion,192.59,Yes,Yes,Yes,No,,Evening
+CUST00247,SESS784690,47.0,Male,Chicago,Desktop,Organic,4.5,1.0,Fashion,94.92,Yes,No,No,No,,Night
+CUST00248,SESS926501,54.0,Female,Singapore,Tablet,Organic,8.6,5.0,Sports,207.89,No,Yes,No,No,,Evening
+CUST00249,SESS123425,63.0,Female,Dubai,Desktop,Referral,15.1,8.0,Fashion,42.69,No,Yes,Yes,No,,Afternoon
+CUST00250,SESS113797,63.0,Male,Phoenix,Mobile,Social,6.7,1.0,Electronics,52.36,No,Yes,Yes,No,,Evening
+CUST00251,SESS380197,62.0,Male,Chicago,Mobile,Organic,2.6,3.0,Books,26.32,Yes,Yes,No,No,,Evening
+CUST00252,SESS678500,56.0,Female,Toronto,Mobile,Organic,4.9,3.0,Home & Kitchen,,Yes,No,No,No,,Night
+CUST00253,SESS661891,25.0,Male,Singapore,Mobile,Organic,9.9,8.0,Fashion,144.07,No,Yes,Yes,No,,Evening
+CUST00254,SESS751514,24.0,Other,Houston,Mobile,Ads,1.0,2.0,Books,35.95,Yes,No,No,No,,Evening
+CUST00255,SESS680129,63.0,Female,Chicago,Mobile,Referral,6.6,5.0,Fashion,234.79,No,Yes,No,Yes,Wallet,Evening
+CUST00256,SESS201721,28.0,Female,Houston,Desktop,Social,38.8,27.0,Electronics,244.84,No,Yes,No,Yes,Credit Card,Night
+CUST00257,SESS244580,35.0,Female,Toronto,Desktop,Organic,27.1,18.0,Beauty,11.77,Yes,Yes,No,No,,Night
+CUST00258,SESS143562,47.0,Female,London,Mobile,Ads,3.1,2.0,Grocery,6.34,Yes,Yes,Yes,No,,Morning
+CUST00259,SESS618989,64.0,Male,Chicago,Desktop,Ads,10.5,6.0,Books,33.16,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00260,SESS652221,48.0,Male,Chicago,Desktop,Social,2.6,1.0,Fashion,273.49,Yes,Yes,Yes,No,,Evening
+CUST00261,SESS608748,28.0,Female,Singapore,Mobile,Social,1.0,1.0,Beauty,149.88,No,No,No,No,,Morning
+CUST00262,SESS196072,57.0,Female,New York,Desktop,Ads,4.0,3.0,Fashion,290.14,No,No,No,No,,Afternoon
+CUST00263,SESS941966,34.0,Female,London,Mobile,Social,8.8,2.0,Books,15.78,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00264,SESS315292,33.0,Female,Phoenix,Mobile,Social,7.7,6.0,Beauty,104.29,No,Yes,Yes,No,,Evening
+CUST00265,SESS240302,56.0,Female,Chicago,Mobile,Organic,11.7,6.0,Electronics,524.02,Yes,No,No,No,,Evening
+CUST00266,SESS132275,36.0,Male,London,Mobile,Referral,1.5,1.0,Grocery,56.39,No,No,No,No,,Afternoon
+CUST00267,SESS132269,48.0,Female,Los Angeles,Tablet,Organic,13.8,9.0,Electronics,151.16,Yes,No,No,No,,Night
+CUST00268,SESS851151,,Male,Los Angeles,Desktop,Social,2.5,4.0,Fashion,218.12,No,Yes,No,No,,Afternoon
+CUST00269,SESS985162,30.0,Female,Houston,Mobile,Ads,2.6,3.0,Fashion,161.09,No,Yes,No,No,,Evening
+CUST00270,SESS149547,30.0,Female,Sydney,Mobile,Organic,4.6,3.0,Beauty,119.29,No,Yes,Yes,No,,Morning
+CUST00271,SESS644614,54.0,Male,Houston,Desktop,Organic,14.8,11.0,Books,,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00272,SESS795271,,Male,Phoenix,Mobile,Ads,4.2,4.0,Home & Kitchen,116.24,No,Yes,No,Yes,Debit Card,Evening
+CUST00273,SESS936185,25.0,Female,Sydney,Desktop,Organic,4.4,1.0,Electronics,189.53,Yes,Yes,Yes,No,,Evening
+CUST00274,SESS447014,41.0,Male,Los Angeles,Desktop,Ads,27.4,18.0,Sports,145.87,No,Yes,No,Yes,Credit Card,Night
+CUST00275,SESS497659,30.0,Female,Houston,Desktop,,5.0,3.0,Home & Kitchen,268.66,Yes,No,No,No,,Afternoon
+CUST00276,SESS942465,35.0,Male,Houston,Desktop,Social,6.7,4.0,Grocery,14.54,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00277,SESS487368,37.0,Male,Singapore,Mobile,Social,26.5,17.0,Fashion,,No,Yes,Yes,No,,Morning
+CUST00278,SESS770120,,Male,Dubai,Tablet,Ads,1.0,1.0,Fashion,128.97,No,Yes,No,No,,Afternoon
+CUST00279,SESS889572,42.0,Female,Chicago,Desktop,Referral,12.7,12.0,Home & Kitchen,79.6,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00280,SESS792322,30.0,Female,Phoenix,Desktop,Social,11.1,5.0,Beauty,116.47,No,No,No,No,,Afternoon
+CUST00281,SESS509126,44.0,Male,Chicago,Desktop,Social,1.3,1.0,Electronics,297.12,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00282,SESS819873,29.0,Male,Phoenix,Desktop,Referral,10.7,8.0,Sports,33.62,No,Yes,No,Yes,Credit Card,Evening
+CUST00283,SESS820400,37.0,Female,Dubai,Tablet,,1.7,1.0,Toys,40.4,Yes,Yes,Yes,No,,Night
+CUST00284,SESS838758,44.0,Male,Houston,Mobile,Social,7.2,3.0,Sports,316.31,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00285,SESS531744,30.0,Male,London,Mobile,Social,14.6,14.0,Fashion,181.53,No,No,No,No,,Morning
+CUST00286,SESS822645,56.0,Female,Los Angeles,Desktop,Referral,5.6,3.0,Fashion,200.81,No,Yes,Yes,No,,Evening
+CUST00287,SESS322651,63.0,Female,Chicago,Mobile,Organic,1.0,1.0,Home & Kitchen,418.12,Yes,Yes,No,No,,Night
+CUST00288,SESS260961,54.0,Female,Chicago,Mobile,Ads,,4.0,Fashion,258.42,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00289,SESS950243,25.0,Male,New York,Desktop,Ads,1.0,,Electronics,354.81,No,No,No,No,,Night
+CUST00290,SESS307327,46.0,Male,Dubai,Mobile,Ads,16.9,11.0,Books,18.93,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00291,SESS783209,56.0,Male,New York,Mobile,Referral,2.2,1.0,Sports,227.61,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00292,SESS639764,58.0,Female,London,Desktop,Organic,6.9,4.0,Electronics,61.3,No,No,No,No,,Evening
+CUST00293,SESS737754,28.0,Male,Sydney,Mobile,Organic,12.8,,Electronics,1163.26,Yes,No,No,No,,Afternoon
+CUST00294,SESS673537,24.0,Male,London,Mobile,Organic,9.6,7.0,Beauty,124.68,Yes,Yes,No,No,,Afternoon
+CUST00295,SESS349178,27.0,Male,New York,Desktop,Referral,43.6,,Home & Kitchen,330.31,No,No,No,No,,Afternoon
+CUST00296,SESS506519,51.0,Male,Dubai,Mobile,Organic,30.8,15.0,Fashion,221.1,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00297,SESS770295,52.0,Female,Los Angeles,Mobile,Ads,9.3,8.0,Electronics,839.28,No,No,No,No,,Morning
+CUST00298,SESS732049,53.0,Male,Chicago,Mobile,Organic,1.0,1.0,Electronics,1095.74,No,No,No,No,,Night
+CUST00299,SESS229428,26.0,Male,Chicago,Desktop,,1.0,1.0,Electronics,680.13,No,No,No,No,,Evening
+CUST00300,SESS814808,59.0,Male,Houston,Mobile,Referral,10.7,8.0,Home & Kitchen,368.86,Yes,Yes,No,Yes,Credit Card,Night
+CUST00301,SESS552328,55.0,Male,Toronto,Mobile,Social,3.1,3.0,Home & Kitchen,278.33,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00302,SESS218381,62.0,Female,Houston,Mobile,Social,5.0,4.0,Beauty,72.58,Yes,No,No,No,,Evening
+CUST00303,SESS112458,29.0,Female,Phoenix,Desktop,Social,1.6,2.0,Beauty,135.23,No,No,No,No,,Morning
+CUST00304,SESS936076,37.0,Male,Toronto,Tablet,Ads,2.7,3.0,Sports,252.8,No,No,No,No,,Evening
+CUST00305,SESS371565,44.0,Female,New York,Desktop,Organic,1.1,2.0,Fashion,201.7,Yes,No,No,No,,Night
+CUST00306,SESS167674,25.0,Female,Houston,Desktop,Social,1.4,3.0,Fashion,192.99,No,Yes,Yes,No,,Evening
+CUST00307,SESS972894,39.0,Female,Singapore,Desktop,Referral,,13.0,Books,16.65,No,No,No,No,,Evening
+CUST00308,SESS845958,61.0,Female,Los Angeles,Mobile,Organic,,13.0,Fashion,126.67,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00309,SESS321644,28.0,Male,Los Angeles,Desktop,Social,3.8,4.0,Electronics,336.95,No,No,No,No,,Morning
+CUST00310,SESS239337,57.0,Male,Sydney,Mobile,Referral,1.0,6.0,Home & Kitchen,283.15,No,No,No,No,,Morning
+CUST00311,SESS475406,49.0,Male,Chicago,Desktop,,4.3,5.0,Electronics,902.24,No,No,No,No,,Evening
+CUST00312,SESS100589,46.0,Female,Phoenix,Desktop,Ads,1.4,1.0,Home & Kitchen,75.32,No,No,No,No,,Afternoon
+CUST00313,SESS418592,37.0,Male,Toronto,Desktop,Social,6.2,7.0,Home & Kitchen,496.13,No,No,No,No,,Afternoon
+CUST00314,SESS911803,53.0,Male,New York,Desktop,Organic,12.0,4.0,Home & Kitchen,275.56,No,No,No,No,,Night
+CUST00315,SESS735025,23.0,Female,Toronto,Mobile,Organic,7.7,5.0,Electronics,81.85,Yes,No,No,No,,Afternoon
+CUST00316,SESS448406,40.0,Other,Dubai,Mobile,Organic,6.4,8.0,Beauty,41.55,No,No,No,No,,Night
+CUST00317,SESS643372,28.0,Female,Chicago,Tablet,Organic,8.4,9.0,Books,17.83,No,No,No,No,,Evening
+CUST00318,SESS766655,60.0,Female,Chicago,Tablet,Organic,25.7,17.0,Grocery,35.08,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00319,SESS907935,30.0,Male,London,Mobile,Ads,1.0,2.0,Grocery,28.54,Yes,Yes,Yes,No,,Evening
+CUST00320,SESS396560,28.0,Male,New York,Mobile,Ads,2.0,4.0,Home & Kitchen,65.76,No,Yes,Yes,No,,Morning
+CUST00321,SESS891662,21.0,Female,Chicago,Desktop,Ads,2.5,5.0,Electronics,854.97,Yes,Yes,Yes,No,,Afternoon
+CUST00322,SESS180666,22.0,Female,Singapore,Desktop,Ads,14.2,9.0,Home & Kitchen,203.19,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00323,SESS330691,56.0,Female,Toronto,Mobile,Organic,1.0,,Sports,252.17,Yes,Yes,Yes,No,,Afternoon
+CUST00324,SESS537160,62.0,Female,Dubai,Mobile,Social,7.2,3.0,Beauty,32.94,No,No,No,No,,Morning
+CUST00325,SESS479268,55.0,Male,Houston,Mobile,Referral,11.7,8.0,Beauty,28.96,No,No,No,No,,Night
+CUST00326,SESS379628,39.0,Male,Houston,Mobile,Social,,1.0,Sports,124.53,No,Yes,Yes,No,,Night
+CUST00327,SESS498715,22.0,Female,Houston,Tablet,Organic,1.2,1.0,Books,21.59,No,No,No,No,,Evening
+CUST00328,SESS770309,36.0,Male,New York,Mobile,Social,16.1,8.0,Beauty,55.85,Yes,Yes,Yes,No,,Morning
+CUST00329,SESS332297,21.0,Male,Chicago,Mobile,Ads,8.5,5.0,Fashion,210.91,No,No,No,No,,Night
+CUST00330,SESS683839,22.0,Male,New York,Mobile,Ads,1.8,2.0,Fashion,89.46,Yes,No,No,No,,Night
+CUST00331,SESS866821,53.0,Female,New York,Mobile,Social,34.2,,Grocery,59.34,No,Yes,Yes,No,,Night
+CUST00332,SESS635462,19.0,Female,Houston,Tablet,Ads,4.7,2.0,Fashion,218.07,No,Yes,Yes,No,,Evening
+CUST00333,SESS233375,,Male,Chicago,Desktop,Ads,1.0,1.0,Toys,102.74,Yes,No,No,No,,Morning
+CUST00334,SESS674503,46.0,Male,New York,Mobile,Social,1.0,6.0,Home & Kitchen,425.59,No,No,No,No,,Evening
+CUST00335,SESS871605,22.0,Female,Houston,Mobile,Organic,6.9,4.0,Sports,189.98,Yes,Yes,No,No,,Evening
+CUST00336,SESS759270,25.0,Female,Los Angeles,Mobile,Organic,28.6,,Home & Kitchen,241.97,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00337,SESS602421,56.0,Male,Chicago,Mobile,Organic,3.3,3.0,Electronics,93.19,No,No,No,No,,Morning
+CUST00338,SESS281035,64.0,Female,New York,Desktop,Organic,3.5,,Beauty,137.67,No,Yes,No,Yes,Credit Card,Evening
+CUST00339,SESS166584,52.0,Female,Houston,Desktop,Organic,1.0,2.0,Beauty,59.87,No,Yes,Yes,No,,Evening
+CUST00340,SESS446867,52.0,Female,London,Mobile,,1.3,2.0,Home & Kitchen,42.31,No,Yes,Yes,No,,Morning
+CUST00341,SESS621659,48.0,Female,Houston,Desktop,Organic,3.2,3.0,Electronics,431.85,No,Yes,Yes,No,,Night
+CUST00342,SESS950663,64.0,Female,Houston,Tablet,Ads,13.0,12.0,Fashion,224.38,No,Yes,Yes,No,,Afternoon
+CUST00343,SESS273162,51.0,Male,Toronto,Desktop,Social,1.5,2.0,Beauty,29.25,Yes,Yes,Yes,No,,Afternoon
+CUST00344,SESS349834,56.0,Female,Singapore,Mobile,Organic,8.0,7.0,Electronics,,No,No,No,No,,Morning
+CUST00345,SESS899180,40.0,Female,New York,Mobile,Social,1.6,3.0,Fashion,24.97,No,Yes,Yes,No,,Morning
+CUST00346,SESS977665,,Male,Phoenix,Desktop,Organic,3.0,1.0,Fashion,77.86,Yes,Yes,No,Yes,Debit Card,Night
+CUST00347,SESS326976,59.0,Female,Dubai,Mobile,Organic,7.7,,Beauty,34.48,No,No,No,No,,Night
+CUST00348,SESS811711,18.0,Female,New York,Desktop,Organic,10.1,7.0,Sports,33.26,No,No,No,No,,Afternoon
+CUST00349,SESS821046,62.0,Female,Dubai,Mobile,Social,23.0,12.0,Electronics,401.56,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00350,SESS601947,28.0,Female,Chicago,Tablet,Social,3.3,4.0,Fashion,234.65,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00351,SESS537187,35.0,Male,New York,Desktop,Organic,23.2,15.0,Fashion,,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00352,SESS343766,32.0,Female,Chicago,Tablet,Ads,1.6,2.0,Toys,91.55,No,Yes,No,Yes,Credit Card,Evening
+CUST00353,SESS633953,38.0,Male,Singapore,Desktop,Ads,21.5,15.0,Books,17.14,Yes,Yes,Yes,No,,Morning
+CUST00354,SESS185392,47.0,Other,Chicago,Mobile,Social,17.6,12.0,Home & Kitchen,94.1,Yes,Yes,Yes,No,,Afternoon
+CUST00355,SESS537508,59.0,Female,Toronto,Mobile,Ads,4.6,2.0,Fashion,245.31,No,No,No,No,,Afternoon
+CUST00356,SESS935908,59.0,Female,Los Angeles,Mobile,Referral,11.3,10.0,Grocery,73.68,No,No,No,No,,Afternoon
+CUST00357,SESS437773,52.0,Female,Los Angeles,Desktop,Ads,10.8,9.0,Books,6.35,No,Yes,No,No,,Night
+CUST00358,SESS753331,31.0,Female,New York,Mobile,Social,15.9,12.0,Grocery,78.9,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00359,SESS732899,25.0,Female,Sydney,Desktop,Referral,1.0,1.0,Electronics,664.23,No,No,No,No,,Night
+CUST00360,SESS577132,47.0,Male,Phoenix,Desktop,Ads,19.8,11.0,Electronics,489.96,No,Yes,No,Yes,Credit Card,Evening
+CUST00361,SESS942668,59.0,Male,Los Angeles,Desktop,Social,2.4,1.0,Fashion,49.16,Yes,Yes,Yes,No,,Afternoon
+CUST00362,SESS743467,62.0,Male,Houston,Desktop,Ads,2.2,1.0,Sports,,No,Yes,No,No,,Evening
+CUST00363,SESS906375,28.0,Male,London,Mobile,Social,1.8,1.0,Fashion,,No,No,No,No,,Morning
+CUST00364,SESS550863,33.0,Male,Singapore,Mobile,Referral,3.3,1.0,Electronics,1052.96,No,No,No,No,,Evening
+CUST00365,SESS100989,57.0,Male,Dubai,Tablet,,2.4,1.0,Grocery,48.03,Yes,No,No,No,,Night
+CUST00366,SESS189612,64.0,Male,Los Angeles,Mobile,,1.0,3.0,Electronics,563.6,No,No,No,No,,Morning
+CUST00367,SESS467078,49.0,Male,Los Angeles,Tablet,Social,,1.0,Grocery,20.68,No,Yes,No,No,,Evening
+CUST00368,SESS781345,18.0,Male,Sydney,Desktop,Social,25.3,17.0,Toys,21.24,No,No,No,No,,Night
+CUST00369,SESS473184,30.0,Female,Houston,Desktop,Social,2.0,3.0,Books,33.04,No,Yes,Yes,No,,Morning
+CUST00370,SESS526885,51.0,Female,Houston,Mobile,Organic,1.4,1.0,Toys,15.04,Yes,No,No,No,,Night
+CUST00371,SESS602051,41.0,Female,Toronto,Mobile,Social,1.0,1.0,Home & Kitchen,436.4,No,No,No,No,,Evening
+CUST00372,SESS242596,36.0,Male,Phoenix,Mobile,Social,11.3,6.0,Fashion,46.55,Yes,No,No,No,,Afternoon
+CUST00373,SESS694425,24.0,Female,Los Angeles,Desktop,Ads,13.5,9.0,Fashion,72.74,Yes,No,No,No,,Morning
+CUST00374,SESS681908,22.0,Female,Los Angeles,Tablet,Social,3.8,4.0,Electronics,1097.14,Yes,No,No,No,,Night
+CUST00375,SESS176208,37.0,Other,Toronto,Mobile,Ads,15.5,7.0,Beauty,81.87,No,Yes,Yes,No,,Night
+CUST00376,SESS708232,44.0,Male,Los Angeles,Desktop,Referral,24.5,15.0,Sports,274.9,Yes,No,No,No,,Morning
+CUST00377,SESS130260,34.0,Male,Los Angeles,Tablet,Referral,8.4,6.0,Fashion,161.69,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00378,SESS152102,63.0,Female,Toronto,Mobile,Organic,1.0,3.0,Fashion,267.54,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00379,SESS234584,24.0,Female,New York,Mobile,Organic,14.8,11.0,Fashion,,No,No,No,No,,Night
+CUST00380,SESS654459,61.0,Female,Dubai,Desktop,Organic,9.4,4.0,Books,39.88,No,No,No,No,,Morning
+CUST00381,SESS206971,58.0,Male,Sydney,Desktop,Social,9.5,8.0,Sports,273.52,Yes,Yes,Yes,No,,Evening
+CUST00382,SESS176027,32.0,Male,Sydney,Mobile,Ads,10.7,9.0,Beauty,37.5,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00383,SESS977094,28.0,Female,London,Mobile,Ads,5.3,4.0,Home & Kitchen,81.21,No,No,No,No,,Afternoon
+CUST00384,SESS757474,40.0,Female,Toronto,Mobile,Referral,1.0,1.0,Beauty,128.48,No,No,No,No,,Afternoon
+CUST00385,SESS623303,55.0,Male,London,Desktop,Organic,16.7,10.0,Home & Kitchen,47.62,Yes,Yes,Yes,No,,Night
+CUST00386,SESS995356,57.0,Female,New York,Desktop,Social,2.4,4.0,Sports,326.23,No,Yes,Yes,No,,Afternoon
+CUST00387,SESS349951,29.0,Female,Houston,Mobile,Ads,1.0,,Books,32.77,No,Yes,No,No,,Night
+CUST00388,SESS632047,43.0,Male,Dubai,Mobile,Referral,5.4,4.0,Home & Kitchen,142.88,Yes,No,No,No,,Evening
+CUST00389,SESS416779,55.0,Female,New York,Mobile,Ads,20.3,11.0,Sports,393.59,No,No,No,No,,Night
+CUST00390,SESS584536,23.0,Male,Los Angeles,Tablet,Ads,8.1,1.0,Electronics,786.15,No,Yes,Yes,No,,Afternoon
+CUST00391,SESS838362,43.0,Male,Phoenix,Mobile,Ads,4.2,3.0,Books,59.92,No,No,No,No,,Morning
+CUST00392,SESS875007,45.0,Male,Sydney,Desktop,Social,1.0,1.0,Fashion,278.94,No,No,No,No,,Evening
+CUST00393,SESS480027,33.0,Female,Phoenix,Mobile,Ads,12.2,5.0,Fashion,125.26,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00394,SESS870863,52.0,Male,New York,Desktop,Ads,20.1,12.0,Books,,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00395,SESS951748,28.0,Female,Phoenix,Mobile,Ads,1.0,,Home & Kitchen,359.83,Yes,No,No,No,,Night
+CUST00396,SESS353451,35.0,Other,Los Angeles,Desktop,,16.5,3.0,Electronics,,No,Yes,Yes,No,,Afternoon
+CUST00397,SESS251492,51.0,Female,Toronto,Mobile,Social,9.9,7.0,Books,15.99,No,No,No,No,,Morning
+CUST00398,SESS701871,26.0,Other,Los Angeles,Desktop,Referral,6.0,4.0,Fashion,59.21,No,Yes,No,Yes,Debit Card,Evening
+CUST00399,SESS207589,33.0,Male,New York,Mobile,,4.4,5.0,Fashion,243.0,No,No,No,No,,Afternoon
+CUST00400,SESS513481,28.0,Female,Singapore,Mobile,Ads,,3.0,Home & Kitchen,294.09,No,Yes,Yes,No,,Afternoon
+CUST00401,SESS863791,56.0,Female,Phoenix,Mobile,Social,13.8,9.0,Grocery,46.24,No,No,No,No,,Evening
+CUST00402,SESS883670,51.0,Male,London,Mobile,Organic,12.1,9.0,Electronics,,No,Yes,Yes,No,,Morning
+CUST00403,SESS947594,22.0,Male,Phoenix,Desktop,Social,7.8,8.0,Books,37.95,No,No,No,No,,Evening
+CUST00404,SESS498700,37.0,Female,Los Angeles,Desktop,Social,1.2,1.0,Fashion,46.04,No,Yes,Yes,No,,Afternoon
+CUST00405,SESS306106,52.0,Male,New York,Mobile,Organic,11.2,9.0,Fashion,48.35,Yes,Yes,No,Yes,Debit Card,Night
+CUST00406,SESS185688,46.0,Male,New York,Mobile,Social,10.9,7.0,Home & Kitchen,483.06,No,No,No,No,,Evening
+CUST00407,SESS805417,60.0,Female,London,Mobile,Social,1.0,,Electronics,803.96,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00408,SESS731806,57.0,Female,Chicago,Mobile,Social,5.7,3.0,Grocery,72.76,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00409,SESS742212,44.0,Male,Singapore,Mobile,Ads,4.0,1.0,Home & Kitchen,354.9,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00410,SESS889228,60.0,Male,London,Mobile,Social,9.3,6.0,Electronics,212.17,No,No,No,No,,Afternoon
+CUST00411,SESS584590,58.0,Female,Chicago,Mobile,Organic,1.9,5.0,Fashion,26.92,No,Yes,Yes,No,,Night
+CUST00412,SESS146494,32.0,Male,Los Angeles,Mobile,Social,10.9,8.0,Home & Kitchen,248.23,No,No,No,No,,Evening
+CUST00413,SESS795044,23.0,Female,Phoenix,Desktop,Referral,1.0,1.0,Home & Kitchen,64.32,No,Yes,No,Yes,Credit Card,Night
+CUST00414,SESS229317,62.0,Female,Los Angeles,Mobile,Ads,3.1,1.0,Grocery,46.82,No,Yes,Yes,No,,Morning
+CUST00415,SESS402803,49.0,Female,Los Angeles,Mobile,Organic,5.6,6.0,Electronics,933.26,No,No,No,No,,Night
+CUST00416,SESS720534,32.0,Male,Los Angeles,Mobile,Social,10.4,5.0,Beauty,12.11,No,Yes,No,No,,Evening
+CUST00417,SESS829645,,Male,Sydney,Mobile,Referral,12.7,7.0,Home & Kitchen,102.66,No,No,No,No,,Morning
+CUST00418,SESS385305,,Female,Houston,Desktop,Organic,2.1,1.0,Beauty,147.25,Yes,Yes,No,No,,Afternoon
+CUST00419,SESS675512,23.0,Male,Phoenix,Mobile,Organic,7.6,3.0,Electronics,1044.29,Yes,No,No,No,,Night
+CUST00420,SESS393339,45.0,Male,Dubai,Mobile,Ads,7.8,4.0,Electronics,995.75,No,No,No,No,,Evening
+CUST00421,SESS364737,24.0,Male,Chicago,Mobile,Organic,6.0,3.0,Grocery,39.15,No,Yes,No,Yes,Credit Card,Evening
+CUST00422,SESS639804,29.0,Female,Singapore,Mobile,Social,13.9,8.0,Fashion,72.43,No,No,No,No,,Afternoon
+CUST00423,SESS570137,28.0,Male,Houston,Desktop,Social,1.0,,Sports,301.74,Yes,No,No,No,,Morning
+CUST00424,SESS291829,61.0,Female,Dubai,Mobile,Ads,8.9,8.0,Sports,,Yes,No,No,No,,Night
+CUST00425,SESS992000,,Female,London,Mobile,Ads,5.7,1.0,Electronics,158.6,No,No,No,No,,Night
+CUST00426,SESS970557,61.0,Female,London,Tablet,Social,1.0,1.0,Fashion,212.39,No,No,No,No,,Evening
+CUST00427,SESS327396,26.0,Female,Phoenix,Mobile,Ads,12.0,12.0,Beauty,149.21,No,Yes,No,Yes,Credit Card,Evening
+CUST00428,SESS182213,41.0,Male,London,Mobile,Organic,1.0,1.0,Sports,252.6,Yes,No,No,No,,Morning
+CUST00429,SESS743048,33.0,Male,Toronto,Desktop,Referral,1.5,1.0,Electronics,263.78,Yes,Yes,No,No,,Night
+CUST00430,SESS213194,33.0,Female,Los Angeles,Mobile,Social,4.6,4.0,Beauty,52.37,No,Yes,Yes,No,,Evening
+CUST00431,SESS187125,35.0,Female,Toronto,Mobile,Ads,28.4,13.0,Books,19.08,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00432,SESS118440,18.0,Male,Sydney,Mobile,Social,1.0,1.0,Home & Kitchen,247.17,No,No,No,No,,Afternoon
+CUST00433,SESS111962,56.0,Female,New York,Mobile,Referral,,1.0,Beauty,136.52,No,Yes,No,No,,Afternoon
+CUST00434,SESS843651,45.0,Female,Chicago,Mobile,Organic,9.8,5.0,Electronics,627.93,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00435,SESS182257,56.0,Male,Los Angeles,Mobile,Social,13.8,9.0,Electronics,350.35,Yes,Yes,No,Yes,Wallet,Evening
+CUST00436,SESS832799,34.0,Male,Houston,Mobile,Organic,3.2,1.0,Fashion,16.84,No,No,No,No,,Evening
+CUST00437,SESS849550,46.0,Female,London,Tablet,Referral,4.7,4.0,Fashion,209.97,Yes,No,No,No,,Evening
+CUST00438,SESS593281,61.0,Male,New York,Desktop,,1.0,1.0,Sports,165.48,Yes,No,No,No,,Evening
+CUST00439,SESS608853,29.0,Female,Dubai,Mobile,Organic,,3.0,Toys,104.11,Yes,No,No,No,,Evening
+CUST00440,SESS389503,45.0,Female,Sydney,Desktop,Referral,8.9,4.0,Toys,176.4,No,Yes,Yes,No,,Afternoon
+CUST00441,SESS471990,18.0,Female,Toronto,Tablet,Ads,14.5,9.0,Electronics,213.18,No,Yes,Yes,No,,Night
+CUST00442,SESS260628,63.0,Male,Los Angeles,Mobile,Referral,2.6,1.0,Grocery,77.61,Yes,Yes,Yes,No,,Afternoon
+CUST00443,SESS372957,50.0,Female,Chicago,Mobile,Organic,4.4,4.0,Home & Kitchen,291.21,No,No,No,No,,Evening
+CUST00444,SESS480864,48.0,Female,New York,Desktop,Ads,3.2,6.0,Fashion,218.93,No,No,No,No,,Evening
+CUST00445,SESS946399,50.0,Female,Los Angeles,Desktop,Organic,8.8,8.0,Home & Kitchen,,No,No,No,No,,Night
+CUST00446,SESS918221,36.0,Male,London,Desktop,Organic,16.4,9.0,Beauty,36.34,No,Yes,No,Yes,Debit Card,Evening
+CUST00447,SESS989677,43.0,Male,London,Mobile,Ads,2.9,1.0,Home & Kitchen,385.95,No,Yes,Yes,No,,Afternoon
+CUST00448,SESS718890,47.0,Male,Chicago,Mobile,Referral,27.4,19.0,Toys,22.64,No,Yes,Yes,No,,Evening
+CUST00449,SESS105546,51.0,Male,Singapore,Mobile,Organic,4.7,3.0,Home & Kitchen,341.59,Yes,Yes,Yes,No,,Evening
+CUST00450,SESS806555,44.0,Other,Los Angeles,Mobile,Ads,1.1,2.0,Home & Kitchen,390.32,Yes,Yes,No,No,,Morning
+CUST00451,SESS688368,56.0,Male,Dubai,Desktop,Organic,5.1,4.0,Beauty,28.8,Yes,No,No,No,,Afternoon
+CUST00452,SESS535010,,Male,Chicago,Mobile,Ads,,10.0,Electronics,261.28,Yes,No,No,No,,Evening
+CUST00453,SESS147196,38.0,Female,Sydney,Mobile,Referral,2.0,2.0,Home & Kitchen,,No,Yes,No,Yes,Credit Card,Morning
+CUST00454,SESS502565,36.0,Female,London,Desktop,Social,30.2,20.0,Fashion,201.39,No,Yes,No,Yes,Credit Card,Night
+CUST00455,SESS672666,26.0,Male,Sydney,Desktop,Organic,26.0,16.0,Grocery,60.26,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00456,SESS513178,41.0,Male,Toronto,Mobile,Ads,3.5,1.0,Home & Kitchen,46.28,Yes,Yes,No,Yes,Wallet,Night
+CUST00457,SESS637197,34.0,Male,New York,Mobile,Ads,13.7,6.0,Grocery,5.29,No,Yes,Yes,No,,Night
+CUST00458,SESS579292,40.0,Female,Los Angeles,Mobile,Social,42.3,25.0,Toys,95.36,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00459,SESS468760,27.0,Male,New York,Mobile,Ads,2.9,3.0,Grocery,68.28,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00460,SESS567726,39.0,Male,Los Angeles,Desktop,Organic,,2.0,Toys,17.62,Yes,Yes,Yes,No,,Morning
+CUST00461,SESS691851,42.0,Male,Los Angeles,Mobile,,,13.0,Electronics,346.91,Yes,No,No,No,,Afternoon
+CUST00462,SESS126938,34.0,Male,Los Angeles,Desktop,Ads,1.1,4.0,Fashion,230.49,Yes,Yes,Yes,No,,Evening
+CUST00463,SESS473378,63.0,Female,Toronto,Mobile,Organic,3.6,5.0,Fashion,201.72,No,Yes,Yes,No,,Night
+CUST00464,SESS608239,47.0,Male,Dubai,Mobile,Organic,1.0,1.0,Sports,179.94,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00465,SESS231759,53.0,Female,Sydney,Desktop,Organic,2.4,1.0,Books,13.81,No,No,No,No,,Morning
+CUST00466,SESS224394,47.0,Female,Singapore,Mobile,Organic,9.0,8.0,Home & Kitchen,152.65,No,Yes,No,Yes,Credit Card,Evening
+CUST00467,SESS759126,26.0,Male,New York,Desktop,Referral,9.5,9.0,Home & Kitchen,259.55,No,No,No,No,,Afternoon
+CUST00468,SESS438477,33.0,Female,Houston,Mobile,Ads,1.2,5.0,Fashion,132.63,No,Yes,No,Yes,Credit Card,Evening
+CUST00469,SESS326872,59.0,Male,London,Mobile,Referral,3.3,1.0,Electronics,852.64,No,Yes,No,No,,Afternoon
+CUST00470,SESS218728,19.0,Male,Phoenix,Mobile,Ads,31.1,21.0,Grocery,59.31,No,Yes,No,No,,Evening
+CUST00471,SESS606457,22.0,Male,Singapore,Mobile,Ads,10.7,9.0,Toys,99.37,Yes,Yes,No,No,,Morning
+CUST00472,SESS554625,23.0,Female,New York,Desktop,Referral,5.0,4.0,Books,8.75,Yes,No,No,No,,Evening
+CUST00473,SESS878750,18.0,Male,Los Angeles,Tablet,Ads,1.1,1.0,Fashion,158.94,Yes,Yes,Yes,No,,Morning
+CUST00474,SESS577594,64.0,Other,Chicago,Tablet,Ads,12.1,9.0,Home & Kitchen,339.04,Yes,Yes,Yes,No,,Evening
+CUST00475,SESS559032,62.0,Female,Los Angeles,Mobile,Referral,4.3,2.0,Fashion,242.48,No,Yes,Yes,No,,Evening
+CUST00476,SESS465499,55.0,Male,Toronto,Desktop,Referral,1.8,1.0,Fashion,206.38,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00477,SESS196303,47.0,Other,Chicago,Mobile,Referral,3.1,1.0,Toys,64.07,No,Yes,No,Yes,Wallet,Evening
+CUST00478,SESS536833,,Female,Phoenix,Desktop,Ads,9.8,4.0,Grocery,18.74,No,Yes,No,No,,Evening
+CUST00479,SESS306266,56.0,Male,Sydney,Mobile,Organic,13.7,8.0,Electronics,1043.58,No,Yes,Yes,No,,Afternoon
+CUST00480,SESS849128,64.0,Male,Singapore,Mobile,,15.2,10.0,Toys,24.62,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00481,SESS553299,26.0,Female,Chicago,Mobile,Ads,9.0,8.0,Toys,180.03,No,No,No,No,,Night
+CUST00482,SESS501948,23.0,Male,Los Angeles,Desktop,Social,1.0,3.0,Grocery,73.79,No,No,No,No,,Afternoon
+CUST00483,SESS975228,51.0,Male,London,Mobile,Organic,1.0,1.0,Fashion,55.32,Yes,No,No,No,,Night
+CUST00484,SESS600827,47.0,Male,Toronto,Desktop,Ads,12.8,11.0,Fashion,211.79,Yes,Yes,No,Yes,Debit Card,Night
+CUST00485,SESS147304,63.0,Female,Sydney,Desktop,Organic,8.0,3.0,Books,6.58,No,Yes,Yes,No,,Morning
+CUST00486,SESS606015,59.0,Female,Houston,Mobile,Social,4.3,2.0,Sports,267.85,No,No,No,No,,Afternoon
+CUST00487,SESS391156,24.0,Male,Los Angeles,Desktop,Organic,1.3,2.0,Fashion,210.99,Yes,No,No,No,,Afternoon
+CUST00488,SESS658329,46.0,Female,Chicago,Desktop,Organic,2.4,4.0,Sports,70.62,No,No,No,No,,Afternoon
+CUST00489,SESS327730,28.0,Female,New York,Mobile,Organic,2.9,1.0,Sports,375.14,No,Yes,Yes,No,,Morning
+CUST00490,SESS939138,43.0,Female,Los Angeles,Mobile,Organic,25.2,16.0,Fashion,299.99,No,No,No,No,,Afternoon
+CUST00491,SESS317841,46.0,Male,Chicago,Desktop,Social,1.0,1.0,Grocery,20.0,Yes,Yes,Yes,No,,Afternoon
+CUST00492,SESS341812,59.0,Male,Dubai,Desktop,Organic,2.5,1.0,Electronics,596.96,No,No,No,No,,Night
+CUST00493,SESS951595,56.0,Female,New York,Mobile,Organic,5.7,2.0,Fashion,216.23,Yes,Yes,Yes,No,,Afternoon
+CUST00494,SESS425505,18.0,Female,Toronto,Desktop,Social,26.7,17.0,Grocery,29.01,No,No,No,No,,Evening
+CUST00495,SESS296282,47.0,Male,Toronto,Tablet,Organic,1.9,1.0,Books,21.86,No,Yes,Yes,No,,Evening
+CUST00496,SESS866863,51.0,Male,Phoenix,Desktop,Social,9.6,5.0,Books,57.28,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00497,SESS946575,43.0,Male,Los Angeles,Mobile,Ads,6.6,7.0,Grocery,64.98,No,No,No,No,,Afternoon
+CUST00498,SESS616963,53.0,Male,New York,Mobile,Ads,3.2,1.0,Sports,121.82,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00499,SESS213757,29.0,Female,Dubai,Desktop,Organic,3.9,2.0,Home & Kitchen,430.72,No,Yes,Yes,No,,Evening
+CUST00500,SESS841763,39.0,Male,Dubai,Desktop,Organic,18.6,10.0,Electronics,1093.75,No,No,No,No,,Evening
+CUST00501,SESS689816,30.0,Male,Houston,Tablet,Referral,6.2,5.0,Beauty,76.33,No,No,No,No,,Afternoon
+CUST00502,SESS755967,35.0,Female,Phoenix,Mobile,Ads,3.6,3.0,Electronics,461.48,No,Yes,No,No,,Afternoon
+CUST00503,SESS105240,54.0,Male,New York,Tablet,Organic,12.9,5.0,Home & Kitchen,362.16,No,No,No,No,,Afternoon
+CUST00504,SESS530790,52.0,Male,Phoenix,Mobile,Organic,4.5,2.0,Sports,343.55,No,No,No,No,,Night
+CUST00505,SESS938554,44.0,Male,Singapore,Mobile,Ads,12.2,4.0,Fashion,16.05,Yes,No,No,No,,Morning
+CUST00506,SESS211836,29.0,Male,Singapore,Mobile,Referral,6.6,7.0,Electronics,1172.47,Yes,Yes,Yes,No,,Morning
+CUST00507,SESS438667,32.0,Male,Houston,Mobile,,1.0,1.0,Sports,295.73,No,No,No,No,,Evening
+CUST00508,SESS238145,33.0,Male,London,Tablet,Organic,1.0,1.0,Electronics,277.73,Yes,No,No,No,,Afternoon
+CUST00509,SESS963651,61.0,Female,New York,Desktop,Social,4.1,4.0,Fashion,160.58,No,Yes,Yes,No,,Evening
+CUST00510,SESS529887,20.0,Male,Toronto,Mobile,Ads,5.2,2.0,Fashion,296.74,No,No,No,No,,Evening
+CUST00511,SESS872554,29.0,Female,London,Mobile,Social,2.9,2.0,Fashion,157.74,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00512,SESS791988,64.0,Male,Los Angeles,Mobile,Ads,2.6,,Home & Kitchen,241.05,Yes,No,No,No,,Morning
+CUST00513,SESS447013,39.0,Male,London,Mobile,Organic,30.9,20.0,Fashion,176.68,Yes,Yes,Yes,No,,Morning
+CUST00514,SESS451783,23.0,Other,Chicago,Mobile,Social,24.5,16.0,Home & Kitchen,401.71,Yes,Yes,Yes,No,,Night
+CUST00515,SESS404179,36.0,Female,Los Angeles,Mobile,Social,4.7,1.0,Beauty,111.1,Yes,No,No,No,,Afternoon
+CUST00516,SESS897790,20.0,Female,London,Mobile,Ads,2.7,2.0,Books,44.3,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00517,SESS888653,40.0,Female,London,Tablet,Ads,11.8,9.0,Books,59.88,No,Yes,No,Yes,Wallet,Evening
+CUST00518,SESS282347,53.0,Female,Toronto,Desktop,Social,7.0,5.0,Beauty,96.13,No,Yes,Yes,No,,Night
+CUST00519,SESS208282,50.0,Female,Houston,Mobile,Ads,1.5,1.0,Sports,96.65,No,No,No,No,,Evening
+CUST00520,SESS636474,54.0,Male,Sydney,Desktop,Social,20.3,13.0,Beauty,121.34,No,No,No,No,,Morning
+CUST00521,SESS388802,23.0,Female,Houston,Mobile,Organic,4.5,4.0,Grocery,30.47,Yes,Yes,Yes,No,,Night
+CUST00522,SESS633100,23.0,Male,Dubai,Desktop,Organic,1.0,1.0,Books,59.48,No,Yes,No,Yes,Wallet,Evening
+CUST00523,SESS543387,45.0,Male,London,Desktop,Social,6.8,9.0,Fashion,259.22,No,No,No,No,,Afternoon
+CUST00524,SESS565789,60.0,Female,London,Desktop,Referral,20.6,12.0,Grocery,40.34,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00525,SESS350781,60.0,Female,New York,Desktop,Social,6.2,5.0,Electronics,682.17,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00526,SESS981269,64.0,Female,Los Angeles,Mobile,Organic,1.0,2.0,Home & Kitchen,329.8,No,No,No,No,,Evening
+CUST00527,SESS405470,19.0,Female,Toronto,Desktop,Referral,1.4,2.0,Fashion,39.75,No,No,No,No,,Afternoon
+CUST00528,SESS863465,46.0,Female,Houston,Tablet,Referral,12.3,7.0,Beauty,42.02,No,Yes,No,Yes,Wallet,Night
+CUST00529,SESS400272,48.0,Male,London,Mobile,Ads,9.0,4.0,Books,33.0,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00530,SESS399067,30.0,Female,Phoenix,Mobile,Ads,,4.0,Electronics,870.98,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00531,SESS560396,37.0,Female,New York,Tablet,Ads,11.4,7.0,Toys,111.0,Yes,No,No,No,,Morning
+CUST00532,SESS254629,43.0,Male,Toronto,Mobile,Referral,11.5,9.0,Beauty,29.8,No,No,No,No,,Afternoon
+CUST00533,SESS830836,59.0,Female,New York,Desktop,,20.4,11.0,Home & Kitchen,169.99,No,No,No,No,,Night
+CUST00534,SESS471691,38.0,Female,Houston,Mobile,,16.6,8.0,Beauty,66.83,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00535,SESS558980,64.0,Female,New York,Mobile,Ads,1.5,1.0,Electronics,165.82,No,No,No,No,,Evening
+CUST00536,SESS478707,53.0,Male,London,Desktop,Ads,5.2,5.0,Sports,112.19,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00537,SESS630861,62.0,Female,Dubai,Mobile,Referral,4.2,1.0,Home & Kitchen,,No,No,No,No,,Evening
+CUST00538,SESS852788,36.0,Female,Phoenix,Desktop,Ads,13.3,14.0,Toys,16.93,Yes,Yes,Yes,No,,Evening
+CUST00539,SESS580517,58.0,Male,Toronto,Mobile,Organic,8.2,4.0,Sports,99.3,No,No,No,No,,Night
+CUST00540,SESS678603,58.0,Male,London,Tablet,Referral,5.2,3.0,Home & Kitchen,241.11,Yes,Yes,Yes,No,,Evening
+CUST00541,SESS434431,29.0,Male,Phoenix,Desktop,Organic,12.0,8.0,Electronics,1062.24,No,No,No,No,,Night
+CUST00542,SESS739228,46.0,Female,New York,Mobile,Referral,10.4,3.0,Fashion,233.14,No,Yes,Yes,No,,Night
+CUST00543,SESS758016,22.0,Other,Singapore,Tablet,Referral,2.4,1.0,Electronics,787.63,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00544,SESS706243,21.0,Male,New York,Desktop,Ads,1.0,1.0,Grocery,26.67,No,Yes,Yes,No,,Morning
+CUST00545,SESS648266,49.0,Female,London,Desktop,Social,15.9,8.0,Fashion,200.37,Yes,No,No,No,,Evening
+CUST00546,SESS297006,37.0,Male,Singapore,Mobile,Ads,,1.0,Fashion,218.72,No,No,No,No,,Morning
+CUST00547,SESS245112,57.0,Female,Sydney,Mobile,Referral,1.3,,Electronics,850.23,No,No,No,No,,Night
+CUST00548,SESS174751,38.0,Female,London,Desktop,Social,1.0,1.0,Beauty,140.74,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00549,SESS418903,55.0,Female,London,Desktop,Social,1.7,2.0,Beauty,71.26,No,Yes,Yes,No,,Afternoon
+CUST00550,SESS637882,42.0,Male,Singapore,Mobile,Organic,16.4,11.0,Grocery,37.89,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00551,SESS102559,32.0,Male,Toronto,Mobile,Social,15.2,8.0,Fashion,113.55,No,No,No,No,,Afternoon
+CUST00552,SESS802228,49.0,Male,Los Angeles,Mobile,Social,15.4,6.0,Books,8.49,No,Yes,Yes,No,,Night
+CUST00553,SESS889577,53.0,Female,Sydney,Mobile,Ads,6.1,3.0,Electronics,420.94,Yes,No,No,No,,Morning
+CUST00554,SESS438939,43.0,Male,Los Angeles,Mobile,Social,1.8,1.0,Books,23.34,No,No,No,No,,Night
+CUST00555,SESS125704,41.0,Female,Houston,Mobile,Social,2.4,2.0,Grocery,79.43,Yes,No,No,No,,Afternoon
+CUST00556,SESS660377,59.0,Female,Sydney,Desktop,Organic,2.6,3.0,Fashion,166.48,No,Yes,Yes,No,,Morning
+CUST00557,SESS483720,32.0,Male,Toronto,Mobile,Referral,19.8,10.0,Sports,59.68,Yes,Yes,Yes,No,,Night
+CUST00558,SESS328075,51.0,Male,Phoenix,Mobile,Social,3.5,3.0,Sports,187.03,No,No,No,No,,Afternoon
+CUST00559,SESS337447,45.0,Female,New York,Mobile,Ads,12.0,8.0,Electronics,458.44,Yes,Yes,Yes,No,,Afternoon
+CUST00560,SESS199991,53.0,Female,Dubai,Mobile,Referral,12.9,9.0,Home & Kitchen,32.52,Yes,No,No,No,,Morning
+CUST00561,SESS777943,61.0,Female,Singapore,Mobile,Ads,17.9,11.0,Grocery,44.39,Yes,No,No,No,,Afternoon
+CUST00562,SESS155271,59.0,Male,London,Mobile,Referral,8.2,7.0,Beauty,145.63,Yes,Yes,No,Yes,Credit Card,Night
+CUST00563,SESS504872,22.0,Male,Chicago,Desktop,Ads,7.5,2.0,Grocery,11.6,No,Yes,Yes,No,,Evening
+CUST00564,SESS716988,41.0,Male,London,Desktop,Referral,1.0,,Fashion,103.8,Yes,No,No,No,,Afternoon
+CUST00565,SESS794828,63.0,Female,Dubai,Desktop,Ads,4.8,2.0,Electronics,495.12,No,Yes,Yes,No,,Morning
+CUST00566,SESS636320,61.0,Female,New York,Mobile,Organic,6.1,3.0,Toys,92.29,No,No,No,No,,Morning
+CUST00567,SESS837458,57.0,Female,Toronto,Mobile,Organic,5.6,4.0,Electronics,341.57,No,No,No,No,,Afternoon
+CUST00568,SESS456080,24.0,Female,Toronto,Desktop,Ads,9.7,7.0,Home & Kitchen,260.76,No,Yes,Yes,No,,Morning
+CUST00569,SESS804702,27.0,Female,Los Angeles,Desktop,Social,1.0,1.0,Toys,138.08,No,No,No,No,,Evening
+CUST00570,SESS705901,38.0,Other,Phoenix,Mobile,Referral,6.1,1.0,Sports,112.56,No,Yes,No,Yes,Credit Card,Night
+CUST00571,SESS262701,60.0,Female,Houston,Mobile,Organic,9.2,10.0,Books,10.9,No,Yes,No,Yes,Wallet,Night
+CUST00572,SESS204379,45.0,Male,London,Desktop,Ads,8.6,5.0,Grocery,,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00573,SESS170102,52.0,Female,Chicago,Mobile,Referral,3.3,1.0,Sports,164.01,No,Yes,Yes,No,,Evening
+CUST00574,SESS912377,34.0,Female,New York,Mobile,Referral,1.0,1.0,Toys,85.45,No,Yes,No,No,,Afternoon
+CUST00575,SESS787614,27.0,Male,Sydney,Mobile,Ads,5.8,5.0,Beauty,42.44,No,Yes,No,Yes,Wallet,Afternoon
+CUST00576,SESS249483,27.0,Female,Sydney,Mobile,Ads,6.0,,Grocery,77.68,No,Yes,No,No,,Afternoon
+CUST00577,SESS485659,24.0,Male,London,Mobile,Referral,2.2,3.0,Electronics,699.74,No,No,No,No,,Night
+CUST00578,SESS768834,54.0,Male,London,Mobile,,10.7,7.0,Beauty,13.66,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00579,SESS480876,60.0,Male,Houston,Mobile,Organic,1.0,3.0,Electronics,251.91,No,Yes,No,No,,Night
+CUST00580,SESS656008,64.0,Female,Los Angeles,Mobile,Organic,13.3,8.0,Fashion,,No,Yes,No,Yes,Credit Card,Night
+CUST00581,SESS284529,28.0,Male,Houston,Mobile,Ads,4.3,1.0,Electronics,99.53,No,No,No,No,,Afternoon
+CUST00582,SESS681118,38.0,Male,London,Desktop,Organic,3.0,3.0,Sports,289.68,No,Yes,Yes,No,,Afternoon
+CUST00583,SESS714050,58.0,Female,Toronto,Mobile,Social,4.0,4.0,Electronics,640.07,No,No,No,No,,Afternoon
+CUST00584,SESS805967,24.0,Male,Chicago,Desktop,Organic,7.9,4.0,Home & Kitchen,92.52,No,No,No,No,,Evening
+CUST00585,SESS339206,22.0,Male,Singapore,Mobile,Referral,3.6,2.0,Fashion,151.53,Yes,No,No,No,,Afternoon
+CUST00586,SESS944289,31.0,Male,Los Angeles,Tablet,Social,9.8,3.0,Books,39.77,Yes,Yes,Yes,No,,Night
+CUST00587,SESS513565,30.0,Female,London,Mobile,Social,11.0,6.0,Electronics,834.56,No,No,No,No,,Night
+CUST00588,SESS317720,43.0,Male,Sydney,Desktop,Ads,1.0,1.0,Beauty,51.49,No,No,No,No,,Afternoon
+CUST00589,SESS791588,50.0,Female,London,Desktop,Organic,3.7,2.0,Grocery,49.25,No,No,No,No,,Evening
+CUST00590,SESS148401,60.0,Male,Dubai,Mobile,Ads,1.3,1.0,Electronics,498.8,No,No,No,No,,Evening
+CUST00591,SESS934219,50.0,Male,Sydney,Desktop,Organic,3.2,2.0,Beauty,134.1,Yes,No,No,No,,Morning
+CUST00592,SESS988331,64.0,Female,Houston,Tablet,Social,1.3,1.0,Grocery,65.85,No,No,No,No,,Afternoon
+CUST00593,SESS514957,29.0,Female,London,Tablet,Ads,3.8,5.0,Beauty,,Yes,No,No,No,,Evening
+CUST00594,SESS561543,20.0,Male,Sydney,Mobile,Social,3.7,1.0,Fashion,192.02,Yes,Yes,No,Yes,Wallet,Morning
+CUST00595,SESS985626,59.0,Male,Los Angeles,Mobile,Social,7.7,6.0,Home & Kitchen,82.18,No,Yes,Yes,No,,Evening
+CUST00596,SESS949175,,Male,Toronto,Mobile,Organic,11.6,6.0,Sports,329.98,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00597,SESS305811,40.0,Male,Chicago,Mobile,Social,,7.0,Beauty,122.11,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00598,SESS508733,26.0,Male,Dubai,Desktop,Ads,1.6,3.0,Books,26.46,Yes,Yes,Yes,No,,Afternoon
+CUST00599,SESS442387,62.0,Male,Los Angeles,Mobile,Ads,1.0,1.0,Fashion,273.46,No,No,No,No,,Evening
+CUST00600,SESS796510,20.0,Other,New York,Mobile,Organic,7.9,8.0,Grocery,60.8,No,No,No,No,,Morning
+CUST00601,SESS866515,38.0,Male,London,Desktop,Organic,1.0,1.0,Books,39.84,No,No,No,No,,Night
+CUST00602,SESS554509,34.0,Male,New York,Mobile,Social,,3.0,Electronics,283.8,No,No,No,No,,Night
+CUST00603,SESS671551,54.0,Male,New York,Mobile,Organic,5.4,6.0,Toys,173.27,Yes,Yes,Yes,No,,Evening
+CUST00604,SESS979406,48.0,Female,Houston,Mobile,Organic,1.4,,Beauty,72.42,No,Yes,No,No,,Evening
+CUST00605,SESS555882,,Female,Chicago,Desktop,Ads,1.0,,Sports,120.56,No,No,No,No,,Afternoon
+CUST00606,SESS270875,19.0,Male,London,Mobile,Ads,6.0,4.0,Fashion,120.22,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00607,SESS328633,57.0,Female,Los Angeles,Tablet,Referral,3.7,1.0,Electronics,379.92,No,No,No,No,,Morning
+CUST00608,SESS760320,38.0,Female,Phoenix,Mobile,Social,15.8,12.0,Electronics,233.46,Yes,Yes,Yes,No,,Night
+CUST00609,SESS803532,33.0,Female,Los Angeles,Desktop,Ads,10.2,5.0,Electronics,625.68,No,Yes,Yes,No,,Afternoon
+CUST00610,SESS444578,53.0,Male,New York,Desktop,Social,2.1,1.0,Grocery,28.06,No,Yes,Yes,No,,Night
+CUST00611,SESS561367,49.0,Male,New York,Mobile,Ads,3.2,3.0,Fashion,195.78,No,Yes,No,Yes,Credit Card,Evening
+CUST00612,SESS495474,22.0,Female,London,Mobile,Ads,6.6,4.0,Toys,153.9,No,No,No,No,,Night
+CUST00613,SESS906815,29.0,Female,Sydney,Desktop,Social,36.6,28.0,Fashion,88.72,No,Yes,No,No,,Afternoon
+CUST00614,SESS835036,57.0,Male,Dubai,Mobile,Ads,12.5,6.0,Books,56.5,No,No,No,No,,Evening
+CUST00615,SESS595962,31.0,Female,Phoenix,Desktop,Referral,1.0,1.0,Fashion,266.49,Yes,Yes,No,No,,Afternoon
+CUST00616,SESS426292,59.0,Other,Singapore,Desktop,,8.6,3.0,Toys,126.73,No,Yes,Yes,No,,Night
+CUST00617,SESS917479,21.0,Male,London,Mobile,Social,,1.0,Electronics,,Yes,Yes,No,No,,Morning
+CUST00618,SESS617444,18.0,Male,Los Angeles,Mobile,Ads,4.1,2.0,Electronics,899.8,No,Yes,Yes,No,,Evening
+CUST00619,SESS964216,33.0,Female,Dubai,Mobile,,2.6,1.0,Fashion,167.28,No,Yes,No,No,,Evening
+CUST00620,SESS695085,49.0,Male,New York,Tablet,Organic,1.0,2.0,Fashion,107.43,No,Yes,Yes,No,,Afternoon
+CUST00621,SESS580572,42.0,Female,Houston,Tablet,Social,16.2,11.0,Home & Kitchen,192.79,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00622,SESS596113,35.0,Male,Houston,Mobile,Organic,5.1,3.0,Fashion,166.15,No,No,No,No,,Afternoon
+CUST00623,SESS636395,57.0,Female,Toronto,Mobile,Referral,3.1,5.0,Beauty,121.11,No,Yes,No,Yes,Debit Card,Morning
+CUST00624,SESS174422,24.0,Male,Houston,Desktop,Ads,9.1,4.0,Beauty,114.69,No,Yes,No,No,,Morning
+CUST00625,SESS337347,31.0,Female,Houston,Mobile,Ads,18.2,10.0,Toys,63.18,No,No,No,No,,Night
+CUST00626,SESS963897,54.0,Male,Phoenix,Mobile,Referral,2.2,1.0,Beauty,87.89,Yes,Yes,Yes,No,,Night
+CUST00627,SESS144226,21.0,Male,Chicago,Mobile,Ads,9.8,5.0,Sports,222.55,No,No,No,No,,Afternoon
+CUST00628,SESS787962,38.0,Female,Dubai,Tablet,Ads,4.3,1.0,Fashion,139.95,No,No,No,No,,Afternoon
+CUST00629,SESS374535,27.0,Male,Houston,Desktop,Referral,13.0,8.0,Toys,105.46,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00630,SESS683886,42.0,Male,Chicago,Desktop,Referral,5.8,5.0,Toys,114.4,No,No,No,No,,Afternoon
+CUST00631,SESS110323,38.0,Male,New York,Desktop,Social,2.7,4.0,Books,49.76,No,No,No,No,,Evening
+CUST00632,SESS929525,63.0,Female,Houston,Desktop,Ads,8.9,4.0,Home & Kitchen,348.69,No,No,No,No,,Night
+CUST00633,SESS260780,32.0,Female,Houston,Tablet,Organic,2.0,4.0,Books,52.55,Yes,Yes,Yes,No,,Afternoon
+CUST00634,SESS473064,26.0,Male,Chicago,Desktop,Ads,20.2,13.0,Sports,121.78,No,No,No,No,,Morning
+CUST00635,SESS911173,24.0,Male,Los Angeles,Mobile,Ads,7.5,,Electronics,262.26,No,Yes,No,Yes,Credit Card,Evening
+CUST00636,SESS549464,36.0,Male,Houston,Mobile,Social,2.3,4.0,Home & Kitchen,315.13,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00637,SESS346437,50.0,Male,New York,Desktop,Social,8.2,2.0,Sports,325.12,No,No,No,No,,Morning
+CUST00638,SESS712761,53.0,Female,Chicago,Tablet,Ads,2.5,3.0,Fashion,88.54,Yes,Yes,Yes,No,,Evening
+CUST00639,SESS963988,26.0,Female,New York,Tablet,Social,3.5,1.0,Fashion,201.72,No,Yes,No,Yes,Credit Card,Evening
+CUST00640,SESS295805,34.0,Female,Chicago,Mobile,Organic,9.2,9.0,Books,47.14,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00641,SESS791582,50.0,Female,Toronto,Tablet,Ads,1.0,1.0,Sports,216.55,Yes,No,No,No,,Evening
+CUST00642,SESS151593,24.0,Female,Toronto,Desktop,Referral,7.4,3.0,Beauty,14.27,No,No,No,No,,Morning
+CUST00643,SESS291629,59.0,Female,Chicago,Mobile,Ads,1.5,1.0,Electronics,393.97,No,No,No,No,,Morning
+CUST00644,SESS458907,35.0,Female,Houston,Mobile,Ads,4.6,1.0,Sports,,No,No,No,No,,Afternoon
+CUST00645,SESS328317,41.0,Female,Sydney,Tablet,,1.0,1.0,Fashion,37.57,No,No,No,No,,Morning
+CUST00646,SESS689328,,Male,Sydney,Desktop,Referral,4.2,3.0,Books,,Yes,No,No,No,,Night
+CUST00647,SESS329688,22.0,Female,Los Angeles,Desktop,Ads,1.1,2.0,Fashion,47.15,Yes,No,No,No,,Evening
+CUST00648,SESS871963,64.0,Female,New York,Mobile,Social,27.6,17.0,Electronics,590.12,No,No,No,No,,Afternoon
+CUST00649,SESS351189,51.0,Female,London,Mobile,Referral,18.6,13.0,Home & Kitchen,471.6,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00650,SESS415452,50.0,Male,Sydney,Mobile,Social,2.1,1.0,Home & Kitchen,48.37,No,Yes,No,No,,Evening
+CUST00651,SESS518776,34.0,Male,Sydney,Desktop,Ads,4.1,3.0,Books,27.68,Yes,No,No,No,,Evening
+CUST00652,SESS338108,53.0,Male,Singapore,Desktop,Referral,10.8,6.0,Sports,188.04,No,No,No,No,,Afternoon
+CUST00653,SESS799245,25.0,Female,Toronto,Desktop,Referral,6.7,6.0,Fashion,19.41,No,Yes,No,Yes,Wallet,Morning
+CUST00654,SESS728048,19.0,Male,London,Desktop,Organic,4.9,2.0,Fashion,297.36,No,Yes,No,No,,Evening
+CUST00655,SESS762723,49.0,Male,Sydney,Mobile,Ads,7.7,3.0,Electronics,,No,Yes,No,No,,Night
+CUST00656,SESS444284,37.0,Female,Sydney,Desktop,Referral,6.4,3.0,Electronics,630.07,No,No,No,No,,Night
+CUST00657,SESS190063,56.0,Female,Chicago,Desktop,Organic,5.0,1.0,Books,19.9,No,Yes,No,No,,Evening
+CUST00658,SESS810130,24.0,Female,New York,Mobile,Ads,1.0,1.0,Fashion,145.89,No,No,No,No,,Evening
+CUST00659,SESS376297,23.0,Female,Houston,Tablet,Ads,6.0,2.0,Beauty,40.12,No,Yes,No,Yes,Debit Card,Night
+CUST00660,SESS370832,24.0,Female,New York,Desktop,Ads,4.5,4.0,Books,21.79,No,Yes,Yes,No,,Evening
+CUST00661,SESS586916,32.0,Female,Chicago,Mobile,Referral,8.0,5.0,Fashion,25.15,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00662,SESS711089,40.0,Male,Phoenix,Mobile,Organic,4.3,3.0,Grocery,44.61,Yes,Yes,No,Yes,Credit Card,Night
+CUST00663,SESS893171,20.0,Female,London,Mobile,Ads,1.0,2.0,Home & Kitchen,467.62,No,No,No,No,,Night
+CUST00664,SESS783119,61.0,Male,Dubai,Mobile,Ads,8.0,6.0,Beauty,102.75,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00665,SESS774062,64.0,Male,Singapore,Mobile,Social,12.4,7.0,Fashion,202.36,No,Yes,Yes,No,,Morning
+CUST00666,SESS311636,43.0,Male,London,Mobile,Social,20.8,13.0,Beauty,91.51,No,Yes,Yes,No,,Evening
+CUST00667,SESS143987,,Female,Dubai,Desktop,Social,7.0,2.0,Toys,153.94,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00668,SESS123112,59.0,Female,Houston,Mobile,Social,10.1,8.0,Grocery,32.37,No,Yes,No,Yes,Debit Card,Night
+CUST00669,SESS459355,46.0,Male,Sydney,Mobile,Social,6.8,9.0,Books,5.02,Yes,Yes,Yes,No,,Night
+CUST00670,SESS426334,25.0,Female,Dubai,Tablet,Referral,3.3,1.0,Grocery,7.07,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00671,SESS170376,44.0,Male,Toronto,Desktop,Ads,5.4,5.0,Toys,32.99,No,Yes,No,No,,Morning
+CUST00672,SESS896561,28.0,Female,Houston,Desktop,Referral,14.7,8.0,Electronics,834.96,No,No,No,No,,Afternoon
+CUST00673,SESS491866,63.0,Male,Chicago,Tablet,Ads,7.0,6.0,Sports,202.15,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00674,SESS948113,24.0,Female,Los Angeles,Mobile,Organic,7.0,5.0,Home & Kitchen,236.67,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00675,SESS521437,,Female,London,Desktop,Ads,2.8,5.0,Electronics,90.13,No,No,No,No,,Evening
+CUST00676,SESS825220,59.0,Female,Toronto,Tablet,Organic,1.0,2.0,Fashion,252.08,No,No,No,No,,Morning
+CUST00677,SESS175945,64.0,Female,Singapore,Mobile,Ads,10.9,5.0,Beauty,142.52,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00678,SESS657515,57.0,Female,London,Desktop,Organic,3.4,2.0,Books,45.95,Yes,No,No,No,,Afternoon
+CUST00679,SESS674648,20.0,Female,London,Mobile,Social,1.6,3.0,Home & Kitchen,492.87,Yes,Yes,Yes,No,,Afternoon
+CUST00680,SESS762478,20.0,Female,Toronto,Mobile,Organic,1.0,6.0,Toys,149.52,Yes,No,No,No,,Afternoon
+CUST00681,SESS208865,39.0,Female,Los Angeles,Tablet,Ads,2.9,1.0,Grocery,47.29,No,No,No,No,,Evening
+CUST00682,SESS838791,38.0,Male,Houston,Tablet,Social,10.5,7.0,Toys,66.58,No,No,No,No,,Evening
+CUST00683,SESS751381,18.0,Female,Toronto,Mobile,Ads,6.4,3.0,Beauty,143.04,No,Yes,Yes,No,,Afternoon
+CUST00684,SESS632569,21.0,Male,Toronto,Mobile,Organic,2.2,5.0,Grocery,40.25,No,Yes,Yes,No,,Night
+CUST00685,SESS360551,28.0,Female,Dubai,Desktop,Organic,4.4,4.0,Fashion,59.31,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00686,SESS983880,20.0,Other,Toronto,Desktop,Organic,13.2,6.0,Home & Kitchen,65.89,No,No,No,No,,Night
+CUST00687,SESS374503,55.0,Female,New York,Mobile,Ads,10.0,4.0,Home & Kitchen,98.71,Yes,Yes,No,Yes,Wallet,Morning
+CUST00688,SESS787526,38.0,Male,Los Angeles,Mobile,Social,6.2,6.0,Fashion,101.56,Yes,Yes,No,No,,Morning
+CUST00689,SESS431925,,Male,New York,Tablet,Organic,8.7,5.0,Fashion,154.18,Yes,Yes,Yes,No,,Afternoon
+CUST00690,SESS682142,29.0,Female,Los Angeles,Desktop,Referral,1.0,,Toys,133.57,Yes,Yes,No,No,,Night
+CUST00691,SESS265039,59.0,Male,Los Angeles,Mobile,Organic,1.0,1.0,Electronics,647.41,No,No,No,No,,Afternoon
+CUST00692,SESS225855,27.0,Male,Houston,Desktop,Social,1.0,1.0,Fashion,130.17,Yes,No,No,No,,Evening
+CUST00693,SESS267924,24.0,Female,London,Mobile,Organic,27.0,20.0,Home & Kitchen,260.97,No,Yes,No,No,,Afternoon
+CUST00694,SESS822667,55.0,Female,London,Mobile,Organic,17.1,11.0,Fashion,71.46,No,Yes,No,No,,Night
+CUST00695,SESS186318,59.0,Female,Singapore,Mobile,Referral,7.1,3.0,Sports,181.75,No,Yes,Yes,No,,Evening
+CUST00696,SESS535431,,Male,Phoenix,Tablet,Social,8.6,5.0,Fashion,162.64,No,No,No,No,,Morning
+CUST00697,SESS108455,20.0,Female,Chicago,Desktop,Social,8.3,8.0,Home & Kitchen,233.42,Yes,Yes,No,No,,Afternoon
+CUST00698,SESS470097,18.0,Male,Houston,Tablet,Social,13.7,8.0,Books,45.35,No,No,No,No,,Afternoon
+CUST00699,SESS492853,27.0,Male,New York,Mobile,Ads,15.1,5.0,Fashion,155.45,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00700,SESS268513,23.0,Female,London,Mobile,Referral,2.1,1.0,Home & Kitchen,498.55,No,No,No,No,,Night
+CUST00701,SESS512346,,Female,Singapore,Mobile,Social,23.6,,Fashion,100.46,No,No,No,No,,Afternoon
+CUST00702,SESS133543,51.0,Male,London,Mobile,Ads,7.3,7.0,Fashion,174.36,No,Yes,No,Yes,Wallet,Afternoon
+CUST00703,SESS793862,53.0,Male,Dubai,Mobile,,9.1,4.0,Fashion,258.06,No,No,No,No,,Night
+CUST00704,SESS217662,63.0,Male,London,Desktop,Ads,5.4,2.0,Books,52.34,No,No,No,No,,Night
+CUST00705,SESS264131,31.0,Other,New York,Mobile,Ads,16.5,9.0,Electronics,287.88,No,Yes,No,No,,Night
+CUST00706,SESS621107,51.0,Male,Houston,Desktop,Organic,12.7,9.0,Electronics,565.45,No,No,No,No,,Afternoon
+CUST00707,SESS299544,24.0,Female,London,Mobile,Ads,3.7,3.0,Electronics,1085.41,No,No,No,No,,Afternoon
+CUST00708,SESS251662,61.0,Male,London,Mobile,Organic,2.7,3.0,Electronics,721.77,Yes,No,No,No,,Evening
+CUST00709,SESS471748,,Male,Phoenix,Desktop,Ads,13.0,8.0,Beauty,78.51,No,Yes,Yes,No,,Morning
+CUST00710,SESS132075,41.0,Female,Houston,Tablet,,1.0,1.0,Sports,247.61,Yes,Yes,No,No,,Night
+CUST00711,SESS351580,46.0,Male,London,Tablet,,4.6,5.0,Books,29.23,Yes,Yes,Yes,No,,Evening
+CUST00712,SESS121449,60.0,Female,Toronto,Tablet,Social,6.4,2.0,Electronics,475.9,No,Yes,Yes,No,,Evening
+CUST00713,SESS105433,39.0,Female,Chicago,Desktop,Referral,14.3,9.0,Beauty,96.34,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00714,SESS444613,37.0,Male,Los Angeles,Desktop,Organic,3.3,7.0,Fashion,102.74,No,Yes,Yes,No,,Evening
+CUST00715,SESS289425,59.0,Male,Chicago,Desktop,Referral,2.1,3.0,Toys,164.54,No,Yes,Yes,No,,Afternoon
+CUST00716,SESS366093,34.0,Female,Sydney,Mobile,Social,3.3,4.0,Beauty,50.07,Yes,Yes,No,Yes,Credit Card,Night
+CUST00717,SESS371065,27.0,Male,Houston,Desktop,Ads,13.8,10.0,Fashion,114.82,No,Yes,Yes,No,,Night
+CUST00718,SESS311250,22.0,Male,Los Angeles,Mobile,Social,8.0,7.0,Fashion,296.34,No,No,No,No,,Night
+CUST00719,SESS916059,58.0,Male,Chicago,Desktop,Social,1.0,1.0,Sports,284.61,Yes,No,No,No,,Morning
+CUST00720,SESS799609,,Male,New York,Desktop,Organic,9.7,7.0,Books,42.09,Yes,No,No,No,,Evening
+CUST00721,SESS482831,55.0,Female,Los Angeles,Tablet,Organic,4.1,3.0,Sports,286.4,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00722,SESS970305,55.0,Female,New York,Mobile,Ads,1.6,2.0,Grocery,71.25,No,Yes,No,Yes,Credit Card,Evening
+CUST00723,SESS204631,,Male,New York,Mobile,Ads,3.1,2.0,Fashion,193.32,No,No,No,No,,Evening
+CUST00724,SESS891590,42.0,Female,Chicago,Mobile,Ads,3.7,1.0,Grocery,26.88,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00725,SESS588900,31.0,Male,Los Angeles,Mobile,Ads,1.8,2.0,Books,59.23,No,Yes,No,Yes,Credit Card,Evening
+CUST00726,SESS805468,26.0,Female,Chicago,Mobile,Organic,3.9,2.0,Beauty,86.87,No,Yes,No,No,,Afternoon
+CUST00727,SESS525395,63.0,Male,Phoenix,Mobile,Organic,2.4,1.0,Fashion,233.69,No,No,No,No,,Afternoon
+CUST00728,SESS417441,20.0,Female,London,Mobile,Social,1.0,1.0,Beauty,62.93,Yes,Yes,No,No,,Evening
+CUST00729,SESS626658,27.0,Female,London,Desktop,Ads,5.6,2.0,Electronics,108.52,No,No,No,No,,Morning
+CUST00730,SESS638011,26.0,Male,Toronto,Mobile,Organic,1.8,3.0,Toys,116.74,No,Yes,No,Yes,Wallet,Afternoon
+CUST00731,SESS501646,40.0,Male,London,Tablet,Ads,2.0,1.0,Beauty,16.48,No,Yes,Yes,No,,Afternoon
+CUST00732,SESS772321,29.0,Female,Toronto,Mobile,Social,8.0,4.0,Home & Kitchen,337.3,No,Yes,No,No,,Night
+CUST00733,SESS791365,43.0,Female,Chicago,Mobile,Referral,4.9,2.0,Grocery,55.51,No,Yes,No,Yes,Wallet,Evening
+CUST00734,SESS792923,49.0,Female,Sydney,Mobile,Social,3.6,1.0,Electronics,292.78,Yes,No,No,No,,Afternoon
+CUST00735,SESS142847,43.0,Female,Sydney,Mobile,,1.0,2.0,Books,38.98,Yes,Yes,No,No,,Evening
+CUST00736,SESS719565,20.0,Male,Phoenix,Mobile,Ads,1.0,1.0,Fashion,224.46,No,No,No,No,,Evening
+CUST00737,SESS415643,45.0,Male,Los Angeles,Mobile,,1.4,3.0,Grocery,17.01,No,No,No,No,,Night
+CUST00738,SESS229495,60.0,Male,London,Desktop,Ads,3.3,1.0,Beauty,127.18,No,No,No,No,,Night
+CUST00739,SESS169632,41.0,Female,Houston,Desktop,Ads,5.6,3.0,Home & Kitchen,108.11,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00740,SESS468773,30.0,Male,Sydney,Desktop,Ads,9.6,4.0,Beauty,45.0,No,Yes,No,Yes,Credit Card,Night
+CUST00741,SESS926194,20.0,Male,Dubai,Tablet,Social,2.6,1.0,Books,36.22,No,Yes,Yes,No,,Night
+CUST00742,SESS719981,39.0,Male,Chicago,Mobile,Ads,8.3,6.0,Grocery,22.47,No,Yes,No,No,,Night
+CUST00743,SESS579362,30.0,Male,London,Mobile,Ads,3.9,3.0,Electronics,643.88,Yes,Yes,No,No,,Evening
+CUST00744,SESS898182,50.0,Male,Chicago,Mobile,Social,1.7,1.0,Beauty,99.79,No,No,No,No,,Afternoon
+CUST00745,SESS853558,43.0,Male,Los Angeles,Mobile,Social,15.1,9.0,Electronics,291.05,Yes,No,No,No,,Night
+CUST00746,SESS990770,32.0,Male,Los Angeles,Mobile,Ads,1.5,,Books,10.63,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00747,SESS183816,29.0,Male,Toronto,Desktop,Referral,1.0,1.0,Beauty,,No,Yes,Yes,No,,Night
+CUST00748,SESS468039,21.0,Female,Dubai,Mobile,Ads,8.4,4.0,Home & Kitchen,,No,Yes,No,Yes,Wallet,Evening
+CUST00749,SESS548571,48.0,Female,Los Angeles,Mobile,Referral,12.5,7.0,Grocery,34.21,No,Yes,No,No,,Evening
+CUST00750,SESS370145,51.0,Female,Toronto,Tablet,Social,10.6,11.0,Books,50.4,No,Yes,No,No,,Afternoon
+CUST00751,SESS135952,24.0,Female,New York,Mobile,Social,9.3,1.0,Home & Kitchen,274.5,Yes,No,No,No,,Morning
+CUST00752,SESS217581,35.0,Male,Dubai,Mobile,Ads,3.5,4.0,Electronics,610.61,No,Yes,No,Yes,Wallet,Evening
+CUST00753,SESS184119,38.0,Female,Singapore,Tablet,Referral,18.1,10.0,Electronics,1188.24,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00754,SESS695711,54.0,Male,Dubai,Mobile,Ads,8.5,5.0,Electronics,647.84,No,Yes,Yes,No,,Evening
+CUST00755,SESS934754,63.0,Female,Dubai,Mobile,Organic,33.9,21.0,Toys,122.22,No,Yes,Yes,No,,Morning
+CUST00756,SESS846128,39.0,Male,Singapore,Mobile,Organic,2.0,1.0,Fashion,,Yes,Yes,No,No,,Night
+CUST00757,SESS816921,,Male,Singapore,Desktop,Social,1.8,,Sports,361.89,Yes,No,No,No,,Morning
+CUST00758,SESS822487,24.0,Female,Los Angeles,Mobile,Ads,16.3,11.0,Toys,11.42,Yes,Yes,Yes,No,,Afternoon
+CUST00759,SESS246730,23.0,Male,Singapore,Desktop,Referral,12.3,6.0,Electronics,1044.71,Yes,No,No,No,,Morning
+CUST00760,SESS351993,63.0,Female,Los Angeles,Desktop,Ads,6.0,5.0,Sports,284.43,No,No,No,No,,Afternoon
+CUST00761,SESS970298,28.0,Female,Sydney,Mobile,Referral,5.5,4.0,Beauty,47.63,No,No,No,No,,Evening
+CUST00762,SESS261561,61.0,Female,Los Angeles,Mobile,Organic,1.6,3.0,Sports,294.36,No,Yes,No,No,,Night
+CUST00763,SESS273617,52.0,Male,Dubai,Desktop,,5.8,4.0,Grocery,34.24,Yes,No,No,No,,Afternoon
+CUST00764,SESS180299,50.0,Male,London,Desktop,Organic,2.9,1.0,Fashion,262.66,No,No,No,No,,Night
+CUST00765,SESS284024,29.0,Female,Sydney,Mobile,Social,2.1,4.0,Electronics,86.75,Yes,Yes,Yes,No,,Afternoon
+CUST00766,SESS655563,56.0,Male,Dubai,Mobile,Ads,1.9,1.0,Grocery,63.82,No,Yes,No,Yes,Credit Card,Night
+CUST00767,SESS470636,41.0,Male,Chicago,Mobile,Organic,5.5,2.0,Electronics,1140.1,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00768,SESS781169,30.0,Female,Los Angeles,Desktop,Organic,31.2,22.0,Fashion,126.05,No,No,No,No,,Evening
+CUST00769,SESS245130,24.0,Male,Toronto,Mobile,Ads,9.9,5.0,Electronics,118.83,No,No,No,No,,Afternoon
+CUST00770,SESS218505,29.0,Female,New York,Mobile,Social,5.0,,Grocery,16.54,Yes,Yes,Yes,No,,Evening
+CUST00771,SESS775446,57.0,Male,Singapore,Desktop,Organic,2.9,4.0,Beauty,51.38,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00772,SESS722289,33.0,Female,Los Angeles,Tablet,Referral,28.7,18.0,Sports,173.92,Yes,Yes,Yes,No,,Evening
+CUST00773,SESS448751,29.0,Female,London,Desktop,Ads,1.3,1.0,Fashion,254.47,Yes,Yes,No,No,,Evening
+CUST00774,SESS147114,32.0,Male,Houston,Mobile,,8.3,1.0,Toys,,No,No,No,No,,Evening
+CUST00775,SESS958711,64.0,Female,Toronto,Desktop,Social,1.6,1.0,Grocery,24.12,No,Yes,Yes,No,,Evening
+CUST00776,SESS128940,29.0,Male,Houston,Desktop,Ads,1.5,1.0,Fashion,75.99,No,No,No,No,,Evening
+CUST00777,SESS811433,30.0,Male,Los Angeles,Mobile,Referral,5.1,4.0,Beauty,30.51,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00778,SESS999258,60.0,Female,London,Desktop,Organic,2.0,3.0,Home & Kitchen,35.94,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00779,SESS585730,53.0,Male,Sydney,Desktop,Ads,4.6,5.0,Sports,205.06,No,No,No,No,,Night
+CUST00780,SESS997937,43.0,Male,Houston,Desktop,Social,3.9,4.0,Toys,171.72,No,Yes,No,No,,Evening
+CUST00781,SESS425317,57.0,Female,Phoenix,Mobile,Social,1.0,2.0,Electronics,787.07,Yes,Yes,Yes,No,,Evening
+CUST00782,SESS697537,29.0,Female,Houston,Mobile,Social,3.2,2.0,Beauty,148.15,No,No,No,No,,Afternoon
+CUST00783,SESS382828,36.0,Female,Sydney,Desktop,Social,3.8,1.0,Electronics,159.21,No,No,No,No,,Evening
+CUST00784,SESS267458,34.0,Male,London,Mobile,Social,3.7,3.0,Home & Kitchen,371.06,No,No,No,No,,Afternoon
+CUST00785,SESS503991,32.0,Female,Los Angeles,Desktop,Organic,22.2,14.0,Fashion,69.66,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00786,SESS345679,25.0,Male,Singapore,Mobile,Ads,1.0,3.0,Fashion,107.99,Yes,No,No,No,,Evening
+CUST00787,SESS671484,31.0,Female,Singapore,Tablet,Organic,23.9,16.0,Toys,196.91,No,Yes,Yes,No,,Evening
+CUST00788,SESS720376,39.0,Male,Toronto,Mobile,Social,8.0,6.0,Beauty,135.31,No,Yes,Yes,No,,Night
+CUST00789,SESS704326,21.0,Male,New York,Mobile,Organic,1.0,4.0,Electronics,482.69,Yes,No,No,No,,Evening
+CUST00790,SESS927689,63.0,Male,Dubai,Mobile,Organic,21.5,12.0,Electronics,501.54,Yes,Yes,Yes,No,,Morning
+CUST00791,SESS392390,29.0,Female,Dubai,Desktop,Referral,,6.0,Beauty,80.94,No,Yes,No,Yes,Credit Card,Evening
+CUST00792,SESS395260,26.0,Female,Phoenix,Desktop,Social,2.9,3.0,Fashion,59.98,No,No,No,No,,Evening
+CUST00793,SESS222874,42.0,Female,Houston,Desktop,Ads,3.6,4.0,Grocery,70.29,Yes,Yes,No,No,,Night
+CUST00794,SESS765187,55.0,Male,New York,Mobile,Organic,5.0,1.0,Beauty,60.56,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00795,SESS280885,59.0,Male,New York,Mobile,Social,5.3,4.0,Home & Kitchen,329.59,No,No,No,No,,Afternoon
+CUST00796,SESS521725,58.0,Female,Sydney,Desktop,Referral,2.7,3.0,Fashion,89.66,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00797,SESS787470,31.0,Male,Chicago,Desktop,Social,8.7,7.0,Electronics,,No,No,No,No,,Night
+CUST00798,SESS898565,64.0,Female,Los Angeles,Desktop,Referral,1.0,3.0,Electronics,1072.8,No,No,No,No,,Afternoon
+CUST00799,SESS619250,33.0,Male,Los Angeles,Mobile,Social,8.9,5.0,Books,45.81,Yes,No,No,No,,Evening
+CUST00800,SESS531069,60.0,Female,Los Angeles,Desktop,Referral,25.5,16.0,Fashion,115.55,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00801,SESS576975,54.0,Female,London,Desktop,Social,7.3,3.0,Electronics,,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00802,SESS872705,34.0,Male,Los Angeles,Desktop,Organic,12.8,6.0,Home & Kitchen,482.52,No,Yes,No,No,,Evening
+CUST00803,SESS194603,19.0,Female,Chicago,Mobile,Ads,6.5,6.0,Home & Kitchen,336.63,No,Yes,Yes,No,,Morning
+CUST00804,SESS202172,21.0,Male,Phoenix,Tablet,Ads,3.4,3.0,Fashion,177.31,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00805,SESS188219,,Female,Houston,Desktop,Social,2.1,2.0,Home & Kitchen,392.95,No,Yes,No,No,,Afternoon
+CUST00806,SESS396932,35.0,Female,Phoenix,Desktop,Ads,5.5,1.0,Beauty,117.74,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00807,SESS640186,62.0,Female,Los Angeles,Mobile,Ads,7.2,5.0,Beauty,125.42,Yes,Yes,No,Yes,Credit Card,Night
+CUST00808,SESS405163,53.0,Female,Phoenix,Desktop,Organic,30.6,18.0,Toys,30.97,No,Yes,Yes,No,,Night
+CUST00809,SESS986468,29.0,Female,Sydney,Mobile,Organic,9.7,9.0,Fashion,106.56,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00810,SESS294594,,Male,Singapore,Mobile,Social,1.5,1.0,Home & Kitchen,358.77,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00811,SESS728130,26.0,Female,Los Angeles,Mobile,Social,1.0,2.0,Books,17.12,No,Yes,No,No,,Evening
+CUST00812,SESS685789,34.0,Female,London,Mobile,Social,11.8,10.0,Books,15.5,Yes,Yes,Yes,No,,Night
+CUST00813,SESS534729,36.0,Male,New York,Tablet,Social,1.2,1.0,Toys,107.71,Yes,No,No,No,,Evening
+CUST00814,SESS205937,26.0,Male,Los Angeles,Desktop,Ads,15.9,10.0,Beauty,85.25,Yes,No,No,No,,Night
+CUST00815,SESS520492,24.0,Female,Singapore,Desktop,Ads,1.8,1.0,Electronics,854.92,Yes,Yes,Yes,No,,Night
+CUST00816,SESS468866,54.0,Male,Chicago,Desktop,Referral,23.3,14.0,Electronics,930.01,No,Yes,No,Yes,Credit Card,Afternoon
+CUST00817,SESS832086,59.0,Female,Los Angeles,Mobile,Ads,9.5,7.0,Home & Kitchen,280.02,No,Yes,Yes,No,,Night
+CUST00818,SESS578044,25.0,Male,Houston,Mobile,Organic,,6.0,Toys,190.54,No,Yes,Yes,No,,Afternoon
+CUST00819,SESS588692,35.0,Female,London,Tablet,Social,3.2,1.0,Electronics,,No,No,No,No,,Evening
+CUST00820,SESS722150,43.0,Female,London,Desktop,Ads,1.0,6.0,Toys,102.67,Yes,Yes,Yes,No,,Evening
+CUST00821,SESS281911,44.0,Female,New York,Mobile,Organic,30.6,17.0,Grocery,27.48,No,Yes,Yes,No,,Morning
+CUST00822,SESS471126,49.0,Female,Phoenix,Mobile,Social,11.6,8.0,Electronics,155.94,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00823,SESS644738,36.0,Female,Singapore,Mobile,Social,9.0,7.0,Sports,57.92,Yes,Yes,Yes,No,,Evening
+CUST00824,SESS286002,31.0,Male,Dubai,Tablet,Referral,15.0,7.0,Toys,180.92,No,No,No,No,,Night
+CUST00825,SESS582695,38.0,Female,New York,Mobile,Organic,1.0,1.0,Grocery,17.78,No,No,No,No,,Morning
+CUST00826,SESS908400,60.0,Female,Toronto,Mobile,Ads,5.0,4.0,Sports,165.83,No,Yes,No,No,,Evening
+CUST00827,SESS908957,21.0,Male,Singapore,Tablet,Referral,6.6,2.0,Sports,226.62,No,Yes,Yes,No,,Evening
+CUST00828,SESS754829,39.0,Female,Phoenix,Desktop,Ads,8.6,3.0,Sports,31.3,No,Yes,No,Yes,Credit Card,Evening
+CUST00829,SESS845348,49.0,Male,New York,Desktop,Ads,4.8,8.0,Grocery,46.25,Yes,Yes,Yes,No,,Evening
+CUST00830,SESS689491,57.0,Male,New York,Mobile,Organic,11.5,7.0,Home & Kitchen,186.75,Yes,No,No,No,,Afternoon
+CUST00831,SESS184678,21.0,Female,Singapore,Mobile,Organic,3.2,,Beauty,20.23,No,No,No,No,,Evening
+CUST00832,SESS714943,36.0,Female,Los Angeles,Mobile,Ads,8.9,8.0,Fashion,16.18,No,Yes,No,Yes,Wallet,Evening
+CUST00833,SESS846748,62.0,Male,Singapore,Mobile,,2.4,5.0,Electronics,395.97,Yes,Yes,No,Yes,Wallet,Evening
+CUST00834,SESS671631,32.0,Male,Los Angeles,Mobile,Referral,7.9,3.0,Home & Kitchen,415.89,No,No,No,No,,Morning
+CUST00835,SESS571256,41.0,Female,London,Desktop,Organic,18.1,12.0,Electronics,476.49,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00836,SESS771713,23.0,Other,Dubai,Mobile,,16.0,13.0,Home & Kitchen,447.52,No,Yes,No,No,,Evening
+CUST00837,SESS962188,24.0,Male,Phoenix,Desktop,Referral,1.2,,Beauty,10.2,No,Yes,No,No,,Evening
+CUST00838,SESS367821,40.0,Male,Sydney,Mobile,Organic,1.0,1.0,Beauty,72.89,No,Yes,No,Yes,Credit Card,Night
+CUST00839,SESS356339,24.0,Female,Toronto,Desktop,,20.3,15.0,Electronics,1165.15,No,No,No,No,,Evening
+CUST00840,SESS904279,40.0,Male,Phoenix,Mobile,Social,1.5,1.0,Home & Kitchen,498.82,No,No,No,No,,Afternoon
+CUST00841,SESS207187,39.0,Male,Singapore,Tablet,Social,6.6,5.0,Books,20.12,No,Yes,No,Yes,Wallet,Afternoon
+CUST00842,SESS672571,39.0,Male,Dubai,Mobile,Organic,15.2,10.0,Grocery,21.93,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00843,SESS889470,49.0,Female,London,Mobile,Referral,4.9,6.0,Electronics,800.86,Yes,Yes,No,No,,Evening
+CUST00844,SESS757655,32.0,Female,Chicago,Tablet,,8.4,2.0,Home & Kitchen,475.47,No,No,No,No,,Evening
+CUST00845,SESS227835,39.0,Male,Sydney,Desktop,Referral,21.4,11.0,Fashion,106.54,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00846,SESS556489,47.0,Male,Singapore,Mobile,Social,26.6,20.0,Home & Kitchen,170.68,Yes,Yes,Yes,No,,Afternoon
+CUST00847,SESS402496,21.0,Female,Houston,Desktop,Referral,1.0,5.0,Electronics,735.79,No,Yes,Yes,No,,Evening
+CUST00848,SESS960076,23.0,Female,London,Desktop,Organic,1.0,,Toys,174.74,No,No,No,No,,Night
+CUST00849,SESS542975,48.0,Female,Toronto,Mobile,Ads,,3.0,Fashion,50.45,No,Yes,Yes,No,,Morning
+CUST00850,SESS100647,48.0,Male,London,Mobile,Organic,9.4,5.0,Beauty,72.39,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00851,SESS785524,60.0,Male,Sydney,Desktop,Social,,8.0,Fashion,269.45,No,No,No,No,,Evening
+CUST00852,SESS113659,54.0,Female,Dubai,Tablet,Ads,11.3,3.0,Grocery,33.82,No,Yes,No,Yes,Cash on Delivery,Night
+CUST00853,SESS940229,64.0,Male,Dubai,Mobile,Ads,4.6,1.0,Home & Kitchen,100.87,No,Yes,Yes,No,,Evening
+CUST00854,SESS631367,27.0,Other,New York,Desktop,Ads,14.3,10.0,Fashion,287.37,No,Yes,No,No,,Afternoon
+CUST00855,SESS306028,63.0,Male,Chicago,Mobile,Ads,9.1,7.0,Electronics,,Yes,No,No,No,,Evening
+CUST00856,SESS831818,58.0,Female,New York,Mobile,Organic,3.7,6.0,Toys,46.66,No,No,No,No,,Evening
+CUST00857,SESS331876,61.0,Male,New York,Mobile,Organic,3.1,2.0,Fashion,245.52,No,No,No,No,,Morning
+CUST00858,SESS987310,49.0,Female,Singapore,Desktop,Ads,10.2,6.0,Toys,161.42,No,Yes,No,No,,Evening
+CUST00859,SESS361314,39.0,Female,Los Angeles,Mobile,Social,11.9,,Fashion,142.51,No,No,No,No,,Afternoon
+CUST00860,SESS284093,61.0,Female,Houston,Mobile,Organic,12.1,11.0,Electronics,1100.24,Yes,No,No,No,,Evening
+CUST00861,SESS267253,29.0,Other,Los Angeles,Mobile,Referral,2.0,7.0,Fashion,94.04,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00862,SESS196530,31.0,Female,Houston,Desktop,Social,14.8,13.0,Fashion,81.49,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00863,SESS677854,61.0,Female,Dubai,Mobile,Social,15.5,7.0,Electronics,802.36,No,No,No,No,,Afternoon
+CUST00864,SESS434690,57.0,Male,Houston,Desktop,Organic,4.6,4.0,Electronics,575.38,Yes,No,No,No,,Morning
+CUST00865,SESS480487,50.0,Male,Los Angeles,Mobile,Referral,,10.0,Electronics,458.51,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00866,SESS622046,55.0,Male,Toronto,Desktop,Ads,6.4,3.0,Home & Kitchen,148.47,Yes,No,No,No,,Afternoon
+CUST00867,SESS189139,,Male,Chicago,Mobile,Referral,1.3,2.0,Home & Kitchen,360.8,No,No,No,No,,Afternoon
+CUST00868,SESS369165,24.0,Female,Sydney,Tablet,Ads,11.3,9.0,Electronics,1057.04,No,Yes,Yes,No,,Evening
+CUST00869,SESS101635,47.0,Male,Los Angeles,Desktop,,1.6,3.0,Fashion,210.48,Yes,Yes,No,No,,Afternoon
+CUST00870,SESS513536,63.0,Female,Dubai,Desktop,Ads,6.7,3.0,Fashion,81.75,Yes,Yes,Yes,No,,Evening
+CUST00871,SESS632615,45.0,Female,Houston,Mobile,Organic,5.5,3.0,Fashion,287.18,No,Yes,Yes,No,,Afternoon
+CUST00872,SESS761760,55.0,Female,Singapore,Desktop,Organic,1.6,1.0,Home & Kitchen,75.54,No,No,No,No,,Night
+CUST00873,SESS543843,42.0,Female,Houston,Mobile,Referral,1.1,1.0,Electronics,243.8,Yes,No,No,No,,Morning
+CUST00874,SESS806981,52.0,Female,London,Desktop,Organic,1.0,3.0,Home & Kitchen,215.45,No,No,No,No,,Night
+CUST00875,SESS118549,20.0,Male,Chicago,Mobile,Ads,1.0,1.0,Beauty,110.02,No,No,No,No,,Afternoon
+CUST00876,SESS935769,,Female,Chicago,Mobile,Organic,2.7,5.0,Grocery,,No,Yes,No,No,,Night
+CUST00877,SESS772619,49.0,Male,Dubai,Mobile,Organic,12.0,6.0,Fashion,74.13,No,No,No,No,,Evening
+CUST00878,SESS353021,57.0,Male,London,Tablet,Organic,6.1,4.0,Books,54.05,No,No,No,No,,Afternoon
+CUST00879,SESS902216,40.0,Female,New York,Desktop,Organic,2.1,1.0,Sports,244.21,No,No,No,No,,Afternoon
+CUST00880,SESS791103,52.0,Female,Singapore,Desktop,Ads,15.3,12.0,Fashion,242.43,Yes,Yes,Yes,No,,Morning
+CUST00881,SESS824910,38.0,Male,Dubai,Desktop,Referral,5.4,3.0,Electronics,1007.78,Yes,Yes,No,No,,Night
+CUST00882,SESS828039,20.0,Male,Chicago,Tablet,Ads,6.9,5.0,Sports,49.43,Yes,No,No,No,,Morning
+CUST00883,SESS466045,42.0,Female,Sydney,Tablet,Ads,7.1,3.0,Grocery,,No,Yes,Yes,No,,Afternoon
+CUST00884,SESS556268,50.0,Male,Phoenix,Tablet,Social,2.4,1.0,Home & Kitchen,119.63,No,Yes,No,Yes,Debit Card,Evening
+CUST00885,SESS210857,39.0,Female,Dubai,Mobile,Referral,3.0,2.0,Electronics,1155.88,Yes,Yes,Yes,No,,Afternoon
+CUST00886,SESS803357,29.0,Male,Dubai,Desktop,Ads,14.3,7.0,Books,23.98,Yes,Yes,Yes,No,,Morning
+CUST00887,SESS257986,62.0,Female,New York,Mobile,Ads,2.5,2.0,Electronics,656.64,Yes,Yes,No,Yes,Debit Card,Night
+CUST00888,SESS229481,52.0,Male,New York,Mobile,Referral,13.4,12.0,Toys,152.86,No,Yes,No,No,,Night
+CUST00889,SESS912117,56.0,Female,Phoenix,Mobile,Ads,18.9,12.0,Home & Kitchen,74.36,No,No,No,No,,Night
+CUST00890,SESS739509,32.0,Male,Chicago,Mobile,Organic,6.7,2.0,Sports,44.31,No,No,No,No,,Night
+CUST00891,SESS673519,40.0,Male,New York,Desktop,Ads,1.0,1.0,Electronics,209.79,No,Yes,Yes,No,,Evening
+CUST00892,SESS835775,58.0,Female,Houston,Desktop,Ads,2.0,1.0,Electronics,487.42,No,No,No,No,,Morning
+CUST00893,SESS477698,45.0,Male,Sydney,Mobile,Organic,4.3,7.0,Home & Kitchen,218.17,No,No,No,No,,Evening
+CUST00894,SESS735740,50.0,Female,New York,Desktop,Ads,19.5,14.0,Grocery,75.54,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST00895,SESS495493,57.0,Female,Sydney,Mobile,Ads,24.7,19.0,Sports,357.21,No,No,No,No,,Morning
+CUST00896,SESS109540,31.0,Male,New York,Desktop,Social,17.0,11.0,Toys,49.21,No,No,No,No,,Night
+CUST00897,SESS452725,59.0,Male,Chicago,Desktop,Social,5.6,6.0,Home & Kitchen,460.06,Yes,Yes,No,Yes,Wallet,Evening
+CUST00898,SESS380896,58.0,Female,New York,Desktop,Social,6.5,1.0,Electronics,281.57,Yes,No,No,No,,Evening
+CUST00899,SESS691022,21.0,Female,London,Mobile,Referral,2.5,1.0,Fashion,219.27,No,No,No,No,,Afternoon
+CUST00900,SESS480782,28.0,Male,Singapore,Mobile,Organic,10.7,7.0,Electronics,760.0,No,No,No,No,,Evening
+CUST00901,SESS468180,60.0,Female,Phoenix,Mobile,Ads,5.3,3.0,Fashion,223.36,No,Yes,No,Yes,Debit Card,Morning
+CUST00902,SESS798919,50.0,Female,Los Angeles,Mobile,Organic,4.1,4.0,Home & Kitchen,187.23,No,No,No,No,,Afternoon
+CUST00903,SESS249031,20.0,Female,Houston,Desktop,Organic,34.3,22.0,Fashion,234.55,No,Yes,Yes,No,,Night
+CUST00904,SESS126565,49.0,Male,Chicago,Mobile,Social,19.9,12.0,Electronics,350.11,Yes,Yes,No,Yes,Debit Card,Morning
+CUST00905,SESS333871,38.0,Female,Phoenix,Mobile,Social,1.0,1.0,Toys,87.26,No,Yes,No,Yes,Debit Card,Night
+CUST00906,SESS888238,45.0,Male,Phoenix,Mobile,Ads,,1.0,Electronics,182.57,Yes,No,No,No,,Morning
+CUST00907,SESS893248,39.0,Male,London,Desktop,Social,5.2,5.0,Toys,105.66,No,No,No,No,,Afternoon
+CUST00908,SESS746942,41.0,Male,London,Mobile,Organic,6.8,5.0,Beauty,94.79,No,Yes,Yes,No,,Afternoon
+CUST00909,SESS624136,36.0,Female,London,Desktop,Social,1.5,1.0,Home & Kitchen,285.41,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00910,SESS309896,56.0,Female,Phoenix,Mobile,Social,23.0,13.0,Grocery,45.79,Yes,Yes,No,Yes,Wallet,Night
+CUST00911,SESS677741,61.0,Female,Toronto,Desktop,Organic,9.9,5.0,Toys,191.86,Yes,Yes,No,Yes,Wallet,Evening
+CUST00912,SESS626908,56.0,Female,Toronto,Mobile,Organic,19.7,14.0,Fashion,108.53,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST00913,SESS496133,35.0,Female,Chicago,Mobile,Ads,4.0,1.0,Fashion,230.56,No,No,No,No,,Afternoon
+CUST00914,SESS307796,27.0,Female,Houston,Mobile,Referral,1.0,1.0,Toys,18.81,No,Yes,Yes,No,,Evening
+CUST00915,SESS738565,61.0,Female,Toronto,Desktop,Social,18.1,11.0,Books,58.86,No,No,No,No,,Evening
+CUST00916,SESS138015,38.0,Male,Chicago,Desktop,Social,1.8,4.0,Grocery,22.34,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00917,SESS578991,47.0,Other,Toronto,Mobile,Ads,,10.0,Books,56.8,No,No,No,No,,Afternoon
+CUST00918,SESS598468,31.0,Male,Los Angeles,Mobile,Ads,3.2,2.0,Books,26.63,Yes,No,No,No,,Evening
+CUST00919,SESS678306,62.0,Male,Singapore,Mobile,Organic,1.0,2.0,Electronics,,No,Yes,Yes,No,,Morning
+CUST00920,SESS253826,36.0,Male,Sydney,Mobile,Ads,19.5,11.0,Home & Kitchen,219.74,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00921,SESS538476,40.0,Female,New York,Mobile,Referral,11.0,5.0,Fashion,224.23,No,Yes,Yes,No,,Afternoon
+CUST00922,SESS545305,33.0,Male,London,Desktop,Organic,12.6,5.0,Books,37.64,Yes,Yes,Yes,No,,Morning
+CUST00923,SESS711394,28.0,Male,Toronto,Desktop,Organic,26.8,16.0,Sports,97.19,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST00924,SESS620818,51.0,Female,Phoenix,Desktop,Social,1.5,1.0,Grocery,33.51,Yes,No,No,No,,Evening
+CUST00925,SESS520120,33.0,Female,Chicago,Mobile,Social,24.4,15.0,Electronics,1049.05,Yes,Yes,Yes,No,,Night
+CUST00926,SESS169750,62.0,Female,New York,Mobile,Ads,22.9,13.0,Home & Kitchen,399.39,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST00927,SESS671081,,Female,Toronto,Mobile,Organic,1.0,3.0,Toys,59.76,Yes,Yes,No,No,,Afternoon
+CUST00928,SESS352318,31.0,Female,New York,Mobile,Social,5.3,4.0,Electronics,327.76,No,No,No,No,,Afternoon
+CUST00929,SESS129165,57.0,Female,New York,Mobile,Social,8.5,3.0,Books,5.26,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00930,SESS295283,45.0,Male,London,Mobile,Organic,15.2,8.0,Fashion,239.48,No,Yes,Yes,No,,Night
+CUST00931,SESS166934,64.0,Male,Toronto,Desktop,Ads,19.4,10.0,Grocery,78.61,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST00932,SESS394098,64.0,Female,Toronto,Mobile,Ads,1.0,1.0,Books,29.1,No,Yes,No,No,,Evening
+CUST00933,SESS444931,60.0,Female,Phoenix,Desktop,Ads,7.0,6.0,Books,42.1,No,Yes,No,Yes,Credit Card,Morning
+CUST00934,SESS920720,26.0,Female,Phoenix,Mobile,,3.7,3.0,Electronics,421.9,No,No,No,No,,Night
+CUST00935,SESS383263,30.0,Male,Dubai,Mobile,Ads,1.0,1.0,Toys,160.36,No,No,No,No,,Evening
+CUST00936,SESS962800,50.0,Male,Singapore,Mobile,Organic,5.1,3.0,Fashion,229.64,No,No,No,No,,Evening
+CUST00937,SESS505830,22.0,Female,Toronto,Mobile,Social,1.2,2.0,Books,53.75,Yes,Yes,Yes,No,,Evening
+CUST00938,SESS728713,43.0,Female,Chicago,Mobile,Organic,6.9,5.0,Fashion,28.01,No,Yes,No,No,,Night
+CUST00939,SESS395543,49.0,Female,Phoenix,Desktop,Organic,16.3,9.0,Fashion,55.09,No,Yes,Yes,No,,Night
+CUST00940,SESS220181,50.0,Male,London,Mobile,Referral,15.7,5.0,Home & Kitchen,116.82,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST00941,SESS871053,45.0,Female,New York,Desktop,Referral,15.6,12.0,Sports,66.26,No,No,No,No,,Afternoon
+CUST00942,SESS495013,24.0,Male,New York,Mobile,Social,6.0,3.0,Books,12.63,No,Yes,No,No,,Afternoon
+CUST00943,SESS426121,55.0,Other,Sydney,Mobile,Organic,4.8,3.0,Fashion,139.03,No,No,No,No,,Evening
+CUST00944,SESS630861,34.0,Male,Singapore,Tablet,Ads,5.7,3.0,Electronics,911.18,Yes,No,No,No,,Afternoon
+CUST00945,SESS655867,60.0,Female,New York,Desktop,Organic,6.5,6.0,Fashion,27.69,No,No,No,No,,Night
+CUST00946,SESS186177,34.0,Female,New York,Mobile,Social,2.6,3.0,Beauty,51.05,No,No,No,No,,Evening
+CUST00947,SESS279799,45.0,Female,Houston,Mobile,Organic,1.4,1.0,Electronics,889.24,No,No,No,No,,Morning
+CUST00948,SESS464928,64.0,Female,London,Mobile,Organic,5.6,7.0,Toys,26.72,Yes,Yes,No,Yes,Credit Card,Night
+CUST00949,SESS660805,,Female,Los Angeles,Mobile,Social,9.5,6.0,Books,57.0,Yes,Yes,No,Yes,Credit Card,Evening
+CUST00950,SESS150874,62.0,Female,New York,Mobile,Social,1.9,1.0,Electronics,819.08,Yes,Yes,No,No,,Evening
+CUST00951,SESS443100,40.0,Male,Sydney,Desktop,Social,4.3,1.0,Electronics,746.3,No,Yes,Yes,No,,Afternoon
+CUST00952,SESS113865,30.0,Female,Los Angeles,Tablet,Organic,11.1,10.0,Fashion,82.62,Yes,No,No,No,,Afternoon
+CUST00953,SESS162589,53.0,Male,New York,Desktop,Social,5.4,8.0,Fashion,48.44,No,No,No,No,,Morning
+CUST00954,SESS620678,43.0,Male,Los Angeles,Mobile,Organic,34.4,20.0,Fashion,104.3,Yes,Yes,Yes,No,,Night
+CUST00955,SESS541053,49.0,Female,Los Angeles,Desktop,Ads,8.5,10.0,Toys,171.26,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST00956,SESS578313,27.0,Male,Toronto,Desktop,Ads,13.8,8.0,Beauty,104.19,No,Yes,No,No,,Afternoon
+CUST00957,SESS221478,46.0,Female,New York,Mobile,Organic,1.0,3.0,Toys,160.56,Yes,Yes,Yes,No,,Morning
+CUST00958,SESS132375,44.0,Female,Phoenix,Mobile,Social,7.0,6.0,Beauty,30.68,No,Yes,Yes,No,,Morning
+CUST00959,SESS639827,35.0,Male,New York,Mobile,Referral,19.2,12.0,Toys,183.58,No,No,No,No,,Night
+CUST00960,SESS830600,63.0,Male,Los Angeles,Mobile,Referral,8.8,6.0,Fashion,270.91,No,No,No,No,,Night
+CUST00961,SESS897635,44.0,Female,Phoenix,Desktop,Referral,3.6,1.0,Home & Kitchen,63.35,Yes,Yes,Yes,No,,Evening
+CUST00962,SESS697447,37.0,Male,Chicago,Mobile,Organic,1.5,1.0,Fashion,228.2,No,No,No,No,,Night
+CUST00963,SESS713058,42.0,Male,Dubai,Desktop,Organic,6.9,3.0,Fashion,62.63,No,Yes,Yes,No,,Evening
+CUST00964,SESS312005,33.0,Male,Los Angeles,Desktop,Ads,11.4,9.0,Home & Kitchen,216.83,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00965,SESS523710,49.0,Male,Houston,Mobile,Social,2.8,3.0,Fashion,184.97,No,No,No,No,,Morning
+CUST00966,SESS558525,26.0,Other,Chicago,Desktop,Organic,3.3,2.0,Home & Kitchen,470.87,No,Yes,Yes,No,,Afternoon
+CUST00967,SESS132179,24.0,Female,Toronto,Tablet,Social,3.9,2.0,Toys,21.39,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST00968,SESS232590,45.0,Female,New York,Mobile,Social,1.0,1.0,Electronics,689.02,No,No,No,No,,Morning
+CUST00969,SESS138169,37.0,Male,London,Mobile,Referral,10.3,5.0,Fashion,238.01,No,No,No,No,,Morning
+CUST00970,SESS986724,35.0,Male,New York,Desktop,Ads,11.9,8.0,Grocery,69.48,Yes,No,No,No,,Afternoon
+CUST00971,SESS634492,48.0,Male,Toronto,Desktop,Organic,13.3,5.0,Home & Kitchen,486.33,Yes,Yes,Yes,No,,Evening
+CUST00972,SESS966803,53.0,Male,New York,Desktop,Social,2.6,4.0,Toys,,Yes,Yes,Yes,No,,Night
+CUST00973,SESS789813,61.0,Male,New York,Desktop,Referral,19.7,9.0,Sports,174.08,No,No,No,No,,Evening
+CUST00974,SESS932076,46.0,Male,New York,Desktop,Ads,3.3,4.0,Sports,355.75,Yes,Yes,No,Yes,Debit Card,Evening
+CUST00975,SESS453051,45.0,Male,New York,Mobile,Referral,3.2,1.0,Grocery,20.68,No,No,No,No,,Afternoon
+CUST00976,SESS850627,,Female,Los Angeles,Mobile,Organic,10.3,,Books,55.78,No,Yes,Yes,No,,Night
+CUST00977,SESS342909,34.0,Male,Sydney,Desktop,,1.3,1.0,Electronics,641.9,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00978,SESS921775,20.0,Male,New York,Desktop,Organic,3.4,3.0,Sports,142.58,No,Yes,Yes,No,,Evening
+CUST00979,SESS304761,50.0,Female,Toronto,Desktop,Organic,9.7,3.0,Books,59.96,No,No,No,No,,Afternoon
+CUST00980,SESS966607,39.0,Male,London,Tablet,Ads,7.5,3.0,Fashion,225.9,No,Yes,Yes,No,,Night
+CUST00981,SESS523413,49.0,Female,Houston,Mobile,Ads,8.1,5.0,Electronics,287.58,No,No,No,No,,Afternoon
+CUST00982,SESS919829,51.0,Female,Houston,Tablet,Referral,7.2,3.0,Sports,191.02,Yes,Yes,No,No,,Night
+CUST00983,SESS989934,51.0,Male,Los Angeles,Mobile,Ads,1.6,1.0,Electronics,543.85,No,Yes,No,Yes,Credit Card,Evening
+CUST00984,SESS637452,21.0,Female,Los Angeles,Desktop,Referral,3.3,4.0,Fashion,155.48,No,No,No,No,,Morning
+CUST00985,SESS591637,41.0,Other,Los Angeles,Desktop,,4.6,4.0,Fashion,67.18,No,No,No,No,,Afternoon
+CUST00986,SESS181179,26.0,Female,Phoenix,Mobile,Ads,10.1,13.0,Beauty,16.79,Yes,Yes,Yes,No,,Evening
+CUST00987,SESS894466,18.0,Female,London,Mobile,Ads,4.4,5.0,Home & Kitchen,49.19,No,No,No,No,,Morning
+CUST00988,SESS335499,64.0,Female,Sydney,Mobile,Organic,4.9,3.0,Fashion,85.08,Yes,Yes,Yes,No,,Afternoon
+CUST00989,SESS847990,25.0,Female,Los Angeles,Mobile,Ads,22.9,15.0,Home & Kitchen,452.58,No,Yes,No,No,,Afternoon
+CUST00990,SESS801436,26.0,Male,Toronto,Desktop,Organic,14.2,11.0,Beauty,20.77,Yes,No,No,No,,Evening
+CUST00991,SESS793557,33.0,Male,Los Angeles,Tablet,Organic,16.6,12.0,Electronics,959.1,No,No,No,No,,Afternoon
+CUST00992,SESS358336,60.0,Male,Houston,Tablet,Organic,5.3,1.0,Beauty,128.9,No,Yes,No,Yes,Debit Card,Evening
+CUST00993,SESS483168,59.0,Male,Sydney,Desktop,Ads,19.6,13.0,Fashion,54.1,No,Yes,Yes,No,,Afternoon
+CUST00994,SESS899689,28.0,Male,Singapore,Desktop,Organic,1.5,1.0,Sports,390.33,No,No,No,No,,Afternoon
+CUST00995,SESS999767,59.0,Male,Los Angeles,Mobile,Referral,1.0,1.0,Electronics,496.52,Yes,Yes,No,Yes,Wallet,Morning
+CUST00996,SESS341206,44.0,Male,New York,Mobile,Organic,9.5,6.0,Sports,390.42,Yes,Yes,No,Yes,Credit Card,Morning
+CUST00997,SESS904305,30.0,Female,New York,Desktop,Social,3.4,1.0,Books,56.49,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST00998,SESS469998,26.0,Female,New York,Tablet,Referral,5.2,7.0,Beauty,25.27,No,Yes,No,Yes,Debit Card,Afternoon
+CUST00999,SESS146312,41.0,Male,Chicago,Mobile,Ads,1.0,1.0,Grocery,69.55,No,Yes,Yes,No,,Morning
+CUST01000,SESS714126,38.0,Female,Houston,Desktop,Organic,10.7,,Fashion,241.15,Yes,Yes,Yes,No,,Evening
+CUST01001,SESS170629,54.0,Female,Dubai,Tablet,Ads,1.1,1.0,Sports,203.09,Yes,No,No,No,,Evening
+CUST01002,SESS669417,62.0,Female,New York,Mobile,Organic,1.3,2.0,Books,42.39,No,Yes,Yes,No,,Evening
+CUST01003,SESS864090,40.0,Male,Toronto,Desktop,Ads,2.1,5.0,Electronics,267.06,No,No,No,No,,Morning
+CUST01004,SESS912197,19.0,Female,Los Angeles,Mobile,Referral,9.6,7.0,Grocery,,No,No,No,No,,Evening
+CUST01005,SESS823805,58.0,Male,New York,Desktop,Ads,15.0,9.0,Home & Kitchen,185.45,No,Yes,Yes,No,,Morning
+CUST01006,SESS947814,42.0,Female,New York,Mobile,Organic,12.9,,Sports,49.16,No,Yes,No,Yes,Debit Card,Afternoon
+CUST01007,SESS209703,30.0,Female,Houston,Desktop,Social,29.1,12.0,Electronics,847.27,Yes,No,No,No,,Morning
+CUST01008,SESS675462,41.0,Female,Sydney,Mobile,Social,9.6,6.0,Beauty,14.03,Yes,No,No,No,,Night
+CUST01009,SESS137816,57.0,Male,Dubai,Mobile,Ads,6.1,2.0,Sports,200.13,No,No,No,No,,Night
+CUST01010,SESS332823,58.0,Male,Chicago,Mobile,Referral,11.9,5.0,Fashion,94.72,No,No,No,No,,Night
+CUST01011,SESS933138,29.0,Other,Chicago,Desktop,Social,19.2,10.0,Electronics,319.45,No,Yes,No,Yes,Debit Card,Evening
+CUST01012,SESS694799,38.0,Male,Phoenix,Tablet,Organic,10.0,7.0,Sports,371.97,No,Yes,Yes,No,,Night
+CUST01013,SESS197374,35.0,Female,New York,Desktop,Social,21.0,10.0,Fashion,49.8,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01014,SESS874662,41.0,Female,Phoenix,Mobile,Organic,17.6,12.0,Home & Kitchen,255.13,Yes,Yes,Yes,No,,Evening
+CUST01015,SESS587116,23.0,Male,Dubai,Desktop,Ads,17.0,,Grocery,51.0,Yes,Yes,Yes,No,,Afternoon
+CUST01016,SESS414474,53.0,Male,London,Tablet,Social,4.9,2.0,Fashion,181.64,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01017,SESS696791,41.0,Male,London,Mobile,Referral,2.1,1.0,Electronics,282.53,Yes,No,No,No,,Afternoon
+CUST01018,SESS814555,56.0,Male,Houston,Tablet,Social,12.9,,Electronics,1042.54,Yes,No,No,No,,Afternoon
+CUST01019,SESS595239,62.0,Male,Los Angeles,Mobile,Referral,1.0,2.0,Beauty,56.14,No,No,No,No,,Night
+CUST01020,SESS940653,58.0,Male,Chicago,Mobile,Referral,3.9,1.0,Electronics,771.87,Yes,Yes,No,No,,Evening
+CUST01021,SESS300001,54.0,Female,Phoenix,Desktop,Ads,8.2,2.0,Beauty,17.21,No,Yes,No,Yes,Debit Card,Evening
+CUST01022,SESS587348,48.0,Male,Phoenix,Desktop,Organic,,1.0,Fashion,137.63,No,Yes,Yes,No,,Afternoon
+CUST01023,SESS261740,,Female,Chicago,Desktop,Social,8.2,6.0,Beauty,105.45,Yes,Yes,No,No,,Evening
+CUST01024,SESS164977,44.0,Male,Toronto,Mobile,,4.0,3.0,Grocery,8.73,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST01025,SESS437735,20.0,Female,Houston,Tablet,,17.8,11.0,Fashion,236.65,No,No,No,No,,Morning
+CUST01026,SESS430932,42.0,Female,London,Desktop,Ads,3.8,4.0,Electronics,954.05,No,Yes,Yes,No,,Afternoon
+CUST01027,SESS571091,31.0,Male,Houston,Mobile,Ads,14.0,8.0,Fashion,215.01,No,No,No,No,,Evening
+CUST01028,SESS563932,18.0,Female,London,Desktop,Social,7.5,3.0,Sports,274.57,Yes,No,No,No,,Evening
+CUST01029,SESS159817,52.0,Female,Houston,Mobile,Ads,8.5,5.0,Beauty,49.35,No,No,No,No,,Evening
+CUST01030,SESS238456,,Female,Phoenix,Desktop,Ads,1.0,1.0,Home & Kitchen,153.77,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01031,SESS479406,63.0,Female,New York,Desktop,Organic,20.3,14.0,Home & Kitchen,445.13,No,Yes,Yes,No,,Evening
+CUST01032,SESS739817,50.0,Male,Singapore,Mobile,Referral,25.4,15.0,Electronics,563.13,No,No,No,No,,Afternoon
+CUST01033,SESS280568,49.0,Female,Chicago,Mobile,Ads,8.4,4.0,Electronics,1044.49,No,No,No,No,,Morning
+CUST01034,SESS360816,41.0,Male,Sydney,Desktop,Organic,2.6,2.0,Books,20.1,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST01035,SESS199336,27.0,Female,Singapore,Mobile,Ads,6.5,4.0,Books,19.73,Yes,Yes,No,Yes,Wallet,Morning
+CUST01036,SESS939219,51.0,Female,London,Desktop,Referral,7.7,5.0,Toys,153.38,No,Yes,No,Yes,Credit Card,Night
+CUST01037,SESS518671,36.0,Female,Toronto,Desktop,Ads,,4.0,Fashion,214.47,No,No,No,No,,Evening
+CUST01038,SESS467020,,Female,London,Tablet,Organic,,20.0,Sports,319.12,No,Yes,Yes,No,,Afternoon
+CUST01039,SESS180499,26.0,Female,Singapore,Mobile,Social,7.8,4.0,Fashion,295.79,Yes,No,No,No,,Morning
+CUST01040,SESS782818,23.0,Male,Los Angeles,Mobile,Social,1.1,1.0,Sports,229.88,No,No,No,No,,Afternoon
+CUST01041,SESS731377,18.0,Male,Los Angeles,Mobile,Organic,,1.0,Fashion,274.13,No,No,No,No,,Evening
+CUST01042,SESS634595,40.0,Female,Chicago,Desktop,Referral,10.6,5.0,Fashion,284.18,No,No,No,No,,Afternoon
+CUST01043,SESS411051,37.0,Female,Toronto,Mobile,Organic,2.0,1.0,Electronics,275.26,Yes,No,No,No,,Night
+CUST01044,SESS163455,41.0,Female,Toronto,Mobile,Organic,36.0,21.0,Grocery,16.92,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST01045,SESS204409,37.0,Male,London,Mobile,Social,19.7,12.0,Books,44.18,Yes,Yes,No,Yes,Wallet,Night
+CUST01046,SESS795387,32.0,Male,Dubai,Mobile,Referral,2.0,2.0,Sports,74.39,No,No,No,No,,Afternoon
+CUST01047,SESS605566,26.0,Other,Singapore,Tablet,Referral,17.1,10.0,Beauty,65.18,Yes,Yes,Yes,No,,Night
+CUST01048,SESS908068,63.0,Male,Singapore,Mobile,Organic,3.8,,Electronics,396.89,Yes,No,No,No,,Afternoon
+CUST01049,SESS129386,47.0,Male,Singapore,Mobile,Social,3.3,3.0,Beauty,14.03,Yes,No,No,No,,Morning
+CUST01050,SESS953982,36.0,Male,London,Mobile,Referral,12.9,6.0,Beauty,105.07,Yes,Yes,No,Yes,Wallet,Night
+CUST01051,SESS326151,39.0,Female,Toronto,Desktop,Social,1.3,2.0,Books,16.8,Yes,No,No,No,,Morning
+CUST01052,SESS366375,50.0,Other,Los Angeles,Mobile,Social,3.0,1.0,Home & Kitchen,22.14,Yes,No,No,No,,Evening
+CUST01053,SESS902936,34.0,Female,Houston,Desktop,Organic,9.8,,Electronics,1029.54,No,Yes,No,Yes,Debit Card,Afternoon
+CUST01054,SESS336196,28.0,Male,Sydney,Desktop,Organic,1.0,1.0,Home & Kitchen,133.83,Yes,Yes,No,Yes,Wallet,Evening
+CUST01055,SESS749787,28.0,Male,Chicago,Tablet,Ads,27.0,13.0,Fashion,164.52,No,Yes,No,No,,Night
+CUST01056,SESS379581,20.0,Female,Chicago,Mobile,Organic,1.0,1.0,Fashion,250.28,No,No,No,No,,Evening
+CUST01057,SESS224008,52.0,Female,Dubai,Mobile,Social,1.9,5.0,Beauty,59.22,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01058,SESS496586,46.0,Female,Dubai,Desktop,Organic,2.8,3.0,Books,15.26,Yes,No,No,No,,Afternoon
+CUST01059,SESS733109,29.0,Male,Dubai,Desktop,Referral,15.0,9.0,Fashion,267.55,Yes,Yes,No,Yes,Debit Card,Morning
+CUST01060,SESS667746,32.0,Male,New York,Mobile,Organic,1.0,1.0,Fashion,175.25,No,No,No,No,,Evening
+CUST01061,SESS380944,53.0,Female,Phoenix,Mobile,Social,1.9,3.0,Grocery,76.96,No,Yes,No,Yes,Wallet,Evening
+CUST01062,SESS587392,18.0,Female,New York,Mobile,Social,25.9,15.0,Fashion,147.02,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01063,SESS489306,42.0,Female,Houston,Tablet,,1.2,1.0,Toys,12.86,Yes,No,No,No,,Morning
+CUST01064,SESS247595,45.0,Female,Chicago,Desktop,Social,,2.0,Toys,99.43,Yes,No,No,No,,Afternoon
+CUST01065,SESS521567,60.0,Male,New York,Mobile,Ads,19.7,16.0,Electronics,1120.79,No,Yes,Yes,No,,Evening
+CUST01066,SESS158959,46.0,Female,Phoenix,Desktop,Ads,33.8,,Sports,106.42,Yes,Yes,No,Yes,Debit Card,Night
+CUST01067,SESS625819,59.0,Male,Sydney,Desktop,Referral,27.2,17.0,Fashion,146.59,Yes,Yes,No,No,,Afternoon
+CUST01068,SESS534386,23.0,Male,Chicago,Mobile,Organic,1.0,1.0,Beauty,130.62,No,No,No,No,,Morning
+CUST01069,SESS781187,25.0,Male,Dubai,Mobile,Organic,2.7,3.0,Electronics,808.02,Yes,Yes,No,Yes,Wallet,Afternoon
+CUST01070,SESS470484,52.0,Female,Phoenix,Desktop,Ads,3.3,,Electronics,652.53,Yes,No,No,No,,Night
+CUST01071,SESS376000,20.0,Female,London,Desktop,Social,11.8,6.0,Grocery,63.05,Yes,Yes,Yes,No,,Morning
+CUST01072,SESS408308,33.0,Female,Singapore,Mobile,Ads,2.0,2.0,Sports,244.91,No,Yes,No,No,,Evening
+CUST01073,SESS509344,30.0,Female,London,Mobile,Ads,1.6,5.0,Fashion,147.71,No,No,No,No,,Evening
+CUST01074,SESS310047,28.0,Female,New York,Mobile,Ads,3.2,3.0,Fashion,125.8,No,No,No,No,,Afternoon
+CUST01075,SESS156392,32.0,Female,Houston,Mobile,Ads,11.8,9.0,Fashion,37.34,Yes,Yes,Yes,No,,Evening
+CUST01076,SESS473279,58.0,Female,Toronto,Mobile,Social,2.6,4.0,Grocery,23.42,No,No,No,No,,Evening
+CUST01077,SESS811208,43.0,Female,Houston,Mobile,,14.7,,Toys,158.16,Yes,No,No,No,,Morning
+CUST01078,SESS621277,61.0,Female,Los Angeles,Mobile,Organic,6.7,4.0,Electronics,971.05,No,No,No,No,,Afternoon
+CUST01079,SESS562013,34.0,Female,New York,Desktop,Social,15.6,10.0,Electronics,439.57,No,Yes,Yes,No,,Night
+CUST01080,SESS128754,29.0,Female,New York,Tablet,Social,1.4,1.0,Sports,251.65,Yes,No,No,No,,Night
+CUST01081,SESS507226,41.0,Female,Dubai,Desktop,Organic,1.7,1.0,Grocery,37.01,No,No,No,No,,Night
+CUST01082,SESS307650,38.0,Male,New York,Desktop,Organic,1.0,1.0,Home & Kitchen,271.67,No,No,No,No,,Night
+CUST01083,SESS774884,31.0,Male,London,Mobile,Organic,3.5,5.0,Fashion,119.45,Yes,No,No,No,,Afternoon
+CUST01084,SESS838103,46.0,Male,Los Angeles,Desktop,Social,,7.0,Fashion,294.99,Yes,Yes,No,Yes,Debit Card,Morning
+CUST01085,SESS382998,33.0,Male,London,Mobile,Ads,6.0,6.0,Books,31.52,Yes,No,No,No,,Evening
+CUST01086,SESS513322,24.0,Female,Chicago,Tablet,,4.5,5.0,Electronics,401.17,Yes,No,No,No,,Afternoon
+CUST01087,SESS527266,46.0,Female,Toronto,Mobile,Organic,1.1,1.0,Electronics,495.51,Yes,No,No,No,,Evening
+CUST01088,SESS764108,63.0,Male,Phoenix,Mobile,Social,1.0,5.0,Sports,,Yes,Yes,No,Yes,Debit Card,Morning
+CUST01089,SESS125398,45.0,Male,London,Tablet,,1.9,1.0,Fashion,94.93,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST01090,SESS419417,51.0,Male,Dubai,Desktop,,4.3,1.0,Fashion,120.89,Yes,No,No,No,,Morning
+CUST01091,SESS823379,25.0,Female,New York,Mobile,Social,22.3,15.0,Sports,277.15,Yes,No,No,No,,Night
+CUST01092,SESS990296,50.0,Male,Toronto,Tablet,Social,10.9,3.0,Beauty,41.19,No,Yes,No,Yes,Debit Card,Morning
+CUST01093,SESS572670,20.0,Female,Los Angeles,Mobile,Ads,,1.0,Sports,85.16,Yes,Yes,No,Yes,Debit Card,Night
+CUST01094,SESS976194,63.0,Other,Dubai,Tablet,Referral,33.3,23.0,Fashion,174.77,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01095,SESS962383,41.0,Male,Chicago,Mobile,Social,1.3,4.0,Fashion,186.01,No,No,No,No,,Night
+CUST01096,SESS166892,25.0,Male,London,Mobile,Referral,38.2,20.0,Home & Kitchen,68.22,No,Yes,Yes,No,,Night
+CUST01097,SESS129616,,Female,Sydney,Desktop,Ads,11.2,,Home & Kitchen,453.53,No,No,No,No,,Evening
+CUST01098,SESS866646,57.0,Female,New York,Mobile,Referral,2.1,1.0,Beauty,124.29,No,No,No,No,,Night
+CUST01099,SESS135406,31.0,Female,London,Desktop,Organic,8.0,6.0,Books,17.35,Yes,No,No,No,,Evening
+CUST01100,SESS690948,37.0,Male,London,Mobile,Social,5.3,5.0,Fashion,158.33,Yes,Yes,No,Yes,Debit Card,Evening
+CUST01101,SESS811359,53.0,Male,London,Mobile,Ads,1.0,1.0,Home & Kitchen,89.11,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01102,SESS864288,60.0,Female,New York,Mobile,Social,2.3,1.0,Home & Kitchen,381.89,No,Yes,No,No,,Afternoon
+CUST01103,SESS796981,62.0,Male,London,Mobile,Social,1.0,1.0,Home & Kitchen,,Yes,Yes,Yes,No,,Afternoon
+CUST01104,SESS532474,45.0,Female,New York,Desktop,Social,2.3,1.0,Fashion,,No,No,No,No,,Morning
+CUST01105,SESS345566,41.0,Male,London,Desktop,Ads,1.3,1.0,Books,38.72,Yes,No,No,No,,Evening
+CUST01106,SESS542051,62.0,Male,Sydney,Mobile,Referral,15.5,8.0,Fashion,57.16,No,No,No,No,,Afternoon
+CUST01107,SESS810379,35.0,Other,Houston,Mobile,Organic,1.5,1.0,Home & Kitchen,,No,No,No,No,,Evening
+CUST01108,SESS902012,35.0,Male,Toronto,Desktop,Ads,17.3,8.0,Beauty,119.81,Yes,Yes,Yes,No,,Afternoon
+CUST01109,SESS777844,53.0,Female,Houston,Tablet,Ads,1.6,1.0,Electronics,989.03,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01110,SESS180658,27.0,Male,Toronto,Tablet,Ads,4.6,7.0,Home & Kitchen,222.46,No,Yes,No,No,,Evening
+CUST01111,SESS140631,,Female,Los Angeles,Desktop,Ads,5.7,,Electronics,1169.14,No,No,No,No,,Morning
+CUST01112,SESS447516,64.0,Female,New York,Mobile,Ads,9.7,7.0,Sports,336.13,Yes,Yes,Yes,No,,Evening
+CUST01113,SESS730749,51.0,Male,Phoenix,Mobile,Referral,2.1,1.0,Fashion,141.15,No,No,No,No,,Night
+CUST01114,SESS619800,60.0,Female,Dubai,Mobile,Organic,2.0,7.0,Home & Kitchen,73.77,No,Yes,No,No,,Evening
+CUST01115,SESS120007,49.0,Female,Chicago,Desktop,Referral,6.7,4.0,Electronics,621.0,No,No,No,No,,Evening
+CUST01116,SESS525197,35.0,Male,Los Angeles,Mobile,Ads,1.0,1.0,Fashion,62.52,Yes,Yes,No,Yes,Debit Card,Night
+CUST01117,SESS785843,,Male,New York,Desktop,Referral,12.7,8.0,Fashion,121.94,Yes,No,No,No,,Night
+CUST01118,SESS376645,27.0,Female,London,Mobile,Organic,1.7,1.0,Home & Kitchen,286.33,No,Yes,Yes,No,,Evening
+CUST01119,SESS944011,39.0,Female,Phoenix,Mobile,Ads,1.2,2.0,Electronics,665.17,No,No,No,No,,Evening
+CUST01120,SESS746350,36.0,Female,Houston,Mobile,Organic,3.3,,Grocery,39.33,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01121,SESS630789,20.0,Female,Sydney,Mobile,Social,1.7,1.0,Grocery,60.7,Yes,No,No,No,,Night
+CUST01122,SESS172922,42.0,Male,Dubai,Desktop,Ads,10.6,7.0,Sports,269.27,No,Yes,Yes,No,,Evening
+CUST01123,SESS894174,61.0,Male,Los Angeles,Mobile,Ads,28.5,13.0,Fashion,78.03,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01124,SESS489258,27.0,Female,Sydney,Mobile,,10.9,,Fashion,72.14,No,No,No,No,,Evening
+CUST01125,SESS653512,19.0,Male,New York,Desktop,Social,14.8,6.0,Electronics,214.24,No,Yes,No,Yes,Cash on Delivery,Night
+CUST01126,SESS522570,46.0,Male,Toronto,Desktop,Organic,7.3,5.0,Fashion,112.45,No,Yes,Yes,No,,Evening
+CUST01127,SESS523374,22.0,Female,Los Angeles,Mobile,Social,1.4,1.0,Electronics,1110.91,No,No,No,No,,Afternoon
+CUST01128,SESS353692,47.0,Female,New York,Desktop,Organic,19.1,13.0,Beauty,147.22,No,No,No,No,,Night
+CUST01129,SESS983659,50.0,Female,Los Angeles,Desktop,Organic,2.2,4.0,Fashion,265.26,Yes,No,No,No,,Morning
+CUST01130,SESS264685,61.0,Female,Phoenix,Desktop,Ads,9.9,7.0,Grocery,11.72,No,No,No,No,,Night
+CUST01131,SESS950299,30.0,Male,London,Tablet,Social,7.0,3.0,Books,14.01,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01132,SESS109039,30.0,Female,London,Mobile,Social,16.2,10.0,Toys,75.56,No,Yes,Yes,No,,Morning
+CUST01133,SESS955639,58.0,Male,Toronto,Mobile,Referral,6.6,2.0,Home & Kitchen,33.94,No,No,No,No,,Evening
+CUST01134,SESS908005,60.0,Female,Chicago,Mobile,Ads,5.9,2.0,Books,25.73,No,No,No,No,,Morning
+CUST01135,SESS899930,30.0,Female,Houston,Desktop,Referral,14.7,13.0,Books,47.44,No,Yes,No,Yes,Credit Card,Night
+CUST01136,SESS407264,57.0,Female,New York,Desktop,Ads,6.7,3.0,Beauty,125.66,Yes,Yes,Yes,No,,Afternoon
+CUST01137,SESS720305,35.0,Male,Toronto,Mobile,Ads,13.4,7.0,Toys,32.9,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01138,SESS295743,22.0,Female,Dubai,Desktop,Social,10.3,1.0,Beauty,,No,Yes,No,No,,Morning
+CUST01139,SESS175390,34.0,Male,New York,Mobile,Organic,5.6,1.0,Home & Kitchen,198.17,No,No,No,No,,Evening
+CUST01140,SESS892559,53.0,Male,Toronto,Mobile,Social,2.3,1.0,Sports,247.76,Yes,No,No,No,,Morning
+CUST01141,SESS105432,41.0,Female,London,Mobile,Ads,1.0,1.0,Beauty,17.16,No,Yes,Yes,No,,Night
+CUST01142,SESS415643,54.0,Male,Los Angeles,Desktop,Organic,10.5,6.0,Fashion,291.86,No,No,No,No,,Morning
+CUST01143,SESS982441,30.0,Male,Houston,Mobile,Ads,12.0,5.0,Beauty,96.06,No,Yes,No,Yes,Credit Card,Evening
+CUST01144,SESS479076,44.0,Male,Dubai,Mobile,Social,5.2,5.0,Electronics,306.68,No,No,No,No,,Night
+CUST01145,SESS994510,32.0,Male,Chicago,Mobile,Social,11.2,7.0,Electronics,588.98,No,No,No,No,,Night
+CUST01146,SESS762304,42.0,Other,Dubai,Desktop,Social,19.4,12.0,Fashion,158.65,No,Yes,No,Yes,Debit Card,Afternoon
+CUST01147,SESS585339,19.0,Male,Houston,Mobile,Social,3.6,3.0,Beauty,61.11,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01148,SESS508395,63.0,Female,Houston,Mobile,Ads,1.0,1.0,Fashion,154.24,No,No,No,No,,Night
+CUST01149,SESS175338,18.0,Male,Houston,Desktop,Social,6.0,,Toys,18.93,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01150,SESS552339,52.0,Male,Sydney,Mobile,Referral,1.0,3.0,Fashion,276.6,Yes,Yes,Yes,No,,Afternoon
+CUST01151,SESS711185,51.0,Male,Singapore,Desktop,Organic,1.0,3.0,Books,40.24,Yes,Yes,Yes,No,,Afternoon
+CUST01152,SESS441615,19.0,Male,Sydney,Mobile,Organic,5.8,1.0,Fashion,55.89,Yes,Yes,No,Yes,Wallet,Evening
+CUST01153,SESS619070,42.0,Female,Phoenix,Tablet,Social,20.5,13.0,Fashion,24.89,No,Yes,No,Yes,Credit Card,Evening
+CUST01154,SESS639432,63.0,Female,Toronto,Mobile,Ads,18.7,12.0,Home & Kitchen,358.22,No,No,No,No,,Afternoon
+CUST01155,SESS951415,60.0,Female,Houston,Desktop,Referral,2.7,1.0,Beauty,115.26,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01156,SESS917644,54.0,Male,Singapore,Desktop,Referral,20.6,11.0,Fashion,100.58,No,Yes,No,Yes,Wallet,Night
+CUST01157,SESS201428,56.0,Male,Dubai,Mobile,Organic,5.4,1.0,Books,37.97,No,No,No,No,,Afternoon
+CUST01158,SESS966719,31.0,Female,Toronto,Mobile,Ads,5.3,1.0,Fashion,201.31,Yes,No,No,No,,Evening
+CUST01159,SESS331930,27.0,Male,Sydney,Mobile,Referral,4.1,1.0,Home & Kitchen,28.18,Yes,Yes,No,Yes,Credit Card,Morning
+CUST01160,SESS516350,40.0,Male,Los Angeles,Desktop,Ads,10.9,9.0,Electronics,178.06,Yes,Yes,No,No,,Evening
+CUST01161,SESS659334,27.0,Male,Sydney,Mobile,Referral,2.7,1.0,Fashion,199.45,No,No,No,No,,Afternoon
+CUST01162,SESS163467,32.0,Female,Singapore,Mobile,Referral,12.7,9.0,Home & Kitchen,242.81,No,Yes,No,No,,Afternoon
+CUST01163,SESS318139,20.0,Other,Phoenix,Desktop,Organic,3.7,1.0,Grocery,10.2,No,No,No,No,,Afternoon
+CUST01164,SESS736632,18.0,Female,Chicago,Mobile,Organic,8.8,6.0,Beauty,125.7,Yes,Yes,Yes,No,,Afternoon
+CUST01165,SESS804239,40.0,Female,Toronto,Desktop,,7.5,5.0,Toys,199.24,No,Yes,No,Yes,Credit Card,Night
+CUST01166,SESS466489,56.0,Male,London,Desktop,Social,11.4,5.0,Fashion,222.12,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST01167,SESS352619,26.0,Male,Singapore,Tablet,Social,12.7,9.0,Grocery,6.54,No,Yes,No,Yes,Credit Card,Evening
+CUST01168,SESS756239,54.0,Male,Toronto,Mobile,Social,8.8,1.0,Books,41.54,No,Yes,Yes,No,,Afternoon
+CUST01169,SESS563285,41.0,Female,Chicago,Mobile,Ads,,13.0,Fashion,290.43,No,No,No,No,,Night
+CUST01170,SESS558806,41.0,Male,New York,Mobile,Ads,12.0,9.0,Home & Kitchen,179.38,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01171,SESS706103,21.0,Female,New York,Desktop,Ads,8.0,5.0,Electronics,1125.55,Yes,No,No,No,,Evening
+CUST01172,SESS989928,60.0,Female,Los Angeles,Mobile,Organic,5.9,5.0,Fashion,70.73,No,No,No,No,,Evening
+CUST01173,SESS105544,48.0,Female,Houston,Desktop,Referral,6.9,4.0,Fashion,226.29,Yes,No,No,No,,Evening
+CUST01174,SESS181115,49.0,Male,Chicago,Mobile,Ads,8.6,5.0,Electronics,1160.73,No,No,No,No,,Evening
+CUST01175,SESS216845,21.0,Female,Los Angeles,Mobile,Social,24.7,16.0,Books,9.11,Yes,Yes,Yes,No,,Night
+CUST01176,SESS409463,47.0,Female,Singapore,Mobile,Organic,2.3,4.0,Books,53.65,Yes,Yes,No,Yes,Debit Card,Evening
+CUST01177,SESS394808,28.0,Male,Los Angeles,Desktop,Organic,2.2,1.0,Fashion,93.11,No,Yes,Yes,No,,Evening
+CUST01178,SESS798638,,Other,Singapore,Mobile,Ads,4.2,1.0,Fashion,217.54,No,No,No,No,,Night
+CUST01179,SESS775692,30.0,Male,Houston,Mobile,Social,3.6,1.0,Home & Kitchen,310.37,No,No,No,No,,Evening
+CUST01180,SESS700077,35.0,Male,Los Angeles,Desktop,Referral,15.8,10.0,Electronics,220.54,Yes,Yes,No,Yes,Wallet,Evening
+CUST01181,SESS461207,37.0,Female,Singapore,Desktop,Social,1.1,1.0,Electronics,575.66,Yes,Yes,Yes,No,,Evening
+CUST01182,SESS734887,,Male,London,Mobile,Ads,2.6,2.0,Sports,303.05,No,No,No,No,,Evening
+CUST01183,SESS455861,24.0,Male,New York,Tablet,,3.4,3.0,Electronics,901.17,Yes,No,No,No,,Night
+CUST01184,SESS587767,31.0,Male,Sydney,Mobile,Ads,1.4,1.0,Toys,106.79,No,Yes,Yes,No,,Evening
+CUST01185,SESS830072,37.0,Male,London,Mobile,Ads,,8.0,Books,27.5,No,Yes,No,Yes,Credit Card,Evening
+CUST01186,SESS100284,28.0,Other,London,Mobile,Social,,6.0,Home & Kitchen,175.58,Yes,No,No,No,,Afternoon
+CUST01187,SESS909230,19.0,Male,Phoenix,Mobile,Organic,22.7,14.0,Fashion,,No,Yes,Yes,No,,Morning
+CUST01188,SESS181369,44.0,Female,Los Angeles,Mobile,Organic,,1.0,Sports,349.16,No,No,No,No,,Evening
+CUST01189,SESS664470,42.0,Female,Singapore,Desktop,Ads,1.0,1.0,Fashion,277.29,No,No,No,No,,Morning
+CUST01190,SESS165724,61.0,Female,Houston,Mobile,Organic,,3.0,Home & Kitchen,262.24,Yes,No,No,No,,Morning
+CUST01191,SESS659639,24.0,Male,New York,Desktop,Ads,2.8,3.0,Electronics,476.69,Yes,Yes,No,No,,Evening
+CUST01192,SESS347243,58.0,Female,Houston,Desktop,Organic,1.5,2.0,Sports,166.07,No,Yes,No,Yes,Credit Card,Morning
+CUST01193,SESS434295,50.0,Male,Toronto,Mobile,Ads,,1.0,Electronics,806.87,No,Yes,Yes,No,,Evening
+CUST01194,SESS173129,,Female,Singapore,Desktop,Ads,5.9,,Grocery,5.11,No,No,No,No,,Afternoon
+CUST01195,SESS844691,57.0,Male,Sydney,Desktop,Ads,4.5,1.0,Electronics,497.14,Yes,Yes,No,No,,Morning
+CUST01196,SESS253284,24.0,Male,London,Desktop,Organic,5.0,4.0,Electronics,1081.86,Yes,Yes,No,Yes,Cash on Delivery,Morning
+CUST01197,SESS706476,45.0,Male,Chicago,Mobile,Ads,14.6,9.0,Books,40.39,No,No,No,No,,Night
+CUST01198,SESS577213,40.0,Male,Sydney,Desktop,Social,4.9,2.0,Electronics,1144.2,No,Yes,No,No,,Morning
+CUST01199,SESS521816,21.0,Male,Los Angeles,Desktop,Social,6.3,2.0,Fashion,24.37,No,Yes,No,Yes,Debit Card,Evening
+CUST01200,SESS899837,55.0,Male,Los Angeles,Desktop,Social,1.6,1.0,Grocery,59.89,No,No,No,No,,Night
+CUST01201,SESS535164,44.0,Male,Phoenix,Mobile,Ads,19.7,14.0,Fashion,31.13,No,No,No,No,,Afternoon
+CUST01202,SESS118193,34.0,Female,New York,Mobile,,9.0,5.0,Toys,68.77,Yes,No,No,No,,Evening
+CUST01203,SESS410799,54.0,Male,Sydney,Desktop,Ads,18.8,,Electronics,210.53,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01204,SESS222346,44.0,Male,Toronto,Tablet,Organic,17.0,10.0,Electronics,933.94,No,No,No,No,,Evening
+CUST01205,SESS497143,39.0,Female,London,Mobile,Ads,2.5,,Home & Kitchen,131.06,No,Yes,Yes,No,,Morning
+CUST01206,SESS890399,51.0,Female,Dubai,Tablet,Organic,9.0,9.0,Fashion,20.61,Yes,Yes,Yes,No,,Afternoon
+CUST01207,SESS830804,64.0,Female,New York,Mobile,Social,1.1,2.0,Beauty,130.58,No,Yes,Yes,No,,Afternoon
+CUST01208,SESS527442,24.0,Female,Sydney,Mobile,Organic,2.8,4.0,Home & Kitchen,143.2,No,Yes,Yes,No,,Night
+CUST01209,SESS458899,19.0,Male,London,Mobile,Organic,8.6,6.0,Electronics,318.33,No,No,No,No,,Afternoon
+CUST01210,SESS675846,58.0,Male,London,Mobile,Ads,17.5,12.0,Grocery,,No,No,No,No,,Afternoon
+CUST01211,SESS356035,41.0,Male,London,Desktop,Ads,3.0,2.0,Home & Kitchen,138.22,Yes,No,No,No,,Evening
+CUST01212,SESS981739,42.0,Male,Phoenix,Tablet,Organic,1.7,4.0,Beauty,99.17,No,No,No,No,,Morning
+CUST01213,SESS490717,38.0,Male,Toronto,Desktop,Ads,13.3,9.0,Grocery,7.48,Yes,No,No,No,,Afternoon
+CUST01214,SESS565370,40.0,Male,New York,Desktop,,3.3,1.0,Beauty,136.87,No,No,No,No,,Afternoon
+CUST01215,SESS542360,24.0,Female,Los Angeles,Mobile,Social,1.0,4.0,Home & Kitchen,182.19,Yes,Yes,Yes,No,,Afternoon
+CUST01216,SESS848538,63.0,Male,Los Angeles,Mobile,Social,5.3,3.0,Fashion,143.66,No,Yes,Yes,No,,Night
+CUST01217,SESS741096,46.0,Female,Toronto,Mobile,Social,4.2,1.0,Beauty,68.34,No,Yes,No,No,,Evening
+CUST01218,SESS811350,22.0,Male,Phoenix,Mobile,Organic,1.3,1.0,Electronics,577.64,No,No,No,No,,Night
+CUST01219,SESS954075,26.0,Female,Los Angeles,Desktop,Social,13.3,9.0,Electronics,1199.66,No,No,No,No,,Evening
+CUST01220,SESS991045,50.0,Female,Chicago,Desktop,Ads,19.7,10.0,Home & Kitchen,486.44,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01221,SESS122588,61.0,Female,Phoenix,Mobile,Organic,7.1,3.0,Home & Kitchen,250.4,No,No,No,No,,Evening
+CUST01222,SESS677044,47.0,Male,Houston,Mobile,Organic,3.2,1.0,Beauty,41.54,Yes,Yes,No,No,,Morning
+CUST01223,SESS444928,24.0,Female,Singapore,Tablet,Ads,9.3,5.0,Books,31.9,No,No,No,No,,Afternoon
+CUST01224,SESS637093,61.0,Female,New York,Mobile,Social,8.0,5.0,Fashion,250.62,No,Yes,Yes,No,,Evening
+CUST01225,SESS912702,53.0,Male,New York,Mobile,Ads,2.7,1.0,Sports,232.81,No,Yes,Yes,No,,Afternoon
+CUST01226,SESS543292,19.0,Male,Toronto,Desktop,Ads,5.1,4.0,Fashion,240.1,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST01227,SESS195383,19.0,Female,Singapore,Desktop,Referral,3.8,1.0,Electronics,360.0,No,Yes,Yes,No,,Afternoon
+CUST01228,SESS682054,34.0,Male,Phoenix,Mobile,Social,7.0,6.0,Sports,128.48,Yes,No,No,No,,Evening
+CUST01229,SESS885924,19.0,Female,Toronto,Tablet,Ads,32.9,19.0,Home & Kitchen,146.53,No,Yes,No,No,,Afternoon
+CUST01230,SESS612701,54.0,Male,Sydney,Desktop,Referral,3.5,2.0,Home & Kitchen,408.43,No,No,No,No,,Evening
+CUST01231,SESS828068,29.0,Female,Los Angeles,Desktop,Ads,1.5,2.0,Grocery,55.5,Yes,Yes,No,Yes,Credit Card,Morning
+CUST01232,SESS236731,24.0,Male,Sydney,Desktop,Referral,4.1,7.0,Books,43.01,Yes,Yes,Yes,No,,Afternoon
+CUST01233,SESS797104,21.0,Male,Dubai,Desktop,Ads,4.3,1.0,Beauty,93.99,No,No,No,No,,Night
+CUST01234,SESS152083,54.0,Male,New York,Tablet,,16.1,6.0,Electronics,584.03,No,No,No,No,,Afternoon
+CUST01235,SESS965923,41.0,Female,London,Mobile,Ads,1.9,1.0,Grocery,16.27,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01236,SESS549827,29.0,Female,Los Angeles,Desktop,Organic,9.4,11.0,Electronics,1163.05,Yes,No,No,No,,Morning
+CUST01237,SESS345144,34.0,Female,Sydney,Mobile,Organic,25.9,18.0,Grocery,40.91,Yes,Yes,Yes,No,,Evening
+CUST01238,SESS328402,36.0,Male,New York,Mobile,Ads,8.4,1.0,Books,22.2,No,No,No,No,,Morning
+CUST01239,SESS301101,50.0,Female,Sydney,Desktop,Organic,6.3,5.0,Electronics,813.04,No,Yes,No,Yes,Debit Card,Afternoon
+CUST01240,SESS518955,54.0,Male,New York,Desktop,Social,20.2,11.0,Grocery,44.38,No,Yes,No,Yes,Wallet,Afternoon
+CUST01241,SESS902862,60.0,Male,Chicago,Desktop,Social,23.3,16.0,Electronics,1067.02,No,Yes,No,Yes,Credit Card,Evening
+CUST01242,SESS773407,40.0,Male,New York,Desktop,Organic,17.1,11.0,Grocery,19.57,Yes,Yes,No,Yes,Wallet,Evening
+CUST01243,SESS391282,31.0,Male,Chicago,Mobile,Ads,4.2,2.0,Beauty,59.81,No,No,No,No,,Afternoon
+CUST01244,SESS755430,54.0,Female,New York,Desktop,Referral,2.1,1.0,Fashion,123.73,No,No,No,No,,Morning
+CUST01245,SESS518634,33.0,Female,New York,Desktop,,5.2,1.0,Sports,185.98,No,No,No,No,,Afternoon
+CUST01246,SESS948368,56.0,Male,Phoenix,Desktop,Ads,5.9,3.0,Fashion,47.74,Yes,Yes,No,Yes,Wallet,Morning
+CUST01247,SESS433723,62.0,Male,Sydney,Mobile,Organic,12.9,7.0,Toys,62.74,No,No,No,No,,Afternoon
+CUST01248,SESS510977,63.0,Female,Sydney,Mobile,Referral,1.2,,Electronics,1096.28,No,No,No,No,,Night
+CUST01249,SESS799168,60.0,Male,Chicago,Mobile,Referral,3.9,1.0,Home & Kitchen,329.77,No,No,No,No,,Afternoon
+CUST01250,SESS211885,57.0,Female,Houston,Tablet,Ads,4.1,4.0,Electronics,1152.67,No,Yes,Yes,No,,Evening
+CUST01251,SESS594867,28.0,Other,Los Angeles,Desktop,Organic,1.0,1.0,Electronics,646.2,Yes,No,No,No,,Afternoon
+CUST01252,SESS885680,56.0,Male,Phoenix,Desktop,Social,3.8,1.0,Fashion,166.35,No,Yes,No,No,,Night
+CUST01253,SESS151141,33.0,Male,Dubai,Mobile,Social,4.6,7.0,Fashion,108.94,Yes,No,No,No,,Morning
+CUST01254,SESS985411,57.0,Male,Los Angeles,Tablet,Referral,4.8,1.0,Electronics,754.49,No,Yes,Yes,No,,Morning
+CUST01255,SESS826385,45.0,Male,Dubai,Mobile,Referral,29.8,21.0,Electronics,614.1,Yes,Yes,No,Yes,Wallet,Night
+CUST01256,SESS697911,36.0,Female,Los Angeles,Mobile,Referral,10.3,4.0,Books,53.28,No,Yes,Yes,No,,Afternoon
+CUST01257,SESS529386,31.0,Female,London,Mobile,Ads,1.5,1.0,Fashion,185.62,Yes,Yes,Yes,No,,Morning
+CUST01258,SESS282240,37.0,Female,Houston,Tablet,Ads,2.0,3.0,Fashion,134.38,Yes,No,No,No,,Morning
+CUST01259,SESS364947,31.0,Male,Los Angeles,Mobile,Referral,2.1,1.0,Electronics,126.78,No,Yes,Yes,No,,Morning
+CUST01260,SESS737539,27.0,Male,Toronto,Tablet,Ads,2.8,4.0,Beauty,93.63,No,No,No,No,,Evening
+CUST01261,SESS928836,61.0,Male,Los Angeles,Desktop,Organic,17.1,10.0,Home & Kitchen,469.44,Yes,No,No,No,,Evening
+CUST01262,SESS794597,63.0,Female,Chicago,Mobile,Organic,14.9,7.0,Fashion,81.88,Yes,Yes,No,No,,Morning
+CUST01263,SESS980645,18.0,Female,Dubai,Mobile,Ads,4.6,1.0,Grocery,64.26,No,Yes,No,No,,Evening
+CUST01264,SESS649147,63.0,Female,New York,Mobile,Social,16.0,8.0,Home & Kitchen,395.65,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST01265,SESS496631,28.0,Female,New York,Mobile,Social,5.7,4.0,Home & Kitchen,235.75,No,No,No,No,,Morning
+CUST01266,SESS830737,57.0,Male,Singapore,Desktop,Referral,4.7,1.0,Books,36.88,No,Yes,Yes,No,,Evening
+CUST01267,SESS932547,31.0,Male,Phoenix,Mobile,Ads,12.9,3.0,Beauty,79.14,No,No,No,No,,Evening
+CUST01268,SESS787580,26.0,Female,Singapore,Mobile,Ads,,4.0,Electronics,426.7,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01269,SESS669893,52.0,Female,London,Desktop,Social,4.2,7.0,Toys,51.2,No,No,No,No,,Afternoon
+CUST01270,SESS228829,18.0,Male,Phoenix,Mobile,Organic,1.2,3.0,Home & Kitchen,140.96,No,No,No,No,,Afternoon
+CUST01271,SESS569422,27.0,Male,Houston,Mobile,Ads,2.5,1.0,Electronics,1187.85,No,No,No,No,,Evening
+CUST01272,SESS437220,61.0,Male,London,Desktop,Social,5.2,3.0,Home & Kitchen,407.18,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01273,SESS673995,49.0,Female,Chicago,Desktop,Ads,13.1,7.0,Toys,195.33,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST01274,SESS478466,37.0,Female,Sydney,Mobile,Social,1.0,1.0,Grocery,75.75,No,No,No,No,,Afternoon
+CUST01275,SESS253745,43.0,Male,London,Desktop,Ads,12.1,10.0,Electronics,204.28,No,No,No,No,,Afternoon
+CUST01276,SESS862759,20.0,Male,Toronto,Desktop,Social,1.3,1.0,Books,20.23,No,No,No,No,,Afternoon
+CUST01277,SESS586095,43.0,Male,Singapore,Desktop,Social,5.8,6.0,Home & Kitchen,147.62,No,No,No,No,,Afternoon
+CUST01278,SESS730168,40.0,Male,Houston,Desktop,Ads,,2.0,Home & Kitchen,382.16,No,Yes,No,Yes,Debit Card,Evening
+CUST01279,SESS430865,27.0,Female,Toronto,Mobile,Social,2.0,3.0,Fashion,151.91,Yes,Yes,No,Yes,Debit Card,Morning
+CUST01280,SESS692034,25.0,Female,Toronto,Desktop,Social,6.3,4.0,Electronics,416.04,No,Yes,Yes,No,,Evening
+CUST01281,SESS471300,,Female,Dubai,Mobile,Referral,5.1,5.0,Fashion,85.98,Yes,No,No,No,,Night
+CUST01282,SESS935543,38.0,Male,New York,Desktop,Ads,7.7,2.0,Electronics,239.95,No,Yes,Yes,No,,Evening
+CUST01283,SESS510588,59.0,Male,London,Mobile,Referral,7.2,4.0,Grocery,63.04,No,No,No,No,,Afternoon
+CUST01284,SESS270449,47.0,Male,Singapore,Mobile,Organic,5.3,1.0,Home & Kitchen,460.03,No,No,No,No,,Afternoon
+CUST01285,SESS209670,46.0,Female,Chicago,Desktop,,4.1,1.0,Books,19.98,No,Yes,No,Yes,Cash on Delivery,Night
+CUST01286,SESS767937,29.0,Male,Chicago,Desktop,Social,9.5,8.0,Books,34.2,Yes,Yes,Yes,No,,Night
+CUST01287,SESS477116,56.0,Female,New York,Tablet,,20.2,15.0,Home & Kitchen,32.35,No,Yes,No,Yes,Credit Card,Night
+CUST01288,SESS613164,62.0,Male,Sydney,Desktop,Organic,12.2,11.0,Sports,343.96,No,Yes,No,No,,Night
+CUST01289,SESS469911,37.0,Male,Houston,Tablet,Organic,1.0,1.0,Fashion,287.83,Yes,Yes,No,Yes,Debit Card,Night
+CUST01290,SESS769401,21.0,Female,Los Angeles,Mobile,Ads,1.6,1.0,Toys,31.99,No,Yes,Yes,No,,Afternoon
+CUST01291,SESS219498,46.0,Female,London,Desktop,Organic,17.2,7.0,Home & Kitchen,332.27,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01292,SESS142512,33.0,Female,Houston,Desktop,Ads,5.1,1.0,Electronics,229.34,No,Yes,Yes,No,,Afternoon
+CUST01293,SESS881857,25.0,Female,Toronto,Desktop,Ads,11.3,7.0,Fashion,110.22,No,Yes,Yes,No,,Night
+CUST01294,SESS641265,47.0,Female,New York,Desktop,Social,17.2,11.0,Grocery,14.98,No,Yes,No,No,,Afternoon
+CUST01295,SESS613280,43.0,Female,Dubai,Desktop,Social,8.6,4.0,Fashion,122.71,Yes,No,No,No,,Afternoon
+CUST01296,SESS885244,51.0,Male,Toronto,Desktop,Ads,3.0,4.0,Fashion,64.88,No,Yes,No,No,,Evening
+CUST01297,SESS938349,55.0,Other,Dubai,Desktop,Organic,,2.0,Toys,111.41,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01298,SESS289001,,Male,Dubai,Tablet,Organic,12.3,6.0,Electronics,696.83,Yes,Yes,No,Yes,Credit Card,Night
+CUST01299,SESS131834,28.0,Male,Los Angeles,Desktop,Referral,8.9,6.0,Beauty,20.07,No,Yes,No,No,,Afternoon
+CUST01300,SESS303381,52.0,Male,Houston,Desktop,Referral,1.0,2.0,Home & Kitchen,366.56,No,No,No,No,,Morning
+CUST01301,SESS661455,63.0,Female,Los Angeles,Mobile,Social,3.7,,Toys,87.75,No,No,No,No,,Evening
+CUST01302,SESS221163,26.0,Female,Toronto,Mobile,Social,8.4,5.0,Books,8.66,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01303,SESS207286,51.0,Male,Houston,Mobile,Ads,1.3,4.0,Grocery,27.73,No,No,No,No,,Night
+CUST01304,SESS784471,35.0,Male,Toronto,Mobile,Social,10.0,11.0,Electronics,699.31,Yes,No,No,No,,Morning
+CUST01305,SESS966721,58.0,Female,Chicago,Desktop,Social,5.0,5.0,Home & Kitchen,211.68,Yes,No,No,No,,Afternoon
+CUST01306,SESS140133,57.0,Male,New York,Desktop,Social,11.2,10.0,Home & Kitchen,292.12,Yes,Yes,Yes,No,,Morning
+CUST01307,SESS155213,30.0,Male,Dubai,Desktop,Referral,4.0,1.0,Sports,235.49,No,No,No,No,,Afternoon
+CUST01308,SESS495807,61.0,Female,Dubai,Mobile,Social,1.0,1.0,Fashion,271.09,No,No,No,No,,Night
+CUST01309,SESS269902,61.0,Female,Los Angeles,Mobile,,18.1,11.0,Sports,304.29,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01310,SESS592147,37.0,Male,Chicago,Mobile,Social,4.4,1.0,Electronics,642.79,Yes,Yes,No,No,,Afternoon
+CUST01311,SESS358952,,Female,Phoenix,Desktop,Ads,4.5,3.0,Fashion,38.37,No,No,No,No,,Night
+CUST01312,SESS737696,32.0,Female,Sydney,Tablet,Organic,1.0,1.0,Books,5.97,Yes,Yes,No,No,,Morning
+CUST01313,SESS292219,,Female,Houston,Mobile,Social,1.0,2.0,Books,7.63,Yes,Yes,Yes,No,,Morning
+CUST01314,SESS948520,64.0,Female,Phoenix,Desktop,Referral,10.3,8.0,Electronics,85.57,No,Yes,Yes,No,,Night
+CUST01315,SESS936126,53.0,Male,Sydney,Mobile,Ads,6.1,4.0,Electronics,672.3,No,No,No,No,,Evening
+CUST01316,SESS681798,42.0,Female,Houston,Mobile,Ads,3.1,,Books,37.5,No,Yes,Yes,No,,Evening
+CUST01317,SESS994871,52.0,Female,Houston,Desktop,Social,2.2,,Beauty,42.54,No,No,No,No,,Evening
+CUST01318,SESS649057,18.0,Male,Phoenix,Desktop,Social,7.1,6.0,Electronics,808.76,No,Yes,No,No,,Afternoon
+CUST01319,SESS245008,40.0,Female,Los Angeles,Mobile,Ads,5.7,5.0,Grocery,54.07,No,Yes,Yes,No,,Afternoon
+CUST01320,SESS133418,45.0,Male,London,Mobile,Ads,10.9,5.0,Books,25.88,No,Yes,No,Yes,Debit Card,Morning
+CUST01321,SESS782362,50.0,Male,Houston,Mobile,Ads,3.1,5.0,Books,14.58,No,Yes,Yes,No,,Afternoon
+CUST01322,SESS331376,18.0,Male,New York,Desktop,Ads,6.1,6.0,Electronics,1048.01,No,No,No,No,,Evening
+CUST01323,SESS473479,64.0,Female,New York,Mobile,Organic,19.8,12.0,Beauty,55.11,No,Yes,No,Yes,Credit Card,Night
+CUST01324,SESS570486,63.0,Male,New York,Mobile,Ads,15.3,6.0,Electronics,894.23,Yes,No,No,No,,Night
+CUST01325,SESS467334,26.0,Female,Toronto,Mobile,Ads,1.6,,Fashion,149.59,No,No,No,No,,Evening
+CUST01326,SESS395059,46.0,Male,New York,Desktop,Organic,2.5,4.0,Electronics,79.66,Yes,Yes,No,No,,Evening
+CUST01327,SESS583864,27.0,Female,London,Mobile,Social,1.0,1.0,Grocery,54.3,No,No,No,No,,Evening
+CUST01328,SESS942800,59.0,Female,Sydney,Mobile,Referral,8.9,6.0,Grocery,60.0,No,Yes,Yes,No,,Night
+CUST01329,SESS234064,56.0,Female,Dubai,Mobile,Ads,7.1,8.0,Electronics,900.27,No,Yes,Yes,No,,Evening
+CUST01330,SESS180171,53.0,Male,Houston,Mobile,Social,5.2,3.0,Electronics,790.59,No,No,No,No,,Night
+CUST01331,SESS785312,23.0,Male,Toronto,Mobile,Referral,1.9,1.0,Home & Kitchen,450.13,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01332,SESS934655,54.0,Female,London,Desktop,Social,8.2,4.0,Home & Kitchen,,No,No,No,No,,Afternoon
+CUST01333,SESS542735,60.0,Male,Dubai,Mobile,Organic,2.5,2.0,Electronics,726.43,Yes,No,No,No,,Evening
+CUST01334,SESS284381,29.0,Male,New York,Mobile,Organic,9.0,2.0,Sports,281.14,Yes,No,No,No,,Evening
+CUST01335,SESS459229,47.0,Female,New York,Mobile,Organic,3.5,3.0,Books,19.47,No,No,No,No,,Afternoon
+CUST01336,SESS860863,30.0,Other,Sydney,Mobile,Ads,4.1,1.0,Sports,287.24,No,No,No,No,,Afternoon
+CUST01337,SESS932306,49.0,Male,New York,Tablet,Organic,,1.0,Beauty,18.83,Yes,No,No,No,,Night
+CUST01338,SESS966013,48.0,Male,Sydney,Mobile,Social,8.8,3.0,Fashion,158.97,No,No,No,No,,Afternoon
+CUST01339,SESS588556,24.0,Male,Los Angeles,Desktop,Ads,2.8,2.0,Books,25.47,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01340,SESS780514,61.0,Female,Dubai,Mobile,Organic,1.9,,Electronics,558.01,Yes,Yes,No,No,,Afternoon
+CUST01341,SESS628563,27.0,Female,New York,Mobile,Organic,3.2,1.0,Sports,177.47,Yes,Yes,No,Yes,Debit Card,Evening
+CUST01342,SESS299268,45.0,Female,Los Angeles,Desktop,Ads,7.4,3.0,Books,31.62,No,No,No,No,,Evening
+CUST01343,SESS927798,47.0,Male,London,Mobile,Ads,7.0,,Home & Kitchen,409.96,No,Yes,No,Yes,Credit Card,Morning
+CUST01344,SESS326365,35.0,Female,Houston,Desktop,Social,11.5,9.0,Grocery,17.43,No,Yes,Yes,No,,Morning
+CUST01345,SESS716107,48.0,Male,Los Angeles,Mobile,Social,1.4,1.0,Home & Kitchen,135.77,No,No,No,No,,Evening
+CUST01346,SESS104361,64.0,Male,Phoenix,Mobile,Social,7.1,4.0,Beauty,79.73,No,No,No,No,,Evening
+CUST01347,SESS532084,53.0,Female,Los Angeles,Desktop,Organic,5.7,5.0,Home & Kitchen,136.22,Yes,No,No,No,,Morning
+CUST01348,SESS224407,64.0,Male,Toronto,Tablet,Ads,6.6,1.0,Toys,131.43,No,Yes,No,Yes,Debit Card,Afternoon
+CUST01349,SESS579468,36.0,Female,New York,Mobile,Organic,1.0,1.0,Electronics,721.22,No,Yes,No,No,,Morning
+CUST01350,SESS995487,36.0,Male,Chicago,Tablet,Organic,2.2,1.0,Books,58.15,Yes,Yes,Yes,No,,Morning
+CUST01351,SESS507473,36.0,Female,New York,Desktop,Social,,13.0,Grocery,64.02,Yes,Yes,No,Yes,Wallet,Night
+CUST01352,SESS766206,36.0,Female,Toronto,Tablet,Referral,4.3,4.0,Beauty,103.89,Yes,Yes,No,Yes,Credit Card,Morning
+CUST01353,SESS366936,63.0,Female,Chicago,Tablet,Ads,1.0,,Beauty,141.94,No,Yes,No,Yes,Wallet,Morning
+CUST01354,SESS892086,46.0,Female,Dubai,Desktop,Referral,,7.0,Fashion,98.68,Yes,Yes,No,Yes,Debit Card,Afternoon
+CUST01355,SESS339612,36.0,Male,London,Mobile,Ads,1.5,,Grocery,75.77,No,No,No,No,,Morning
+CUST01356,SESS431284,37.0,Female,Los Angeles,Mobile,Referral,37.2,24.0,Home & Kitchen,,Yes,Yes,No,Yes,Debit Card,Evening
+CUST01357,SESS729709,38.0,Male,London,Mobile,Social,22.1,13.0,Home & Kitchen,112.11,No,No,No,No,,Afternoon
+CUST01358,SESS290053,48.0,Male,London,Desktop,Social,1.7,2.0,Electronics,888.06,Yes,No,No,No,,Evening
+CUST01359,SESS514255,22.0,Female,Singapore,Mobile,Referral,17.7,11.0,Fashion,208.61,Yes,No,No,No,,Morning
+CUST01360,SESS470156,27.0,Male,Dubai,Mobile,Referral,23.2,17.0,Books,59.2,Yes,Yes,No,No,,Evening
+CUST01361,SESS577281,51.0,Male,Houston,Mobile,Ads,1.0,1.0,Sports,381.09,No,No,No,No,,Afternoon
+CUST01362,SESS463882,51.0,Female,Dubai,Mobile,Organic,25.3,16.0,Fashion,253.6,No,Yes,Yes,No,,Morning
+CUST01363,SESS276930,55.0,Female,Toronto,Mobile,Social,5.8,2.0,Electronics,401.06,No,No,No,No,,Night
+CUST01364,SESS729549,35.0,Male,Toronto,Tablet,Ads,1.0,4.0,Fashion,,Yes,No,No,No,,Morning
+CUST01365,SESS210456,50.0,Female,Los Angeles,Mobile,Referral,27.0,14.0,Home & Kitchen,135.2,Yes,Yes,Yes,No,,Night
+CUST01366,SESS879516,52.0,Female,New York,Tablet,Ads,,1.0,Electronics,348.09,Yes,Yes,Yes,No,,Evening
+CUST01367,SESS789631,47.0,Male,Sydney,Tablet,Ads,11.0,7.0,Beauty,19.66,No,No,No,No,,Evening
+CUST01368,SESS393204,51.0,Female,London,Mobile,Social,7.9,7.0,Beauty,108.61,No,No,No,No,,Evening
+CUST01369,SESS285297,58.0,Female,London,Tablet,Ads,14.2,8.0,Books,22.88,Yes,Yes,Yes,No,,Afternoon
+CUST01370,SESS944709,33.0,Male,New York,Mobile,Referral,3.0,6.0,Beauty,,No,No,No,No,,Afternoon
+CUST01371,SESS883813,34.0,Male,Los Angeles,Desktop,Ads,1.1,,Electronics,444.71,No,No,No,No,,Morning
+CUST01372,SESS179451,53.0,Male,London,Mobile,Organic,15.4,,Home & Kitchen,329.16,No,No,No,No,,Evening
+CUST01373,SESS904228,51.0,Male,Los Angeles,Mobile,Social,3.4,3.0,Beauty,31.14,No,No,No,No,,Morning
+CUST01374,SESS510673,58.0,Male,Toronto,Mobile,Organic,1.0,,Sports,327.73,No,No,No,No,,Evening
+CUST01375,SESS160152,28.0,Female,Singapore,Mobile,Referral,1.4,1.0,Toys,151.14,Yes,Yes,Yes,No,,Afternoon
+CUST01376,SESS607085,31.0,Male,Phoenix,Mobile,Organic,5.4,2.0,Home & Kitchen,55.18,No,Yes,Yes,No,,Morning
+CUST01377,SESS945908,29.0,Male,Singapore,Mobile,Organic,2.6,1.0,Home & Kitchen,161.51,No,No,No,No,,Night
+CUST01378,SESS927186,59.0,Male,Dubai,Mobile,Organic,2.5,1.0,Electronics,603.41,No,No,No,No,,Afternoon
+CUST01379,SESS164281,46.0,Female,Sydney,Mobile,Social,3.3,2.0,Fashion,249.88,No,Yes,Yes,No,,Evening
+CUST01380,SESS356783,54.0,Female,London,Desktop,Referral,,1.0,Home & Kitchen,168.25,Yes,Yes,Yes,No,,Evening
+CUST01381,SESS247990,36.0,Male,Phoenix,Tablet,Ads,13.4,10.0,Home & Kitchen,467.82,Yes,No,No,No,,Morning
+CUST01382,SESS419108,27.0,Other,Singapore,Tablet,Organic,2.3,1.0,Toys,148.45,No,No,No,No,,Afternoon
+CUST01383,SESS698241,33.0,Male,Los Angeles,Desktop,,1.0,1.0,Fashion,98.32,No,No,No,No,,Evening
+CUST01384,SESS622069,33.0,Male,Chicago,Mobile,Organic,1.0,,Books,16.61,No,Yes,No,Yes,Cash on Delivery,Night
+CUST01385,SESS929843,35.0,Male,Los Angeles,Mobile,Social,2.0,2.0,Beauty,72.83,Yes,No,No,No,,Evening
+CUST01386,SESS579554,24.0,Male,Los Angeles,Mobile,,1.7,2.0,Fashion,262.26,No,Yes,No,No,,Morning
+CUST01387,SESS277965,25.0,Female,Houston,Desktop,Referral,8.4,4.0,Toys,43.16,No,No,No,No,,Evening
+CUST01388,SESS588475,,Male,Phoenix,Tablet,Referral,3.6,1.0,Books,42.4,No,Yes,Yes,No,,Night
+CUST01389,SESS335353,50.0,Female,London,Mobile,Organic,1.0,1.0,Fashion,280.44,Yes,No,No,No,,Morning
+CUST01390,SESS468518,47.0,Male,Sydney,Mobile,Referral,9.7,8.0,Fashion,90.99,Yes,No,No,No,,Afternoon
+CUST01391,SESS199705,48.0,Female,Houston,Desktop,Organic,14.9,7.0,Beauty,30.39,No,No,No,No,,Night
+CUST01392,SESS831090,20.0,Male,London,Mobile,Organic,17.9,10.0,Books,28.04,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01393,SESS740020,25.0,Male,Houston,Mobile,Referral,4.0,2.0,Sports,230.95,No,No,No,No,,Afternoon
+CUST01394,SESS930095,39.0,Female,Sydney,Mobile,Organic,5.8,7.0,Home & Kitchen,161.71,Yes,Yes,No,Yes,Credit Card,Night
+CUST01395,SESS538739,32.0,Male,Los Angeles,Mobile,Organic,1.0,1.0,Beauty,89.21,Yes,Yes,Yes,No,,Afternoon
+CUST01396,SESS212236,47.0,Female,Los Angeles,Mobile,,1.0,4.0,Beauty,70.6,No,No,No,No,,Evening
+CUST01397,SESS310012,63.0,Male,Houston,Mobile,Organic,1.0,1.0,Beauty,89.69,No,No,No,No,,Afternoon
+CUST01398,SESS981458,38.0,Female,Los Angeles,Mobile,Referral,16.5,9.0,Sports,305.28,No,No,No,No,,Afternoon
+CUST01399,SESS959381,35.0,Female,Phoenix,Mobile,Organic,6.9,8.0,Toys,19.6,No,Yes,No,Yes,Debit Card,Morning
+CUST01400,SESS728017,25.0,Female,Dubai,Mobile,Organic,27.1,20.0,Fashion,121.82,No,Yes,Yes,No,,Evening
+CUST01401,SESS266087,24.0,Male,Dubai,Mobile,Social,2.2,2.0,Books,42.99,No,No,No,No,,Afternoon
+CUST01402,SESS868186,59.0,Male,Sydney,Mobile,Ads,,3.0,Electronics,540.34,Yes,Yes,Yes,No,,Night
+CUST01403,SESS168631,21.0,Female,Sydney,Tablet,Organic,4.5,1.0,Home & Kitchen,438.99,No,No,No,No,,Afternoon
+CUST01404,SESS238487,47.0,Male,Dubai,Mobile,Social,11.4,8.0,Sports,207.67,No,Yes,No,No,,Morning
+CUST01405,SESS870605,29.0,Female,Dubai,Desktop,Ads,3.6,4.0,Electronics,363.32,No,Yes,Yes,No,,Evening
+CUST01406,SESS735661,53.0,Male,Singapore,Desktop,Referral,35.8,24.0,Fashion,46.96,Yes,Yes,No,Yes,Credit Card,Morning
+CUST01407,SESS354631,25.0,Female,New York,Desktop,,9.2,6.0,Fashion,253.17,Yes,No,No,No,,Night
+CUST01408,SESS710673,25.0,Male,Chicago,Tablet,Organic,3.5,3.0,Fashion,17.46,No,Yes,Yes,No,,Morning
+CUST01409,SESS746829,50.0,Female,London,Mobile,Organic,9.8,5.0,Grocery,29.2,No,Yes,No,Yes,Cash on Delivery,Morning
+CUST01410,SESS593056,25.0,Male,Singapore,Desktop,,2.5,2.0,Electronics,534.69,No,No,No,No,,Evening
+CUST01411,SESS628983,27.0,Female,Chicago,Mobile,Social,2.9,2.0,Home & Kitchen,,No,No,No,No,,Evening
+CUST01412,SESS453847,49.0,Female,London,Tablet,Organic,5.0,4.0,Fashion,175.66,Yes,No,No,No,,Morning
+CUST01413,SESS706913,61.0,Male,New York,Desktop,Ads,2.6,1.0,Home & Kitchen,409.05,No,No,No,No,,Morning
+CUST01414,SESS309296,47.0,Female,London,Desktop,Referral,56.3,37.0,Fashion,138.16,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01415,SESS371612,35.0,Female,Chicago,Desktop,Social,1.5,1.0,Grocery,49.87,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01416,SESS329769,48.0,Female,Los Angeles,Mobile,Referral,14.5,10.0,Home & Kitchen,424.81,Yes,Yes,Yes,No,,Afternoon
+CUST01417,SESS557370,22.0,Female,London,Tablet,Organic,23.7,15.0,Beauty,63.77,No,No,No,No,,Evening
+CUST01418,SESS670833,23.0,Male,Houston,Desktop,Organic,1.0,1.0,Fashion,101.49,Yes,Yes,Yes,No,,Morning
+CUST01419,SESS332671,56.0,Female,Dubai,Desktop,,1.9,1.0,Sports,349.5,No,No,No,No,,Evening
+CUST01420,SESS399978,55.0,Female,Dubai,Desktop,Social,2.3,1.0,Grocery,17.18,No,No,No,No,,Evening
+CUST01421,SESS746105,52.0,Male,Sydney,Mobile,Social,8.3,4.0,Books,23.45,Yes,Yes,No,No,,Afternoon
+CUST01422,SESS335814,40.0,Male,Chicago,Mobile,Social,18.1,12.0,Electronics,1049.02,No,Yes,No,No,,Morning
+CUST01423,SESS132038,24.0,Male,London,Mobile,Referral,20.3,15.0,Fashion,145.48,No,Yes,No,Yes,Credit Card,Evening
+CUST01424,SESS607491,37.0,Male,Houston,Mobile,Referral,1.0,6.0,Grocery,40.19,Yes,Yes,No,No,,Evening
+CUST01425,SESS785554,25.0,Female,Phoenix,Mobile,Referral,1.0,1.0,Grocery,5.74,No,No,No,No,,Evening
+CUST01426,SESS711211,20.0,Other,New York,Desktop,Organic,5.4,2.0,Home & Kitchen,467.36,No,No,No,No,,Evening
+CUST01427,SESS662602,,Male,Chicago,Tablet,Organic,1.0,1.0,Beauty,104.72,No,Yes,Yes,No,,Night
+CUST01428,SESS109827,40.0,Male,Chicago,Desktop,Organic,6.1,3.0,Beauty,21.92,No,Yes,Yes,No,,Evening
+CUST01429,SESS807407,29.0,Female,Los Angeles,Mobile,Ads,1.0,4.0,Electronics,812.07,Yes,Yes,Yes,No,,Afternoon
+CUST01430,SESS198041,47.0,Female,Singapore,Mobile,Social,2.1,2.0,Home & Kitchen,156.74,Yes,Yes,Yes,No,,Night
+CUST01431,SESS306722,21.0,Other,Chicago,Mobile,Organic,8.6,6.0,Home & Kitchen,294.32,Yes,Yes,Yes,No,,Afternoon
+CUST01432,SESS533801,38.0,Female,New York,Desktop,Referral,3.5,4.0,Fashion,221.49,No,Yes,Yes,No,,Morning
+CUST01433,SESS343639,23.0,Male,Los Angeles,Mobile,Referral,23.8,12.0,Books,,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01434,SESS440208,38.0,Female,Houston,Mobile,Organic,7.1,6.0,Sports,226.02,Yes,No,No,No,,Morning
+CUST01435,SESS855595,59.0,Male,Dubai,Mobile,Organic,18.9,9.0,Beauty,16.53,Yes,Yes,Yes,No,,Afternoon
+CUST01436,SESS658359,25.0,Male,London,Tablet,Social,13.0,7.0,Toys,112.59,No,No,No,No,,Night
+CUST01437,SESS179710,23.0,Male,Houston,Mobile,Organic,6.5,1.0,Sports,209.24,No,No,No,No,,Morning
+CUST01438,SESS639173,37.0,Male,Los Angeles,Mobile,Organic,17.2,11.0,Books,41.7,Yes,No,No,No,,Morning
+CUST01439,SESS340165,49.0,Female,Houston,Tablet,Organic,1.0,2.0,Sports,316.03,Yes,No,No,No,,Afternoon
+CUST01440,SESS310054,46.0,Male,Sydney,Desktop,,8.3,1.0,Home & Kitchen,353.34,No,Yes,No,Yes,Debit Card,Evening
+CUST01441,SESS980016,22.0,Female,London,Desktop,Ads,32.1,21.0,Fashion,152.62,No,No,No,No,,Afternoon
+CUST01442,SESS544769,43.0,Male,Los Angeles,Mobile,Referral,2.3,1.0,Fashion,143.98,No,Yes,No,No,,Morning
+CUST01443,SESS237312,33.0,Male,Toronto,Mobile,Social,5.2,2.0,Books,,Yes,Yes,No,Yes,Debit Card,Evening
+CUST01444,SESS536260,36.0,Other,Singapore,Tablet,Social,8.5,8.0,Electronics,76.92,No,Yes,No,No,,Evening
+CUST01445,SESS989045,41.0,Female,Sydney,Mobile,Referral,14.8,10.0,Fashion,122.55,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST01446,SESS131083,49.0,Female,Phoenix,Mobile,Organic,23.7,12.0,Electronics,,Yes,No,No,No,,Morning
+CUST01447,SESS668669,55.0,Male,London,Mobile,Ads,15.4,11.0,Grocery,33.03,No,Yes,No,No,,Night
+CUST01448,SESS124675,53.0,Female,Chicago,Mobile,Social,7.3,6.0,Beauty,108.19,No,Yes,Yes,No,,Evening
+CUST01449,SESS693026,43.0,Male,New York,Desktop,Ads,6.6,4.0,Toys,113.23,Yes,No,No,No,,Morning
+CUST01450,SESS237194,51.0,Female,Sydney,Mobile,,1.2,4.0,Toys,80.47,Yes,Yes,Yes,No,,Morning
+CUST01451,SESS266337,53.0,Female,Sydney,Mobile,Social,1.0,4.0,Fashion,175.65,No,No,No,No,,Morning
+CUST01452,SESS246244,29.0,Female,Chicago,Tablet,Social,12.4,8.0,Electronics,99.79,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01453,SESS955057,53.0,Female,New York,Mobile,Social,1.0,2.0,Home & Kitchen,327.07,Yes,No,No,No,,Night
+CUST01454,SESS121596,45.0,Female,Phoenix,Mobile,,4.9,2.0,Toys,166.37,No,Yes,Yes,No,,Morning
+CUST01455,SESS233347,62.0,Male,Los Angeles,Desktop,Ads,4.1,2.0,Sports,265.94,Yes,No,No,No,,Evening
+CUST01456,SESS967401,26.0,Male,Toronto,Desktop,Referral,11.5,9.0,Home & Kitchen,198.4,No,Yes,No,Yes,Credit Card,Afternoon
+CUST01457,SESS124830,56.0,Male,Singapore,Mobile,Organic,11.2,6.0,Fashion,257.89,Yes,No,No,No,,Night
+CUST01458,SESS320610,30.0,Male,London,Tablet,,5.1,3.0,Fashion,42.44,No,Yes,No,Yes,Credit Card,Evening
+CUST01459,SESS261074,44.0,Female,New York,Desktop,Referral,1.0,,Home & Kitchen,103.5,Yes,Yes,No,No,,Evening
+CUST01460,SESS436740,25.0,Female,Toronto,Desktop,Organic,5.4,5.0,Beauty,66.54,No,Yes,No,No,,Evening
+CUST01461,SESS141497,47.0,Male,London,Mobile,Ads,1.3,1.0,Grocery,12.23,No,Yes,Yes,No,,Afternoon
+CUST01462,SESS422101,19.0,Male,Los Angeles,Mobile,,5.2,4.0,Home & Kitchen,157.74,No,Yes,Yes,No,,Afternoon
+CUST01463,SESS664312,64.0,Male,Chicago,Desktop,Organic,2.9,2.0,Electronics,891.76,No,No,No,No,,Morning
+CUST01464,SESS254961,57.0,Female,Singapore,Desktop,Ads,6.7,1.0,Grocery,28.67,No,No,No,No,,Night
+CUST01465,SESS657506,34.0,Female,Toronto,Desktop,Ads,4.4,4.0,Fashion,299.14,No,Yes,No,Yes,Credit Card,Evening
+CUST01466,SESS511853,19.0,Female,Dubai,Mobile,Organic,9.4,5.0,Electronics,195.3,No,Yes,Yes,No,,Night
+CUST01467,SESS806618,49.0,Male,New York,Mobile,Social,9.0,4.0,Fashion,194.23,Yes,No,No,No,,Evening
+CUST01468,SESS791117,34.0,Male,New York,Tablet,Organic,21.7,11.0,Electronics,,No,Yes,No,No,,Morning
+CUST01469,SESS144898,29.0,Female,London,Mobile,Ads,4.4,1.0,Electronics,808.85,No,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01470,SESS506547,58.0,Female,Chicago,Mobile,Organic,6.5,7.0,Fashion,249.66,Yes,No,No,No,,Night
+CUST01471,SESS890051,,Male,Singapore,Tablet,,2.7,1.0,Sports,132.06,No,Yes,No,Yes,Wallet,Night
+CUST01472,SESS659806,47.0,Other,New York,Desktop,Ads,1.4,1.0,Fashion,266.47,Yes,No,No,No,,Evening
+CUST01473,SESS362209,33.0,Male,Toronto,Mobile,Ads,9.2,3.0,Toys,,No,No,No,No,,Night
+CUST01474,SESS598107,20.0,Female,Phoenix,Mobile,Referral,3.8,1.0,Grocery,37.75,Yes,No,No,No,,Evening
+CUST01475,SESS311545,62.0,Female,New York,Mobile,Social,1.5,1.0,Fashion,262.68,No,No,No,No,,Evening
+CUST01476,SESS213042,58.0,Female,Toronto,Desktop,Ads,10.3,10.0,Books,12.92,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01477,SESS107777,21.0,Male,Toronto,Mobile,Referral,7.4,5.0,Toys,109.45,Yes,Yes,Yes,No,,Night
+CUST01478,SESS808687,19.0,Male,New York,Mobile,Ads,3.9,4.0,Grocery,18.33,No,Yes,No,Yes,Credit Card,Night
+CUST01479,SESS413002,28.0,Female,Houston,Desktop,Social,,13.0,Grocery,60.43,Yes,Yes,Yes,No,,Morning
+CUST01480,SESS549039,24.0,Female,Phoenix,Tablet,Ads,5.7,6.0,Books,41.11,Yes,Yes,No,No,,Night
+CUST01481,SESS935415,41.0,Female,Chicago,Mobile,Social,5.7,6.0,Grocery,77.84,No,No,No,No,,Afternoon
+CUST01482,SESS219369,42.0,Female,Houston,Mobile,Ads,4.9,5.0,Toys,187.5,Yes,Yes,Yes,No,,Night
+CUST01483,SESS209469,36.0,Male,Los Angeles,Mobile,,3.2,1.0,Fashion,282.61,No,No,No,No,,Evening
+CUST01484,SESS843504,29.0,Female,Phoenix,Mobile,,7.3,,Fashion,202.22,No,Yes,Yes,No,,Evening
+CUST01485,SESS778416,36.0,Female,Chicago,Desktop,Organic,20.9,13.0,Grocery,32.48,No,No,No,No,,Night
+CUST01486,SESS968126,43.0,Female,Houston,Mobile,Organic,2.7,1.0,Fashion,44.48,No,Yes,No,No,,Evening
+CUST01487,SESS486640,26.0,Other,Dubai,Mobile,Referral,3.1,2.0,Fashion,,No,No,No,No,,Evening
+CUST01488,SESS641125,53.0,Male,Chicago,Desktop,Referral,3.8,1.0,Electronics,742.18,No,No,No,No,,Afternoon
+CUST01489,SESS437670,40.0,Female,Toronto,Mobile,Social,4.7,,Home & Kitchen,465.24,No,Yes,Yes,No,,Afternoon
+CUST01490,SESS724387,22.0,Male,Chicago,Desktop,,13.7,9.0,Grocery,36.93,No,No,No,No,,Afternoon
+CUST01491,SESS285178,35.0,Female,New York,Mobile,Ads,41.3,22.0,Sports,81.63,No,Yes,No,Yes,Credit Card,Night
+CUST01492,SESS736691,,Other,New York,Mobile,Social,4.0,1.0,Grocery,51.87,No,No,No,No,,Morning
+CUST01493,SESS946127,44.0,Male,New York,Mobile,Ads,9.6,,Fashion,238.55,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01494,SESS489579,58.0,Female,Toronto,Desktop,Social,14.7,7.0,Fashion,32.61,No,No,No,No,,Afternoon
+CUST01495,SESS612324,20.0,Female,Singapore,Mobile,Organic,9.6,5.0,Books,14.41,Yes,Yes,No,No,,Morning
+CUST01496,SESS631355,19.0,Female,Los Angeles,Mobile,Organic,1.0,1.0,Fashion,144.11,No,Yes,Yes,No,,Morning
+CUST01497,SESS225770,60.0,Female,Houston,Mobile,Referral,1.3,,Fashion,31.59,No,Yes,No,No,,Morning
+CUST01498,SESS862690,18.0,Male,Dubai,Mobile,Social,2.7,1.0,Toys,,No,Yes,Yes,No,,Morning
+CUST01499,SESS117623,38.0,Female,Toronto,Tablet,Ads,2.8,5.0,Electronics,1145.81,Yes,Yes,Yes,No,,Evening
+CUST01500,SESS461729,59.0,Female,Chicago,Desktop,,6.4,5.0,Home & Kitchen,227.26,No,No,No,No,,Evening
+CUST01501,SESS678946,25.0,Male,Los Angeles,Desktop,Organic,3.9,1.0,Toys,56.37,Yes,No,No,No,,Night
+CUST01502,SESS197112,30.0,Female,Dubai,Desktop,Organic,1.7,3.0,Electronics,388.24,No,Yes,Yes,No,,Evening
+CUST01503,SESS628992,32.0,Female,Toronto,Mobile,Ads,2.2,3.0,Fashion,116.69,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST01504,SESS901257,40.0,Male,Phoenix,Mobile,Organic,4.5,2.0,Beauty,55.22,No,No,No,No,,Evening
+CUST01505,SESS161946,37.0,Male,New York,Desktop,Organic,1.9,3.0,Electronics,922.73,No,No,No,No,,Evening
+CUST01506,SESS601815,19.0,Female,Singapore,Desktop,Social,2.3,3.0,Fashion,252.29,No,No,No,No,,Evening
+CUST01507,SESS634539,39.0,Male,Chicago,Desktop,Ads,4.5,2.0,Grocery,56.48,No,No,No,No,,Night
+CUST01508,SESS714706,44.0,Male,Los Angeles,Desktop,Organic,2.0,1.0,Electronics,748.4,No,Yes,Yes,No,,Night
+CUST01509,SESS940668,58.0,Female,Los Angeles,Mobile,Social,13.6,7.0,Electronics,1177.01,No,No,No,No,,Afternoon
+CUST01510,SESS385477,61.0,Female,New York,Desktop,Referral,2.0,1.0,Beauty,82.23,No,Yes,Yes,No,,Afternoon
+CUST01511,SESS666467,38.0,Male,Dubai,Mobile,Organic,1.2,3.0,Electronics,118.71,Yes,Yes,Yes,No,,Afternoon
+CUST01512,SESS244188,31.0,Female,Chicago,Mobile,Ads,25.9,17.0,Sports,330.7,Yes,Yes,Yes,No,,Morning
+CUST01513,SESS536709,32.0,Female,Sydney,Mobile,Organic,8.3,7.0,Sports,120.38,Yes,Yes,No,No,,Evening
+CUST01514,SESS881925,19.0,Male,New York,Mobile,Referral,2.8,1.0,Electronics,1196.95,No,Yes,No,Yes,Wallet,Night
+CUST01515,SESS298491,21.0,Male,London,Desktop,Ads,6.4,5.0,Fashion,113.53,No,No,No,No,,Night
+CUST01516,SESS606392,59.0,Male,London,Mobile,Ads,8.0,6.0,Grocery,57.05,Yes,No,No,No,,Night
+CUST01517,SESS385370,32.0,Male,Chicago,Mobile,Organic,10.9,8.0,Grocery,8.66,No,No,No,No,,Night
+CUST01518,SESS992109,32.0,Female,Sydney,Mobile,Social,4.3,4.0,Electronics,252.23,No,No,No,No,,Evening
+CUST01519,SESS293624,41.0,Female,Sydney,Desktop,Ads,14.9,3.0,Fashion,,Yes,No,No,No,,Night
+CUST01520,SESS842253,32.0,Female,Los Angeles,Tablet,Referral,,4.0,Fashion,288.99,Yes,Yes,No,Yes,Cash on Delivery,Evening
+CUST01521,SESS494725,,Male,Singapore,Tablet,Ads,4.5,3.0,Books,12.8,Yes,Yes,Yes,No,,Evening
+CUST01522,SESS469234,23.0,Male,Toronto,Mobile,Ads,1.0,1.0,Sports,68.49,No,No,No,No,,Afternoon
+CUST01523,SESS944585,41.0,Other,New York,Mobile,Social,13.5,9.0,Fashion,105.56,Yes,No,No,No,,Evening
+CUST01524,SESS274917,26.0,Female,New York,Mobile,Ads,3.2,2.0,Fashion,251.36,Yes,No,No,No,,Evening
+CUST01525,SESS743133,29.0,Female,Chicago,Desktop,Social,4.3,4.0,Electronics,201.77,No,Yes,No,No,,Evening
+CUST01526,SESS928134,37.0,Male,Los Angeles,Tablet,Organic,7.8,3.0,Fashion,100.12,Yes,Yes,Yes,No,,Night
+CUST01527,SESS691993,43.0,Female,London,Mobile,Ads,4.0,5.0,Home & Kitchen,360.8,No,No,No,No,,Evening
+CUST01528,SESS347362,54.0,Female,Houston,Mobile,Organic,13.4,8.0,Grocery,40.55,No,Yes,No,Yes,Debit Card,Night
+CUST01529,SESS757439,49.0,Male,New York,Desktop,Ads,3.9,1.0,Toys,,Yes,Yes,Yes,No,,Evening
+CUST01530,SESS339624,31.0,Other,Chicago,Desktop,Organic,8.1,5.0,Grocery,12.25,No,No,No,No,,Evening
+CUST01531,SESS296425,21.0,Female,Phoenix,Mobile,Organic,5.9,2.0,Electronics,303.09,Yes,No,No,No,,Afternoon
+CUST01532,SESS532657,63.0,Female,Los Angeles,Mobile,Ads,2.1,1.0,Electronics,530.82,Yes,No,No,No,,Morning
+CUST01533,SESS990310,49.0,Other,Phoenix,Desktop,Ads,3.0,1.0,Fashion,139.73,Yes,Yes,No,No,,Morning
+CUST01534,SESS548479,33.0,Male,Sydney,Mobile,,11.5,10.0,Fashion,94.03,No,No,No,No,,Night
+CUST01535,SESS577208,24.0,Male,New York,Tablet,Ads,2.8,4.0,Beauty,68.09,No,No,No,No,,Morning
+CUST01536,SESS659425,55.0,Male,Chicago,Mobile,Organic,29.0,17.0,Grocery,25.87,No,Yes,No,Yes,Cash on Delivery,Evening
+CUST01537,SESS461379,63.0,Male,Toronto,Desktop,Organic,7.4,1.0,Beauty,22.14,No,Yes,Yes,No,,Morning
+CUST01538,SESS743927,57.0,Male,New York,Mobile,Organic,1.0,1.0,Electronics,1149.02,No,No,No,No,,Afternoon
+CUST01539,SESS504371,62.0,Female,New York,Desktop,Organic,12.7,5.0,Toys,114.96,Yes,Yes,Yes,No,,Morning
+CUST01540,SESS923352,45.0,Male,Singapore,Mobile,Social,1.7,2.0,Beauty,,No,No,No,No,,Afternoon
+CUST01541,SESS942083,29.0,Male,Toronto,Desktop,Organic,4.0,2.0,Electronics,,No,No,No,No,,Night
+CUST01542,SESS971036,60.0,Male,Houston,Mobile,Referral,8.1,7.0,Sports,242.24,Yes,Yes,Yes,No,,Evening
+CUST01543,SESS936398,,Male,Phoenix,Mobile,Social,9.9,3.0,Grocery,8.45,Yes,Yes,No,Yes,Cash on Delivery,Afternoon
+CUST01544,SESS521499,56.0,Male,Chicago,Tablet,,4.1,3.0,Fashion,210.59,Yes,Yes,No,No,,Morning
+CUST01545,SESS313439,54.0,Male,Chicago,Tablet,Ads,2.8,2.0,Electronics,792.86,No,No,No,No,,Evening
+CUST01546,SESS500049,32.0,Male,London,Desktop,Ads,1.0,1.0,Electronics,579.68,No,Yes,Yes,No,,Night
+CUST01547,SESS446043,46.0,Male,Houston,Desktop,Social,1.0,2.0,Sports,386.45,No,No,No,No,,Night
+CUST01548,SESS183239,38.0,Female,Sydney,Mobile,Social,14.2,11.0,Fashion,242.36,Yes,No,No,No,,Afternoon
+CUST01549,SESS654650,19.0,Female,Singapore,Desktop,Organic,6.6,6.0,Electronics,640.04,Yes,No,No,No,,Afternoon
+CUST01550,SESS698371,27.0,Male,Toronto,Desktop,Organic,19.5,,Books,10.68,Yes,Yes,No,Yes,Cash on Delivery,Night
+CUST01551,SESS403000,43.0,Male,Phoenix,Desktop,Ads,12.4,6.0,Fashion,289.77,Yes,Yes,Yes,No,,Evening
+CUST01552,SESS878305,58.0,Female,Los Angeles,Mobile,Social,4.3,2.0,Fashion,69.67,No,No,No,No,,Night
+CUST01553,SESS803528,60.0,Male,New York,Desktop,Referral,1.0,1.0,Toys,176.77,No,Yes,No,No,,Evening
+CUST01554,SESS632113,58.0,Male,Singapore,Desktop,Ads,7.7,7.0,Electronics,1018.89,No,No,No,No,,Evening
+CUST01555,SESS987291,,Male,Los Angeles,Mobile,Ads,1.2,1.0,Books,33.52,Yes,No,No,No,,Evening
+CUST01556,SESS578808,,Male,Singapore,Desktop,Social,16.4,9.0,Home & Kitchen,455.92,No,No,No,No,,Evening
+CUST01557,SESS297838,60.0,Male,Singapore,Mobile,Social,1.5,1.0,Books,37.28,Yes,Yes,Yes,No,,Night
+CUST01558,SESS638391,42.0,Male,London,Mobile,Ads,2.6,1.0,Fashion,236.71,No,No,No,No,,Afternoon
+CUST01559,SESS372062,48.0,Female,Singapore,Mobile,Ads,7.3,7.0,Sports,183.41,Yes,Yes,No,Yes,Credit Card,Evening
+CUST01560,SESS155424,60.0,Female,Phoenix,Mobile,Referral,3.7,1.0,Toys,169.42,No,No,No,No,,Morning
+CUST01561,SESS785604,60.0,Male,New York,Desktop,Referral,4.9,1.0,Books,47.34,Yes,No,No,No,,Morning
+CUST01562,SESS248901,35.0,Female,Phoenix,Tablet,Organic,8.4,5.0,Sports,315.43,No,No,No,No,,Afternoon
+CUST01563,SESS868073,45.0,Male,London,Mobile,Ads,9.0,3.0,Fashion,213.82,No,No,No,No,,Evening
+CUST01564,SESS305465,18.0,Male,New York,Desktop,Organic,5.9,,Books,9.84,No,Yes,No,Yes,Cash on Delivery,Night
+CUST01565,SESS188655,52.0,Male,Houston,Tablet,Social,1.3,2.0,Sports,318.69,No,No,No,No,,Night
+CUST01566,SESS192105,24.0,Male,Singapore,Desktop,Organic,5.7,3.0,Fashion,34.07,No,No,No,No,,Evening
+CUST01567,SESS884421,63.0,Female,London,Desktop,Ads,1.0,1.0,Beauty,22.81,Yes,Yes,No,No,,Afternoon
+CUST01568,SESS364322,,Male,Toronto,Mobile,Organic,2.0,3.0,Toys,170.47,No,No,No,No,,Morning
+CUST01569,SESS171464,44.0,Female,Chicago,Mobile,,6.7,3.0,Home & Kitchen,226.49,No,Yes,Yes,No,,Afternoon
+CUST01570,SESS580166,58.0,Female,Sydney,Desktop,Ads,16.3,6.0,Fashion,206.23,No,Yes,No,No,,Evening
+CUST01571,SESS819014,18.0,Male,Sydney,Mobile,Social,13.4,9.0,Toys,26.03,No,No,No,No,,Morning
+CUST01572,SESS924387,28.0,Male,Phoenix,Mobile,Social,14.5,9.0,Sports,337.45,Yes,No,No,No,,Morning
+CUST01573,SESS842346,27.0,Male,Chicago,Mobile,Social,,9.0,Home & Kitchen,453.89,Yes,Yes,Yes,No,,Morning
+CUST01574,SESS654745,28.0,Male,Chicago,Desktop,Social,7.9,5.0,Sports,194.05,No,No,No,No,,Night
+CUST01575,SESS444747,52.0,Male,Los Angeles,Tablet,Ads,9.1,7.0,Electronics,298.96,Yes,No,No,No,,Night
+CUST01576,SESS636651,36.0,Female,Chicago,Mobile,Ads,2.2,1.0,Sports,303.8,Yes,Yes,Yes,No,,Evening
+CUST01577,SESS826909,60.0,Female,London,Mobile,Referral,29.1,16.0,Sports,253.16,No,No,No,No,,Morning
+CUST01578,SESS372055,31.0,Male,Phoenix,Mobile,Organic,8.3,4.0,Electronics,137.09,No,No,No,No,,Morning
+CUST01579,SESS217364,,Male,Los Angeles,Mobile,,20.9,12.0,Electronics,,No,No,No,No,,Night
+CUST01580,SESS802204,63.0,Female,New York,Mobile,Referral,2.1,4.0,Books,52.61,No,Yes,No,No,,Afternoon
+CUST01581,SESS253827,59.0,Female,Chicago,Desktop,Social,5.0,4.0,Electronics,559.57,No,Yes,No,Yes,Credit Card,Evening
+CUST01582,SESS570010,45.0,Female,Toronto,Mobile,Organic,6.0,7.0,Electronics,153.3,Yes,Yes,Yes,No,,Afternoon
+CUST01583,SESS480889,54.0,Female,Houston,Desktop,Ads,28.8,18.0,Beauty,,No,Yes,No,No,,Afternoon
+CUST01584,SESS875476,36.0,Female,New York,Desktop,Organic,3.2,5.0,Grocery,39.42,No,Yes,No,No,,Evening
+CUST01585,SESS167684,50.0,Male,Chicago,Desktop,Social,8.3,7.0,Home & Kitchen,414.28,No,No,No,No,,Afternoon
+CUST01586,SESS327655,23.0,Male,Toronto,Desktop,Organic,1.0,3.0,Books,23.54,Yes,Yes,No,No,,Evening
+CUST01587,SESS763975,33.0,Female,London,Mobile,Organic,13.6,9.0,Fashion,299.25,No,No,No,No,,Afternoon
+CUST01588,SESS326852,60.0,Female,Phoenix,Mobile,Social,6.6,2.0,Electronics,417.38,No,No,No,No,,Evening
+CUST01589,SESS562390,25.0,Male,Houston,Mobile,Referral,17.1,12.0,Books,31.74,No,Yes,No,No,,Morning
+CUST01590,SESS460900,59.0,Female,Toronto,Mobile,Social,11.5,5.0,Beauty,62.77,No,Yes,No,Yes,Cash on Delivery,Night
+CUST01591,SESS663364,49.0,Male,Dubai,Desktop,Ads,4.8,4.0,Grocery,77.15,No,Yes,Yes,No,,Afternoon
+CUST01592,SESS484338,37.0,Male,Chicago,Mobile,Referral,6.0,2.0,Fashion,69.29,Yes,No,No,No,,Afternoon
+CUST01593,SESS326540,39.0,Male,Phoenix,Mobile,Referral,9.8,10.0,Books,41.23,No,Yes,No,Yes,Credit Card,Evening
+CUST01594,SESS558966,39.0,Female,Houston,Mobile,Social,4.0,3.0,Electronics,561.9,No,No,No,No,,Night
+CUST01595,SESS479431,61.0,Male,London,Mobile,Organic,13.5,7.0,Electronics,531.39,Yes,No,No,No,,Afternoon
+CUST01596,SESS681874,62.0,Female,Houston,Mobile,Organic,4.9,6.0,Home & Kitchen,38.74,No,No,No,No,,Night
+CUST01597,SESS827775,25.0,Male,London,Desktop,Organic,7.4,7.0,Toys,80.89,Yes,Yes,No,No,,Night
+CUST01598,SESS413011,41.0,Male,Singapore,Mobile,Social,16.0,,Electronics,168.47,No,No,No,No,,Evening
+CUST01599,SESS600864,21.0,Male,London,Desktop,Social,3.0,1.0,Sports,155.45,Yes,Yes,No,Yes,Credit Card,Afternoon
+CUST01600,SESS245709,25.0,Male,Singapore,Mobile,Organic,4.4,1.0,Beauty,139.24,No,No,No,No,,Night

@@ -1,0 +1,60 @@
+====================================================================
+LAPORAN SKENARIO KASUS DAN MASALAH DATA PREPROCESSING
+Dataset Sumber: E-commerce Customer Behavior (Kaggle)
+====================================================================
+
+1. LATAR BELAKANG PROYEK & KASUS BISNIS
+--------------------------------------------------------------------
+Sebuah perusahaan e-commerce fiktif ("MegaStore") mengumpulkan data rekam jejak perilaku belanja pelanggan untuk keperluan analisis pemasaran dan segmentasi pasar. Namun, data mentah yang diterima dari berbagai divisi operasional dan sistem pencatatan mengalami kerusakan (*data corruption*), inkonsistensi, serta kesalahan input yang parah sebelum dapat dianalisis lebih lanjut oleh tim Data Science.
+
+Dalam kolaborasi tugas ini, partner saya bertindak sebagai pihak yang merancang dan menyuntikkan berbagai anomali data, sementara tugas saya adalah mendeteksi, mendiagnosis, dan membersihkan seluruh masalah tersebut melalui tahapan Data Preprocessing.
+
+
+2. KARAKTERISTIK DATASET
+--------------------------------------------------------------------
+- Jumlah Baris Data: 110 baris (> 100 data)
+- Jumlah Variabel: 9 variabel (campuran numerik dan kategorik)
+- Daftar Variabel:
+  1. CustomerID (Kategorik / Identitas)
+  2. Age (Numerik)
+  3. Gender (Kategorik)
+  4. City (Kategorik)
+  5. AnnualIncome_USD (Numerik)
+  6. SpendingScore (Numerik)
+  7. MembershipType (Kategorik)
+  8. PurchaseAmount_USD (Numerik)
+  9. FeedbackCategory (Kategorik)
+
+
+3. DAFTAR MASALAH DATA (DATA QUALITY ISSUES) YANG HARUS DISELESAIKAN
+--------------------------------------------------------------------
+Berdasarkan data kotor yang diterima dari partner, terdapat beberapa kategori masalah Data Preprocessing yang harus ditangani:
+
+A. Missing Values (Nilai Kosong)
+   - Terdapat nilai NaN / kosong pada variabel numerik (seperti Age, AnnualIncome_USD, SpendingScore, PurchaseAmount_USD).
+   - Terdapat nilai NaN / kosong pada variabel kategorik (seperti Gender, City, MembershipType, FeedbackCategory).
+
+B. Inkonsistensi Teks & Typo (Variabel Kategorik)
+   - Variabel `Gender`: Penulisan tidak seragam (terdapat variasi seperti 'Male', 'm', 'F', 'f', 'Laki-laki').
+   - Variabel `City`: Terdapat kesalahan ketik (*typo*), singkatan, dan spasi berlebih (contoh: 'jkt', 'Jakarta ', 'sby', 'BANDUNG').
+   - Variabel `MembershipType`: Perbedaan format kapitalisasi dan spasi (contoh: 'bronze ', 'GOLD', 'silver').
+
+C. Outlier & Anomali (Variabel Numerik)
+   - Variabel `Age`: Ditemukan nilai tidak masuk akal seperti usia negatif (-5) dan usia ekstrem (165).
+   - Variabel `AnnualIncome_USD`: Ditemukan nilai pendapatan ekstrem yang tidak wajar.
+   - Variabel `SpendingScore`: Ditemukan skor di luar rentang valid (misalnya > 100).
+   - Variabel `PurchaseAmount_USD`: Ditemukan nilai transaksi bernilai negatif.
+
+D. Data Duplikat (Duplicate Rows)
+   - Terdapat beberapa baris data transaksi yang tercatat ganda (*duplicate rows*) akibat kesalahan jaringan sistem.
+
+
+4. TARGET PENYELESAIAN (DATA CLEANING WORKFLOW)
+--------------------------------------------------------------------
+Sebagai penerima data, langkah pembersihan yang wajib dilakukan meliputi:
+1. Melakukan Exploratory Data Analysis (EDA) untuk menginspeksi struktur dan letak kerusakan data.
+2. Menangani missing values dengan teknik imputasi (Mean/Median untuk numerik, Modus untuk kategorik) atau penghapusan yang selektif.
+3. Melakukan standarisasi teks (menghapus spasi, menyamakan huruf besar/kecil, dan pemetaan kategori).
+4. Mendeteksi dan membersihkan outlier menggunakan metode statistik (IQR/Z-score).
+5. Menghapus baris duplikat menggunakan fungsi pembersihan data yang sesuai.
+6. Menyimpan hasil akhir menjadi Clean Dataset yang siap digunakan untuk pemodelan lebih lanjut.
